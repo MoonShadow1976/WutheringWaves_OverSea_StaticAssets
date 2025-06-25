@@ -1,1 +1,1 @@
-var mlList = [{ "id": "1", "order": "HAPPY", "reward": "星声*50", "label": "测试", "type": "", "is_fail": "0", "is_update": "1", "tip": "0", "qufu": "0", "author": "", "create_time": "05-30", "begin_time": "0", "over_time": "0", "is_cur_month": "0" }];
+var mlList = [{ "id": "1", "order": "WUTHERINGGIFT", "reward": "星声*50、贝币*10000、特级共鸣促剂*2、中级复苏吸雾*2、中级能量袋*2", "label": "国际服专属长期兑换码", "type": "", "is_fail": "0", "is_update": "1", "tip": "0", "qufu": "0", "author": "", "create_time": "05-30", "begin_time": "0", "over_time": "0", "is_cur_month": "0" }];
