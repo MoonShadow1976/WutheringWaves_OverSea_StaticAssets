@@ -1,0 +1,63 @@
+name: Purge jsDelivr Cache on Update
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'js/oversea_codes.js'
+      - 'images/calendar.jpg'
+  workflow_dispatch:
+
+jobs:
+  check-changes:
+    name: Check for changed files
+    runs-on: ubuntu-latest
+    outputs: # 定义这个job的输出变量，供后续job使用
+      js_changed: ${{ steps.check-files.outputs.js_changed }}
+      jpg_changed: ${{ steps.check-files.outputs.jpg_changed }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        # 获取最近2次提交以进行变更比较
+        with:
+          fetch-depth: 2
+
+      - name: Check modified files
+        id: check-files # 为此步骤设置ID，以便后续引用其输出
+        run: |
+          # 检查 js/oversea_codes.js 是否在本次提交中发生了变更
+          if git diff --name-only HEAD~1 HEAD | grep -q "^js/oversea_codes.js$"; then
+            echo "js_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "js_changed=false" >> $GITHUB_OUTPUT
+          fi
+
+          # 检查 images/calendar.jpg 是否在本次提交中发生了变更
+          if git diff --name-only HEAD~1 HEAD | grep -q "^images/calendar.jpg$"; then
+            echo "jpg_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "jpg_changed=false" >> $GITHUB_OUTPUT
+          fi
+
+  purge-cache:
+    name: Purge jsDelivr Cache (Conditional)
+    runs-on: ubuntu-latest
+    needs: check-changes # 确保此job在 check-changes job完成后运行
+    steps:
+      - name: Purge oversea_codes.js (if changed)
+        if: needs.check-changes.outputs.js_changed == 'true' # 仅在JS文件变更时运行此步骤
+        run: |
+          echo "Purging JS file..."
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@latest/js/oversea_codes.js"
+        continue-on-error: true
+
+      - name: Purge calendar.jpg (if changed)
+        if: needs.check-changes.outputs.jpg_changed == 'true' # 仅在JPG文件变更时运行此步骤
+        run: |
+          echo "Purging Image file..."
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@latest/images/calendar.jpg"
+        continue-on-error: true
+
+      - name: Notify if no changes
+        if: needs.check-changes.outputs.js_changed != 'true' && needs.check-changes.outputs.jpg_changed != 'true'
+        run: echo "ℹ️ No targeted files were changed in the latest commit. Skipping purge."
