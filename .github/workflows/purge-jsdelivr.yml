@@ -12,52 +12,82 @@ jobs:
   check-changes:
     name: Check for changed files
     runs-on: ubuntu-latest
-    outputs: # 定义这个job的输出变量，供后续job使用
+    outputs:
       js_changed: ${{ steps.check-files.outputs.js_changed }}
       jpg_changed: ${{ steps.check-files.outputs.jpg_changed }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        # 获取最近2次提交以进行变更比较
         with:
-          fetch-depth: 2
+          fetch-depth: 0  # 获取完整历史以便准确比较
 
       - name: Check modified files
-        id: check-files # 为此步骤设置ID，以便后续引用其输出
+        id: check-files
         run: |
-          # 检查 js/oversea_codes.js 是否在本次提交中发生了变更
-          if git diff --name-only HEAD~1 HEAD | grep -q "^js/oversea_codes.js$"; then
+          # 更可靠的变更检测方法
+          echo "Last commit: $(git log -1 --oneline)"
+          echo "Previous commit: $(git log -2 --oneline | tail -1)"
+          
+          # 使用更精确的git命令检测变更
+          if git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep -q "^js/oversea_codes.js$"; then
             echo "js_changed=true" >> $GITHUB_OUTPUT
+            echo "✅ JS file was changed"
           else
             echo "js_changed=false" >> $GITHUB_OUTPUT
+            echo "❌ JS file was not changed"
           fi
 
-          # 检查 images/calendar.jpg 是否在本次提交中发生了变更
-          if git diff --name-only HEAD~1 HEAD | grep -q "^images/calendar.jpg$"; then
+          if git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep -q "^images/calendar.jpg$"; then
             echo "jpg_changed=true" >> $GITHUB_OUTPUT
+            echo "✅ JPG file was changed"
           else
             echo "jpg_changed=false" >> $GITHUB_OUTPUT
+            echo "❌ JPG file was not changed"
           fi
+          
+          # 调试信息：显示所有变更的文件
+          echo "All changed files:"
+          git diff --name-only ${{ github.event.before }} ${{ github.event.after }} || echo "无法获取变更文件列表"
 
   purge-cache:
     name: Purge jsDelivr Cache (Conditional)
     runs-on: ubuntu-latest
-    needs: check-changes # 确保此job在 check-changes job完成后运行
+    needs: check-changes
+    # 只有当文件真正变更时才运行此job
+    if: needs.check-changes.outputs.js_changed == 'true' || needs.check-changes.outputs.jpg_changed == 'true'
     steps:
       - name: Purge oversea_codes.js (if changed)
-        if: needs.check-changes.outputs.js_changed == 'true' # 仅在JS文件变更时运行此步骤
+        if: needs.check-changes.outputs.js_changed == 'true'
         run: |
-          echo "Purging JS file..."
-          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@latest/js/oversea_codes.js"
-        continue-on-error: true
+          echo "🔄 Purging JS file from jsDelivr cache..."
+          response=$(curl -s -w "%{http_code}" "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/js/oversea_codes.js")
+          http_code=${response: -3}
+          if [ "$http_code" = "200" ]; then
+            echo "✅ Successfully purged JS file cache"
+          else
+            echo "❌ Failed to purge JS file cache. HTTP code: $http_code"
+          fi
 
       - name: Purge calendar.jpg (if changed)
-        if: needs.check-changes.outputs.jpg_changed == 'true' # 仅在JPG文件变更时运行此步骤
+        if: needs.check-changes.outputs.jpg_changed == 'true'
         run: |
-          echo "Purging Image file..."
-          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@latest/images/calendar.jpg"
-        continue-on-error: true
+          echo "🔄 Purging Image file from jsDelivr cache..."
+          response=$(curl -s -w "%{http_code}" "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/images/calendar.jpg")
+          http_code=${response: -3}
+          if [ "$http_code" = "200" ]; then
+            echo "✅ Successfully purged Image file cache"
+          else
+            echo "❌ Failed to purge Image file cache. HTTP code: $http_code"
+          fi
 
-      - name: Notify if no changes
-        if: needs.check-changes.outputs.js_changed != 'true' && needs.check-changes.outputs.jpg_changed != 'true'
-        run: echo "ℹ️ No targeted files were changed in the latest commit. Skipping purge."
+  no-changes:
+    name: No changes detected
+    runs-on: ubuntu-latest
+    needs: check-changes
+    # 只有当没有文件变更时才运行此job
+    if: needs.check-changes.outputs.js_changed != 'true' && needs.check-changes.outputs.jpg_changed != 'true'
+    steps:
+      - name: Notify no changes
+        run: |
+          echo "ℹ️ No targeted files (js/oversea_codes.js or images/calendar.jpg) were changed in this commit."
+          echo "Skipping cache purge."
