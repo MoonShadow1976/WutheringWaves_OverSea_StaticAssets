@@ -1,0 +1,5076 @@
+{
+  "name": "role_detail",
+  "last_updated": "2025-12-01T13:39:15Z",
+  "files": [
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1202/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1202/skill_6.png",
+      "size": 2332
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1202/skill_12.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1202/skill_1.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1202/skill_9.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1202/skill_3.png",
+      "size": 5730
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1202/skill_7.png",
+      "size": 4352
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1202/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1202/skill_2.png",
+      "size": 2386
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1202/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1202/skill_4.png",
+      "size": 5048
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1202/skill_16.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1202/skill_5.png",
+      "size": 5186
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1202/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1202/skill_13.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1202/skill_8.png",
+      "size": 2644
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1208/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1208/skill_6.png",
+      "size": 4146
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1208/skill_12.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1208/skill_1.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1208/skill_9.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1208/skill_3.png",
+      "size": 5212
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1208/skill_7.png",
+      "size": 4704
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1208/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1208/skill_2.png",
+      "size": 4730
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1208/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1208/skill_4.png",
+      "size": 4418
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1208/skill_16.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1208/skill_5.png",
+      "size": 2768
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1208/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1208/skill_13.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1208/skill_8.png",
+      "size": 2862
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1102/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1102/skill_6.png",
+      "size": 5490
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1102/skill_12.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1102/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1102/skill_9.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1102/skill_3.png",
+      "size": 4368
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1102/skill_7.png",
+      "size": 4508
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1102/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1102/skill_2.png",
+      "size": 5972
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1102/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1102/skill_4.png",
+      "size": 5372
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1102/skill_16.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1102/skill_5.png",
+      "size": 5080
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1102/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1102/skill_13.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1102/skill_8.png",
+      "size": 4340
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1608/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1608/skill_6.png",
+      "size": 3246
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1608/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1608/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1608/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1608/skill_3.png",
+      "size": 3138
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1608/skill_7.png",
+      "size": 4536
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1608/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1608/skill_2.png",
+      "size": 2768
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1608/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1608/skill_4.png",
+      "size": 3902
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1608/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1608/skill_5.png",
+      "size": 3516
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1608/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1608/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1608/skill_8.png",
+      "size": 4614
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1607/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1607/skill_6.png",
+      "size": 3980
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1607/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1607/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1607/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1607/skill_3.png",
+      "size": 4792
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1607/skill_7.png",
+      "size": 4964
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1607/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1607/skill_2.png",
+      "size": 3672
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1607/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1607/skill_4.png",
+      "size": 3056
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1607/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1607/skill_5.png",
+      "size": 3340
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1607/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1607/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1607/skill_8.png",
+      "size": 3674
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1103/skill_15.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1103/skill_6.png",
+      "size": 3776
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1103/skill_12.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1103/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1103/skill_9.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1103/skill_3.png",
+      "size": 3336
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1103/skill_7.png",
+      "size": 3756
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1103/skill_14.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1103/skill_2.png",
+      "size": 2972
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1103/skill_10.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1103/skill_4.png",
+      "size": 4610
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1103/skill_16.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1103/skill_5.png",
+      "size": 4620
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1103/skill_11.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1103/skill_13.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1103/skill_8.png",
+      "size": 3676
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1403/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1403/skill_6.png",
+      "size": 3480
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1403/skill_12.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1403/skill_1.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1403/skill_9.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1403/skill_3.png",
+      "size": 4136
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1403/skill_7.png",
+      "size": 3748
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1403/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1403/skill_2.png",
+      "size": 3980
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1403/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1403/skill_4.png",
+      "size": 2242
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1403/skill_16.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1403/skill_5.png",
+      "size": 3030
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1403/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1403/skill_13.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1403/skill_8.png",
+      "size": 3688
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1502/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1502/skill_6.png",
+      "size": 5664
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1502/skill_12.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1502/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1502/skill_9.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1502/skill_3.png",
+      "size": 6870
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1502/skill_7.png",
+      "size": 4202
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1502/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1502/skill_2.png",
+      "size": 5892
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1502/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1502/skill_4.png",
+      "size": 4114
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1502/skill_16.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1502/skill_5.png",
+      "size": 3746
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1502/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1502/skill_13.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1502/skill_8.png",
+      "size": 3294
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1410/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1410/skill_6.png",
+      "size": 4398
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1410/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1410/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1410/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1410/skill_3.png",
+      "size": 5018
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1410/skill_7.png",
+      "size": 6360
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1410/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1410/skill_2.png",
+      "size": 4046
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1410/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1410/skill_4.png",
+      "size": 5588
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1410/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1410/skill_5.png",
+      "size": 5374
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1410/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1410/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1410/skill_8.png",
+      "size": 3858
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1305/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1305/skill_6.png",
+      "size": 4186
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1305/skill_12.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1305/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1305/skill_9.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1305/skill_3.png",
+      "size": 3690
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1305/skill_7.png",
+      "size": 4234
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1305/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1305/skill_2.png",
+      "size": 3214
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1305/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1305/skill_4.png",
+      "size": 3750
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1305/skill_16.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1305/skill_5.png",
+      "size": 3074
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1305/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1305/skill_13.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1305/skill_8.png",
+      "size": 2128
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1408/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1408/skill_6.png",
+      "size": 3520
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1408/skill_12.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1408/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1408/skill_9.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1408/skill_3.png",
+      "size": 4150
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1408/skill_7.png",
+      "size": 5050
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1408/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1408/skill_2.png",
+      "size": 4092
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1408/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1408/skill_4.png",
+      "size": 3540
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1408/skill_16.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1408/skill_5.png",
+      "size": 4244
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1408/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1408/skill_13.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1408/skill_8.png",
+      "size": 3780
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1304/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1304/skill_6.png",
+      "size": 4712
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1304/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1304/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1304/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1304/skill_3.png",
+      "size": 3952
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1304/skill_7.png",
+      "size": 4048
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1304/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1304/skill_2.png",
+      "size": 3434
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1304/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1304/skill_4.png",
+      "size": 3560
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1304/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1304/skill_5.png",
+      "size": 3756
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1304/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1304/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1304/skill_8.png",
+      "size": 4904
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1507/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1507/skill_6.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1507/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1507/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1507/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1507/skill_3.png",
+      "size": 4362
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1507/skill_7.png",
+      "size": 5736
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1507/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1507/skill_2.png",
+      "size": 5618
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1507/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1507/skill_4.png",
+      "size": 4064
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1507/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1507/skill_5.png",
+      "size": 4178
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1507/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1507/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1507/skill_8.png",
+      "size": 3188
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1104/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1104/skill_6.png",
+      "size": 4510
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1104/skill_12.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1104/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1104/skill_9.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1104/skill_3.png",
+      "size": 4360
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1104/skill_7.png",
+      "size": 5620
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1104/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1104/skill_2.png",
+      "size": 2038
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1104/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1104/skill_4.png",
+      "size": 4620
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1104/skill_16.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1104/skill_5.png",
+      "size": 4216
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1104/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1104/skill_13.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1104/skill_8.png",
+      "size": 2780
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1303/skill_15.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1303/skill_6.png",
+      "size": 3642
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1303/skill_12.png",
+      "size": 5024
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1303/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1303/skill_9.png",
+      "size": 5024
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1303/skill_3.png",
+      "size": 3438
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1303/skill_7.png",
+      "size": 3644
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1303/skill_14.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1303/skill_2.png",
+      "size": 3336
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1303/skill_10.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1303/skill_4.png",
+      "size": 3108
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1303/skill_16.png",
+      "size": 5024
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1303/skill_5.png",
+      "size": 3126
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1303/skill_11.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1303/skill_13.png",
+      "size": 5024
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1303/skill_8.png",
+      "size": 3818
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1106/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1106/skill_6.png",
+      "size": 4196
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1106/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1106/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1106/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1106/skill_3.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1106/skill_7.png",
+      "size": 4724
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1106/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1106/skill_2.png",
+      "size": 3140
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1106/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1106/skill_4.png",
+      "size": 3254
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1106/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1106/skill_5.png",
+      "size": 3342
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1106/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1106/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1106/skill_8.png",
+      "size": 3768
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1501/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1501/skill_6.png",
+      "size": 5664
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1501/skill_12.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1501/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1501/skill_9.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1501/skill_3.png",
+      "size": 6870
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1501/skill_7.png",
+      "size": 4202
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1501/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1501/skill_2.png",
+      "size": 5892
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1501/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1501/skill_4.png",
+      "size": 4114
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1501/skill_16.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1501/skill_5.png",
+      "size": 3746
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1501/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1501/skill_13.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1501/skill_8.png",
+      "size": 3294
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1409/skill_15.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1409/skill_6.png",
+      "size": 3874
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1409/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1409/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1409/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1409/skill_3.png",
+      "size": 5562
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1409/skill_7.png",
+      "size": 5546
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1409/skill_14.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1409/skill_2.png",
+      "size": 4994
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1409/skill_10.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1409/skill_4.png",
+      "size": 5818
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1409/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1409/skill_5.png",
+      "size": 4896
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1409/skill_11.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1409/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1409/skill_8.png",
+      "size": 3334
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1505/skill_15.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1505/skill_6.png",
+      "size": 3900
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1505/skill_12.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1505/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1505/skill_9.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1505/skill_3.png",
+      "size": 5590
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1505/skill_7.png",
+      "size": 4944
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1505/skill_14.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1505/skill_2.png",
+      "size": 3698
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1505/skill_10.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1505/skill_4.png",
+      "size": 3010
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1505/skill_16.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1505/skill_5.png",
+      "size": 5180
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1505/skill_11.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1505/skill_13.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1505/skill_8.png",
+      "size": 5390
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1604/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1604/skill_6.png",
+      "size": 3398
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1604/skill_12.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1604/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1604/skill_9.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1604/skill_3.png",
+      "size": 3034
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1604/skill_7.png",
+      "size": 5778
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1604/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1604/skill_2.png",
+      "size": 2588
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1604/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1604/skill_4.png",
+      "size": 3554
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1604/skill_16.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1604/skill_5.png",
+      "size": 3178
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1604/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1604/skill_13.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1604/skill_8.png",
+      "size": 2892
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1406/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1406/skill_6.png",
+      "size": 3520
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1406/skill_12.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1406/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1406/skill_9.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1406/skill_3.png",
+      "size": 4150
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1406/skill_7.png",
+      "size": 5050
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1406/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1406/skill_2.png",
+      "size": 4092
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1406/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1406/skill_4.png",
+      "size": 3540
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1406/skill_16.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1406/skill_5.png",
+      "size": 4244
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1406/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1406/skill_13.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1406/skill_8.png",
+      "size": 3780
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1603/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1603/skill_6.png",
+      "size": 4036
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1603/skill_12.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1603/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1603/skill_9.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1603/skill_3.png",
+      "size": 3758
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1603/skill_7.png",
+      "size": 4832
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1603/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1603/skill_2.png",
+      "size": 4936
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1603/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1603/skill_4.png",
+      "size": 3974
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1603/skill_16.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1603/skill_5.png",
+      "size": 3386
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1603/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1603/skill_13.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1603/skill_8.png",
+      "size": 3726
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1606/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1606/skill_6.png",
+      "size": 4296
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1606/skill_12.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1606/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1606/skill_9.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1606/skill_3.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1606/skill_7.png",
+      "size": 5120
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1606/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1606/skill_2.png",
+      "size": 4006
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1606/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1606/skill_4.png",
+      "size": 3922
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1606/skill_16.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1606/skill_5.png",
+      "size": 4404
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1606/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1606/skill_13.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1606/skill_8.png",
+      "size": 3630
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1302/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1302/skill_6.png",
+      "size": 4466
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1302/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1302/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1302/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1302/skill_3.png",
+      "size": 4784
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1302/skill_7.png",
+      "size": 4464
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1302/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1302/skill_2.png",
+      "size": 4928
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1302/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1302/skill_4.png",
+      "size": 2438
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1302/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1302/skill_5.png",
+      "size": 3616
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1302/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1302/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1302/skill_8.png",
+      "size": 2386
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1301/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1301/skill_6.png",
+      "size": 3318
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1301/skill_12.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1301/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1301/skill_9.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1301/skill_3.png",
+      "size": 5384
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1301/skill_7.png",
+      "size": 4662
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1301/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1301/skill_2.png",
+      "size": 3180
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1301/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1301/skill_4.png",
+      "size": 4746
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1301/skill_16.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1301/skill_5.png",
+      "size": 5186
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1301/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1301/skill_13.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1301/skill_8.png",
+      "size": 3054
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1601/skill_15.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1601/skill_6.png",
+      "size": 6410
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1601/skill_12.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1601/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1601/skill_9.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1601/skill_3.png",
+      "size": 6040
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1601/skill_7.png",
+      "size": 4142
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1601/skill_14.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1601/skill_2.png",
+      "size": 6008
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1601/skill_10.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1601/skill_4.png",
+      "size": 5214
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1601/skill_16.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1601/skill_5.png",
+      "size": 5426
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1601/skill_11.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1601/skill_13.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1601/skill_8.png",
+      "size": 3572
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1402/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1402/skill_6.png",
+      "size": 4530
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1402/skill_12.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1402/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1402/skill_9.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1402/skill_3.png",
+      "size": 6716
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1402/skill_7.png",
+      "size": 3622
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1402/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1402/skill_2.png",
+      "size": 6748
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1402/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1402/skill_4.png",
+      "size": 4608
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1402/skill_16.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1402/skill_5.png",
+      "size": 3634
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1402/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1402/skill_13.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1402/skill_8.png",
+      "size": 2692
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1107/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1107/skill_6.png",
+      "size": 3982
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1107/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1107/skill_1.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1107/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1107/skill_3.png",
+      "size": 3430
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1107/skill_7.png",
+      "size": 4472
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1107/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1107/skill_2.png",
+      "size": 4882
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1107/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1107/skill_4.png",
+      "size": 3402
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1107/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1107/skill_5.png",
+      "size": 2454
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1107/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1107/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1107/skill_8.png",
+      "size": 3716
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1203/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1203/skill_6.png",
+      "size": 5452
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1203/skill_12.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1203/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1203/skill_9.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1203/skill_3.png",
+      "size": 5484
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1203/skill_7.png",
+      "size": 4576
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1203/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1203/skill_2.png",
+      "size": 4998
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1203/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1203/skill_4.png",
+      "size": 4986
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1203/skill_16.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1203/skill_5.png",
+      "size": 5182
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1203/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1203/skill_13.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1203/skill_8.png",
+      "size": 2378
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1204/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1204/skill_6.png",
+      "size": 3246
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1204/skill_12.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1204/skill_1.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1204/skill_9.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1204/skill_3.png",
+      "size": 4018
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1204/skill_7.png",
+      "size": 3694
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1204/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1204/skill_2.png",
+      "size": 4640
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1204/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1204/skill_4.png",
+      "size": 3702
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1204/skill_16.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1204/skill_5.png",
+      "size": 3642
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1204/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1204/skill_13.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1204/skill_8.png",
+      "size": 4004
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1605/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1605/skill_6.png",
+      "size": 3398
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1605/skill_12.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1605/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1605/skill_9.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1605/skill_3.png",
+      "size": 3034
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1605/skill_7.png",
+      "size": 5778
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1605/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1605/skill_2.png",
+      "size": 2588
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1605/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1605/skill_4.png",
+      "size": 3554
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1605/skill_16.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1605/skill_5.png",
+      "size": 3178
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1605/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1605/skill_13.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1605/skill_8.png",
+      "size": 2892
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1405/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1405/skill_6.png",
+      "size": 2054
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1405/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1405/skill_1.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1405/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1405/skill_3.png",
+      "size": 2666
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1405/skill_7.png",
+      "size": 4288
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1405/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1405/skill_2.png",
+      "size": 3522
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1405/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1405/skill_4.png",
+      "size": 3848
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1405/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1405/skill_5.png",
+      "size": 2944
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1405/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1405/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1405/skill_8.png",
+      "size": 3348
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1602/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1602/skill_6.png",
+      "size": 5514
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1602/skill_12.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1602/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1602/skill_9.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1602/skill_3.png",
+      "size": 6372
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1602/skill_7.png",
+      "size": 3922
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1602/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1602/skill_2.png",
+      "size": 6710
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1602/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1602/skill_4.png",
+      "size": 3830
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1602/skill_16.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1602/skill_5.png",
+      "size": 3826
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1602/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1602/skill_13.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1602/skill_8.png",
+      "size": 4024
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1411/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1411/skill_6.png",
+      "size": 3544
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1411/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1411/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1411/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1411/skill_3.png",
+      "size": 4622
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1411/skill_7.png",
+      "size": 4164
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1411/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1411/skill_2.png",
+      "size": 3854
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1411/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1411/skill_4.png",
+      "size": 4036
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1411/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1411/skill_5.png",
+      "size": 4272
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1411/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1411/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1411/skill_8.png",
+      "size": 3994
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1205/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1205/skill_6.png",
+      "size": 5298
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1205/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1205/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1205/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1205/skill_3.png",
+      "size": 5374
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1205/skill_7.png",
+      "size": 5242
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1205/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1205/skill_2.png",
+      "size": 4352
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1205/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1205/skill_4.png",
+      "size": 3034
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1205/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1205/skill_5.png",
+      "size": 4258
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1205/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1205/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1205/skill_8.png",
+      "size": 3522
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1504/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1504/skill_6.png",
+      "size": 4134
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1504/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1504/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1504/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1504/skill_3.png",
+      "size": 5534
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1504/skill_7.png",
+      "size": 4436
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1504/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1504/skill_2.png",
+      "size": 3980
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1504/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1504/skill_4.png",
+      "size": 4120
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1504/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1504/skill_5.png",
+      "size": 4324
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1504/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1504/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1504/skill_8.png",
+      "size": 4472
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1105/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1105/skill_6.png",
+      "size": 3116
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1105/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1105/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1105/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1105/skill_3.png",
+      "size": 3364
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1105/skill_7.png",
+      "size": 3922
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1105/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1105/skill_2.png",
+      "size": 2972
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1105/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1105/skill_4.png",
+      "size": 3378
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1105/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1105/skill_5.png",
+      "size": 3880
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1105/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1105/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1105/skill_8.png",
+      "size": 3348
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1508/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1508/skill_6.png",
+      "size": 3056
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1508/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1508/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1508/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1508/skill_3.png",
+      "size": 4144
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1508/skill_7.png",
+      "size": 4744
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1508/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1508/skill_2.png",
+      "size": 2544
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1508/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1508/skill_4.png",
+      "size": 4630
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1508/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1508/skill_5.png",
+      "size": 3296
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1508/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1508/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1508/skill_8.png",
+      "size": 2070
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1207/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1207/skill_6.png",
+      "size": 3354
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1207/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1207/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1207/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1207/skill_3.png",
+      "size": 3010
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1207/skill_7.png",
+      "size": 3274
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1207/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1207/skill_2.png",
+      "size": 2808
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1207/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1207/skill_4.png",
+      "size": 3040
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1207/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1207/skill_5.png",
+      "size": 2554
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1207/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1207/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1207/skill_8.png",
+      "size": 3396
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1506/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1506/skill_6.png",
+      "size": 5472
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1506/skill_12.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1506/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1506/skill_9.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1506/skill_3.png",
+      "size": 3622
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1506/skill_7.png",
+      "size": 4908
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1506/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1506/skill_2.png",
+      "size": 4626
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1506/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1506/skill_4.png",
+      "size": 4334
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1506/skill_16.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1506/skill_5.png",
+      "size": 3880
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1506/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1506/skill_13.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1506/skill_8.png",
+      "size": 4840
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1306/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1306/skill_6.png",
+      "size": 3010
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1306/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1306/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1306/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1306/skill_3.png",
+      "size": 3154
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1306/skill_7.png",
+      "size": 4262
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1306/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1306/skill_2.png",
+      "size": 2954
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1306/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1306/skill_4.png",
+      "size": 2554
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1306/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1306/skill_5.png",
+      "size": 3172
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1306/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1306/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1306/skill_8.png",
+      "size": 3228
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1206/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1206/skill_6.png",
+      "size": 3692
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1206/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1206/skill_1.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1206/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1206/skill_3.png",
+      "size": 5906
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1206/skill_7.png",
+      "size": 5302
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1206/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1206/skill_2.png",
+      "size": 3464
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1206/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1206/skill_4.png",
+      "size": 3066
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1206/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1206/skill_5.png",
+      "size": 2904
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1206/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1206/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1206/skill_8.png",
+      "size": 4976
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1404/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1404/skill_6.png",
+      "size": 2882
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1404/skill_12.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1404/skill_1.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1404/skill_9.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1404/skill_3.png",
+      "size": 3486
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1404/skill_7.png",
+      "size": 5338
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1404/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1404/skill_2.png",
+      "size": 3074
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1404/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1404/skill_4.png",
+      "size": 3214
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1404/skill_16.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1404/skill_5.png",
+      "size": 3218
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1404/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1404/skill_13.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1404/skill_8.png",
+      "size": 3954
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1307/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1307/skill_6.png",
+      "size": 3664
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1307/skill_12.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1307/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1307/skill_9.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1307/skill_3.png",
+      "size": 4156
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1307/skill_7.png",
+      "size": 4620
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1307/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1307/skill_2.png",
+      "size": 4220
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1307/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1307/skill_4.png",
+      "size": 3124
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1307/skill_16.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1307/skill_5.png",
+      "size": 3204
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1307/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1307/skill_13.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1307/skill_8.png",
+      "size": 4922
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1407/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1407/skill_6.png",
+      "size": 3324
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1407/skill_12.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1407/skill_1.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1407/skill_9.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1407/skill_3.png",
+      "size": 4584
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1407/skill_7.png",
+      "size": 5684
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1407/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1407/skill_2.png",
+      "size": 3986
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1407/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1407/skill_4.png",
+      "size": 3246
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1407/skill_16.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1407/skill_5.png",
+      "size": 4882
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1407/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1407/skill_13.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1407/skill_8.png",
+      "size": 3836
+    },
+    {
+      "name": "skill_15.png",
+      "path": "role_detail/skill/1503/skill_15.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_6.png",
+      "path": "role_detail/skill/1503/skill_6.png",
+      "size": 4232
+    },
+    {
+      "name": "skill_12.png",
+      "path": "role_detail/skill/1503/skill_12.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_1.png",
+      "path": "role_detail/skill/1503/skill_1.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_9.png",
+      "path": "role_detail/skill/1503/skill_9.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_3.png",
+      "path": "role_detail/skill/1503/skill_3.png",
+      "size": 7672
+    },
+    {
+      "name": "skill_7.png",
+      "path": "role_detail/skill/1503/skill_7.png",
+      "size": 4314
+    },
+    {
+      "name": "skill_14.png",
+      "path": "role_detail/skill/1503/skill_14.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_2.png",
+      "path": "role_detail/skill/1503/skill_2.png",
+      "size": 4772
+    },
+    {
+      "name": "skill_10.png",
+      "path": "role_detail/skill/1503/skill_10.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_4.png",
+      "path": "role_detail/skill/1503/skill_4.png",
+      "size": 5064
+    },
+    {
+      "name": "skill_16.png",
+      "path": "role_detail/skill/1503/skill_16.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_5.png",
+      "path": "role_detail/skill/1503/skill_5.png",
+      "size": 5900
+    },
+    {
+      "name": "skill_11.png",
+      "path": "role_detail/skill/1503/skill_11.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_13.png",
+      "path": "role_detail/skill/1503/skill_13.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_8.png",
+      "path": "role_detail/skill/1503/skill_8.png",
+      "size": 3770
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1202/chain_4.png",
+      "size": 2254
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1202/chain_2.png",
+      "size": 2434
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1202/chain_3.png",
+      "size": 2258
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1202/chain_1.png",
+      "size": 2830
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1202/chain_6.png",
+      "size": 2738
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1202/chain_5.png",
+      "size": 2662
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1208/chain_4.png",
+      "size": 4074
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1208/chain_2.png",
+      "size": 5844
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1208/chain_3.png",
+      "size": 3524
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1208/chain_1.png",
+      "size": 3766
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1208/chain_6.png",
+      "size": 3448
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1208/chain_5.png",
+      "size": 4024
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1102/chain_4.png",
+      "size": 3080
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1102/chain_2.png",
+      "size": 3020
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1102/chain_3.png",
+      "size": 2912
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1102/chain_1.png",
+      "size": 2382
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1102/chain_6.png",
+      "size": 3436
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1102/chain_5.png",
+      "size": 3034
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1608/chain_4.png",
+      "size": 4300
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1608/chain_2.png",
+      "size": 3768
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1608/chain_3.png",
+      "size": 4642
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1608/chain_1.png",
+      "size": 3732
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1608/chain_6.png",
+      "size": 4464
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1608/chain_5.png",
+      "size": 3470
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1607/chain_4.png",
+      "size": 3094
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1607/chain_2.png",
+      "size": 3480
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1607/chain_3.png",
+      "size": 4108
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1607/chain_1.png",
+      "size": 3604
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1607/chain_6.png",
+      "size": 3162
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1607/chain_5.png",
+      "size": 4032
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1103/chain_4.png",
+      "size": 2558
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1103/chain_2.png",
+      "size": 2566
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1103/chain_3.png",
+      "size": 2406
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1103/chain_1.png",
+      "size": 2012
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1103/chain_6.png",
+      "size": 2058
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1103/chain_5.png",
+      "size": 1674
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1403/chain_4.png",
+      "size": 3684
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1403/chain_2.png",
+      "size": 3042
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1403/chain_3.png",
+      "size": 2406
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1403/chain_1.png",
+      "size": 3412
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1403/chain_6.png",
+      "size": 3930
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1403/chain_5.png",
+      "size": 3736
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1502/chain_4.png",
+      "size": 2520
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1502/chain_2.png",
+      "size": 2302
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1502/chain_3.png",
+      "size": 2510
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1502/chain_1.png",
+      "size": 2476
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1502/chain_6.png",
+      "size": 1630
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1502/chain_5.png",
+      "size": 1280
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1410/chain_4.png",
+      "size": 3804
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1410/chain_2.png",
+      "size": 4128
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1410/chain_3.png",
+      "size": 3872
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1410/chain_1.png",
+      "size": 4138
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1410/chain_6.png",
+      "size": 3764
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1410/chain_5.png",
+      "size": 3982
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1305/chain_4.png",
+      "size": 3130
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1305/chain_2.png",
+      "size": 2670
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1305/chain_3.png",
+      "size": 3096
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1305/chain_1.png",
+      "size": 4074
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1305/chain_6.png",
+      "size": 3966
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1305/chain_5.png",
+      "size": 3162
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1408/chain_4.png",
+      "size": 3298
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1408/chain_2.png",
+      "size": 3358
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1408/chain_3.png",
+      "size": 2988
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1408/chain_1.png",
+      "size": 3276
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1408/chain_6.png",
+      "size": 3606
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1408/chain_5.png",
+      "size": 3042
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1304/chain_4.png",
+      "size": 3158
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1304/chain_2.png",
+      "size": 3806
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1304/chain_3.png",
+      "size": 3464
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1304/chain_1.png",
+      "size": 3584
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1304/chain_6.png",
+      "size": 3028
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1304/chain_5.png",
+      "size": 4036
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1507/chain_4.png",
+      "size": 3842
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1507/chain_2.png",
+      "size": 3140
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1507/chain_3.png",
+      "size": 3860
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1507/chain_1.png",
+      "size": 3600
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1507/chain_6.png",
+      "size": 3738
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1507/chain_5.png",
+      "size": 4474
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1104/chain_4.png",
+      "size": 3456
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1104/chain_2.png",
+      "size": 3552
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1104/chain_3.png",
+      "size": 4520
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1104/chain_1.png",
+      "size": 3938
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1104/chain_6.png",
+      "size": 4562
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1104/chain_5.png",
+      "size": 4524
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1303/chain_4.png",
+      "size": 2734
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1303/chain_2.png",
+      "size": 3000
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1303/chain_3.png",
+      "size": 3160
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1303/chain_1.png",
+      "size": 3466
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1303/chain_6.png",
+      "size": 3236
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1303/chain_5.png",
+      "size": 4250
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1106/chain_4.png",
+      "size": 2136
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1106/chain_2.png",
+      "size": 2390
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1106/chain_3.png",
+      "size": 3566
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1106/chain_1.png",
+      "size": 2882
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1106/chain_6.png",
+      "size": 3324
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1106/chain_5.png",
+      "size": 3384
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1501/chain_4.png",
+      "size": 2520
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1501/chain_2.png",
+      "size": 2302
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1501/chain_3.png",
+      "size": 2510
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1501/chain_1.png",
+      "size": 2476
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1501/chain_6.png",
+      "size": 1630
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1501/chain_5.png",
+      "size": 1280
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1409/chain_4.png",
+      "size": 3492
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1409/chain_2.png",
+      "size": 4992
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1409/chain_3.png",
+      "size": 3668
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1409/chain_1.png",
+      "size": 3508
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1409/chain_6.png",
+      "size": 3288
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1409/chain_5.png",
+      "size": 3540
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1505/chain_4.png",
+      "size": 4332
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1505/chain_2.png",
+      "size": 3570
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1505/chain_3.png",
+      "size": 3692
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1505/chain_1.png",
+      "size": 4220
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1505/chain_6.png",
+      "size": 3726
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1505/chain_5.png",
+      "size": 4376
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1604/chain_4.png",
+      "size": 2952
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1604/chain_2.png",
+      "size": 2572
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1604/chain_3.png",
+      "size": 3396
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1604/chain_1.png",
+      "size": 3278
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1604/chain_6.png",
+      "size": 3066
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1604/chain_5.png",
+      "size": 2904
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1406/chain_4.png",
+      "size": 3298
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1406/chain_2.png",
+      "size": 3358
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1406/chain_3.png",
+      "size": 2988
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1406/chain_1.png",
+      "size": 3276
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1406/chain_6.png",
+      "size": 3606
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1406/chain_5.png",
+      "size": 3042
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1603/chain_4.png",
+      "size": 3802
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1603/chain_2.png",
+      "size": 3766
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1603/chain_3.png",
+      "size": 3570
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1603/chain_1.png",
+      "size": 3238
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1603/chain_6.png",
+      "size": 3634
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1603/chain_5.png",
+      "size": 3832
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1606/chain_4.png",
+      "size": 3770
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1606/chain_2.png",
+      "size": 3790
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1606/chain_3.png",
+      "size": 3988
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1606/chain_1.png",
+      "size": 4086
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1606/chain_6.png",
+      "size": 3792
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1606/chain_5.png",
+      "size": 2578
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1302/chain_4.png",
+      "size": 3260
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1302/chain_2.png",
+      "size": 3426
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1302/chain_3.png",
+      "size": 3540
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1302/chain_1.png",
+      "size": 3458
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1302/chain_6.png",
+      "size": 3320
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1302/chain_5.png",
+      "size": 3246
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1301/chain_4.png",
+      "size": 3458
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1301/chain_2.png",
+      "size": 3664
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1301/chain_3.png",
+      "size": 4814
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1301/chain_1.png",
+      "size": 2920
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1301/chain_6.png",
+      "size": 4234
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1301/chain_5.png",
+      "size": 3920
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1601/chain_4.png",
+      "size": 2592
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1601/chain_2.png",
+      "size": 2404
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1601/chain_3.png",
+      "size": 2420
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1601/chain_1.png",
+      "size": 4398
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1601/chain_6.png",
+      "size": 2558
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1601/chain_5.png",
+      "size": 2634
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1402/chain_4.png",
+      "size": 2576
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1402/chain_2.png",
+      "size": 2056
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1402/chain_3.png",
+      "size": 2356
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1402/chain_1.png",
+      "size": 2428
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1402/chain_6.png",
+      "size": 3134
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1402/chain_5.png",
+      "size": 2860
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1107/chain_4.png",
+      "size": 3420
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1107/chain_2.png",
+      "size": 3128
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1107/chain_3.png",
+      "size": 3524
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1107/chain_1.png",
+      "size": 3930
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1107/chain_6.png",
+      "size": 3436
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1107/chain_5.png",
+      "size": 3938
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1203/chain_4.png",
+      "size": 2968
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1203/chain_2.png",
+      "size": 2632
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1203/chain_3.png",
+      "size": 3142
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1203/chain_1.png",
+      "size": 2032
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1203/chain_6.png",
+      "size": 3384
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1203/chain_5.png",
+      "size": 2966
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1204/chain_4.png",
+      "size": 3342
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1204/chain_2.png",
+      "size": 2934
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1204/chain_3.png",
+      "size": 3786
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1204/chain_1.png",
+      "size": 4054
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1204/chain_6.png",
+      "size": 2962
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1204/chain_5.png",
+      "size": 3632
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1605/chain_4.png",
+      "size": 2952
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1605/chain_2.png",
+      "size": 2572
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1605/chain_3.png",
+      "size": 3396
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1605/chain_1.png",
+      "size": 3278
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1605/chain_6.png",
+      "size": 3066
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1605/chain_5.png",
+      "size": 2904
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1405/chain_4.png",
+      "size": 3624
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1405/chain_2.png",
+      "size": 3486
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1405/chain_3.png",
+      "size": 2494
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1405/chain_1.png",
+      "size": 3002
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1405/chain_6.png",
+      "size": 3318
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1405/chain_5.png",
+      "size": 3412
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1602/chain_4.png",
+      "size": 2626
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1602/chain_2.png",
+      "size": 2962
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1602/chain_3.png",
+      "size": 2050
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1602/chain_1.png",
+      "size": 2046
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1602/chain_6.png",
+      "size": 2632
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1602/chain_5.png",
+      "size": 1624
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1411/chain_4.png",
+      "size": 3742
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1411/chain_2.png",
+      "size": 3566
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1411/chain_3.png",
+      "size": 3250
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1411/chain_1.png",
+      "size": 3138
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1411/chain_6.png",
+      "size": 3232
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1411/chain_5.png",
+      "size": 3678
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1205/chain_4.png",
+      "size": 3082
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1205/chain_2.png",
+      "size": 3340
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1205/chain_3.png",
+      "size": 3728
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1205/chain_1.png",
+      "size": 3428
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1205/chain_6.png",
+      "size": 3056
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1205/chain_5.png",
+      "size": 3610
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1504/chain_4.png",
+      "size": 2690
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1504/chain_2.png",
+      "size": 3340
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1504/chain_3.png",
+      "size": 2936
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1504/chain_1.png",
+      "size": 2538
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1504/chain_6.png",
+      "size": 3420
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1504/chain_5.png",
+      "size": 3680
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1105/chain_4.png",
+      "size": 3036
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1105/chain_2.png",
+      "size": 2574
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1105/chain_3.png",
+      "size": 2398
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1105/chain_1.png",
+      "size": 3096
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1105/chain_6.png",
+      "size": 2484
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1105/chain_5.png",
+      "size": 3284
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1508/chain_4.png",
+      "size": 2744
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1508/chain_2.png",
+      "size": 3610
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1508/chain_3.png",
+      "size": 4638
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1508/chain_1.png",
+      "size": 3680
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1508/chain_6.png",
+      "size": 3682
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1508/chain_5.png",
+      "size": 3716
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1207/chain_4.png",
+      "size": 3078
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1207/chain_2.png",
+      "size": 2792
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1207/chain_3.png",
+      "size": 3100
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1207/chain_1.png",
+      "size": 3024
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1207/chain_6.png",
+      "size": 3158
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1207/chain_5.png",
+      "size": 2892
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1506/chain_4.png",
+      "size": 4032
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1506/chain_2.png",
+      "size": 4210
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1506/chain_3.png",
+      "size": 3666
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1506/chain_1.png",
+      "size": 3048
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1506/chain_6.png",
+      "size": 3852
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1506/chain_5.png",
+      "size": 2836
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1306/chain_4.png",
+      "size": 3156
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1306/chain_2.png",
+      "size": 3076
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1306/chain_3.png",
+      "size": 3512
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1306/chain_1.png",
+      "size": 3474
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1306/chain_6.png",
+      "size": 3302
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1306/chain_5.png",
+      "size": 3014
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1206/chain_4.png",
+      "size": 4434
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1206/chain_2.png",
+      "size": 39978
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1206/chain_3.png",
+      "size": 3418
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1206/chain_1.png",
+      "size": 3226
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1206/chain_6.png",
+      "size": 3604
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1206/chain_5.png",
+      "size": 2740
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1404/chain_4.png",
+      "size": 4136
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1404/chain_2.png",
+      "size": 3260
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1404/chain_3.png",
+      "size": 3120
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1404/chain_1.png",
+      "size": 3078
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1404/chain_6.png",
+      "size": 3586
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1404/chain_5.png",
+      "size": 3298
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1307/chain_4.png",
+      "size": 3424
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1307/chain_2.png",
+      "size": 3392
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1307/chain_3.png",
+      "size": 3618
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1307/chain_1.png",
+      "size": 3842
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1307/chain_6.png",
+      "size": 3194
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1307/chain_5.png",
+      "size": 3618
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1407/chain_4.png",
+      "size": 3446
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1407/chain_2.png",
+      "size": 3802
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1407/chain_3.png",
+      "size": 4196
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1407/chain_1.png",
+      "size": 4442
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1407/chain_6.png",
+      "size": 3190
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1407/chain_5.png",
+      "size": 3570
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1503/chain_4.png",
+      "size": 1940
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1503/chain_2.png",
+      "size": 2066
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1503/chain_3.png",
+      "size": 1536
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1503/chain_1.png",
+      "size": 2126
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1503/chain_6.png",
+      "size": 1640
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1503/chain_5.png",
+      "size": 2240
+    }
+  ],
+  "subdirectories": [
+    {
+      "name": "chains",
+      "path": "role_detail/chains/"
+    },
+    {
+      "name": "skill",
+      "path": "role_detail/skill/"
+    }
+  ]
+}
