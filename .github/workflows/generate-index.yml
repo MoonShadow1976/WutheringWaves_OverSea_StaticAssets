@@ -1,4 +1,4 @@
-name: 生成目录索引
+name: 生成JSON索引
 
 on:
   push:
@@ -11,66 +11,41 @@ permissions:
   contents: write
 
 jobs:
-  generate-index:
+  generate-json-index:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出代码（启用完整历史记录和文件状态跟踪）
+      - name: 检出代码
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 获取所有历史，便于对比
-          
+          fetch-depth: 0
+      
       - name: 设置Python环境
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: 生成目录索引
+      
+      - name: 生成JSON索引
         run: |
-          python .github/scripts/generate_index.py
-
-      - name: 检查是否有新索引文件生成
-        id: check_files
+          python .github/scripts/generate_json_index.py
+      
+      - name: 检查并提交变更
+        id: check-changes
         run: |
-          # 关键修改：直接检查是否有index.html文件被生成/修改
-          # 查找所有新生成或更新的index.html文件
-          NEW_INDEX_FILES=$(find data/resource -name "index.html" -type f)
-          
-          if [ -z "$NEW_INDEX_FILES" ]; then
-            echo "未找到任何index.html文件"
-            echo "has_new_files=false" >> $GITHUB_OUTPUT
+          # 检查是否有JSON文件被创建或修改
+          if git status --porcelain | grep -E '\.json$'; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
           else
-            echo "找到的索引文件："
-            echo "$NEW_INDEX_FILES"
-            echo "has_new_files=true" >> $GITHUB_OUTPUT
-            
-            # 将文件列表保存到环境变量，供下一步使用
-            echo "file_list<<EOF" >> $GITHUB_ENV
-            echo "$NEW_INDEX_FILES" >> $GITHUB_ENV
-            echo "EOF" >> $GITHUB_ENV
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
           fi
-
-      - name: 提交索引文件
-        if: steps.check_files.outputs.has_new_files == 'true'
+      
+      - name: 提交JSON索引文件
+        if: steps.check-changes.outputs.changes_detected == 'true'
         run: |
-          # 配置Git用户
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 添加所有找到的index.html文件
-          echo "正在添加以下文件："
-          echo "${{ env.file_list }}"
+          # 只添加JSON文件
+          git add data/resource/*.json data/resource/*/*.json
           
-          # 逐行处理文件列表，确保每个文件都被添加
-          echo "${{ env.file_list }}" | while read -r file; do
-            if [ -f "$file" ]; then
-              git add "$file"
-              echo "已添加: $file"
-            fi
-          done
-          
-          # 提交更改
-          git status
-          git commit -m "📁 自动更新目录索引 [skip ci]" || echo "没有需要提交的内容"
-          
-          # 推送更改
+          git commit -m "📁 自动更新JSON索引 [skip ci]"
           git push
