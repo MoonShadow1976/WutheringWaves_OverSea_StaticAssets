@@ -1,0 +1,40 @@
+name: 生成目录索引
+
+on:
+  push:
+    paths:
+      - 'data/resource/**'  # 只监视资源目录的变化
+    branches: [ main ]
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: write  # 允许工作流提交更改
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置Python环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 生成目录索引
+        run: |
+          # 调用项目内的Python脚本
+          python .github/scripts/generate_index.py
+
+      - name: 检查并提交索引文件
+        run: |
+          if git diff --quiet; then
+            echo "没有发现索引文件变更。"
+          else
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/resource/**/index.html
+            git commit -m "📁 自动更新目录索引 [skip ci]"
+            git push
+          fi
