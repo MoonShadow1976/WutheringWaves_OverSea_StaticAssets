@@ -44,8 +44,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 只添加JSON文件
-          git add data/resource/*.json data/resource/*/*.json
+          # 添加data/下的resource.json和data/resource/下的所有JSON
+          git add data/resource.json data/resource/*.json
           
           git commit -m "📁 自动更新JSON索引 [skip ci]"
           git push
