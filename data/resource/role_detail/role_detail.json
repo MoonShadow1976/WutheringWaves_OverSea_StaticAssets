@@ -1,0 +1,15 @@
+{
+  "name": "role_detail",
+  "last_updated": "2025-12-01T12:55:22Z",
+  "files": [],
+  "subdirectories": [
+    {
+      "name": "skill",
+      "path": "role_detail/skill/"
+    },
+    {
+      "name": "chains",
+      "path": "role_detail/chains/"
+    }
+  ]
+}
