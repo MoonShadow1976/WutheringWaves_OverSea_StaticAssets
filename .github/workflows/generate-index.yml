@@ -3,20 +3,22 @@ name: 生成目录索引
 on:
   push:
     paths:
-      - 'data/resource/**'  # 只监视资源目录的变化
+      - 'data/resource/**'
     branches: [ main ]
-  workflow_dispatch:  # 支持手动触发
+  workflow_dispatch:
 
 permissions:
-  contents: write  # 允许工作流提交更改
+  contents: write
 
 jobs:
   generate-index:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出代码
+      - name: 检出代码（启用完整历史记录和文件状态跟踪）
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0  # 获取所有历史，便于对比
+          
       - name: 设置Python环境
         uses: actions/setup-python@v5
         with:
@@ -24,17 +26,51 @@ jobs:
 
       - name: 生成目录索引
         run: |
-          # 调用项目内的Python脚本
           python .github/scripts/generate_index.py
 
-      - name: 检查并提交索引文件
+      - name: 检查是否有新索引文件生成
+        id: check_files
         run: |
-          if git diff --quiet; then
-            echo "没有发现索引文件变更。"
+          # 关键修改：直接检查是否有index.html文件被生成/修改
+          # 查找所有新生成或更新的index.html文件
+          NEW_INDEX_FILES=$(find data/resource -name "index.html" -type f)
+          
+          if [ -z "$NEW_INDEX_FILES" ]; then
+            echo "未找到任何index.html文件"
+            echo "has_new_files=false" >> $GITHUB_OUTPUT
           else
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/resource/**/index.html
-            git commit -m "📁 自动更新目录索引 [skip ci]"
-            git push
+            echo "找到的索引文件："
+            echo "$NEW_INDEX_FILES"
+            echo "has_new_files=true" >> $GITHUB_OUTPUT
+            
+            # 将文件列表保存到环境变量，供下一步使用
+            echo "file_list<<EOF" >> $GITHUB_ENV
+            echo "$NEW_INDEX_FILES" >> $GITHUB_ENV
+            echo "EOF" >> $GITHUB_ENV
           fi
+
+      - name: 提交索引文件
+        if: steps.check_files.outputs.has_new_files == 'true'
+        run: |
+          # 配置Git用户
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 添加所有找到的index.html文件
+          echo "正在添加以下文件："
+          echo "${{ env.file_list }}"
+          
+          # 逐行处理文件列表，确保每个文件都被添加
+          echo "${{ env.file_list }}" | while read -r file; do
+            if [ -f "$file" ]; then
+              git add "$file"
+              echo "已添加: $file"
+            fi
+          done
+          
+          # 提交更改
+          git status
+          git commit -m "📁 自动更新目录索引 [skip ci]" || echo "没有需要提交的内容"
+          
+          # 推送更改
+          git push
