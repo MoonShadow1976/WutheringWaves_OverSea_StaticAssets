@@ -1,3686 +1,2641 @@
 {
   "name": "role_detail",
-  "last_updated": "2025-12-04T06:50:23Z",
+  "last_updated": "2025-12-06T06:58:13Z",
   "files": [
     {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1202/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1202/skill_6.png",
-      "size": 2332
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1202/skill_12.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1202/skill_1.png",
+      "name": "skill_砰砰.png",
+      "path": "role_detail/skill/1202/skill_砰砰.png",
       "size": 1366
     },
     {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1202/skill_9.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1202/skill_3.png",
-      "size": 5730
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1202/skill_7.png",
-      "size": 4352
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1202/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1202/skill_2.png",
-      "size": 2386
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1202/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1202/skill_4.png",
-      "size": 5048
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1202/skill_16.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1202/skill_5.png",
-      "size": 5186
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1202/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1202/skill_13.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1202/skill_8.png",
+      "name": "skill_跃焰.png",
+      "path": "role_detail/skill/1202/skill_跃焰.png",
       "size": 2644
     },
     {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1208/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1208/skill_6.png",
-      "size": 4146
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1208/skill_12.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1208/skill_1.png",
-      "size": 1366
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1208/skill_9.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1208/skill_3.png",
-      "size": 5212
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1208/skill_7.png",
-      "size": 4704
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1208/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1208/skill_2.png",
-      "size": 4730
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1208/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1208/skill_4.png",
-      "size": 4418
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1208/skill_16.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1208/skill_5.png",
-      "size": 2768
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1208/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1208/skill_13.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1208/skill_8.png",
-      "size": 2862
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1102/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1102/skill_6.png",
-      "size": 5490
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1102/skill_12.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1102/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1102/skill_9.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1102/skill_3.png",
-      "size": 4368
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1102/skill_7.png",
-      "size": 4508
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1102/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1102/skill_2.png",
-      "size": 5972
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1102/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1102/skill_4.png",
-      "size": 5372
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1102/skill_16.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1102/skill_5.png",
-      "size": 5080
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1102/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1102/skill_13.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1102/skill_8.png",
-      "size": 4340
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1608/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1608/skill_6.png",
-      "size": 3246
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1608/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1608/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1608/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1608/skill_3.png",
-      "size": 3138
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1608/skill_7.png",
-      "size": 4536
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1608/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1608/skill_2.png",
-      "size": 2768
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1608/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1608/skill_4.png",
-      "size": 3902
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1608/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1608/skill_5.png",
-      "size": 3516
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1608/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1608/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1608/skill_8.png",
-      "size": 4614
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1607/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1607/skill_6.png",
-      "size": 3980
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1607/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1607/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1607/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1607/skill_3.png",
-      "size": 4792
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1607/skill_7.png",
-      "size": 4964
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1607/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1607/skill_2.png",
-      "size": 3672
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1607/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1607/skill_4.png",
-      "size": 3056
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1607/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1607/skill_5.png",
-      "size": 3340
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1607/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1607/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1607/skill_8.png",
-      "size": 3674
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1103/skill_15.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1103/skill_6.png",
-      "size": 3776
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1103/skill_12.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1103/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1103/skill_9.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1103/skill_3.png",
-      "size": 3336
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1103/skill_7.png",
-      "size": 3756
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1103/skill_14.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1103/skill_2.png",
-      "size": 2972
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1103/skill_10.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1103/skill_4.png",
-      "size": 4610
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1103/skill_16.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1103/skill_5.png",
-      "size": 4620
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1103/skill_11.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1103/skill_13.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1103/skill_8.png",
-      "size": 3676
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1403/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1403/skill_6.png",
-      "size": 3480
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1403/skill_12.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1403/skill_1.png",
-      "size": 1366
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1403/skill_9.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1403/skill_3.png",
-      "size": 4136
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1403/skill_7.png",
-      "size": 3748
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1403/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1403/skill_2.png",
-      "size": 3980
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1403/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1403/skill_4.png",
-      "size": 2242
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1403/skill_16.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1403/skill_5.png",
-      "size": 3030
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1403/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1403/skill_13.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1403/skill_8.png",
-      "size": 3688
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1502/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1502/skill_6.png",
-      "size": 5664
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1502/skill_12.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1502/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1502/skill_9.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1502/skill_3.png",
-      "size": 6870
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1502/skill_7.png",
-      "size": 4202
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1502/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1502/skill_2.png",
-      "size": 5892
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1502/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1502/skill_4.png",
-      "size": 4114
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1502/skill_16.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1502/skill_5.png",
-      "size": 3746
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1502/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1502/skill_13.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1502/skill_8.png",
-      "size": 3294
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1410/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1410/skill_6.png",
-      "size": 4398
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1410/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1410/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1410/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1410/skill_3.png",
-      "size": 5018
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1410/skill_7.png",
-      "size": 6360
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1410/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1410/skill_2.png",
-      "size": 4046
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1410/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1410/skill_4.png",
-      "size": 5588
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1410/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1410/skill_5.png",
-      "size": 5374
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1410/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1410/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1410/skill_8.png",
-      "size": 3858
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1305/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1305/skill_6.png",
-      "size": 4186
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1305/skill_12.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1305/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1305/skill_9.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1305/skill_3.png",
-      "size": 3690
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1305/skill_7.png",
-      "size": 4234
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1305/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1305/skill_2.png",
-      "size": 3214
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1305/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1305/skill_4.png",
-      "size": 3750
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1305/skill_16.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1305/skill_5.png",
-      "size": 3074
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1305/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1305/skill_13.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1305/skill_8.png",
-      "size": 2128
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1408/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1408/skill_6.png",
-      "size": 3520
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1408/skill_12.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1408/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1408/skill_9.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1408/skill_3.png",
-      "size": 4150
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1408/skill_7.png",
-      "size": 5050
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1408/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1408/skill_2.png",
-      "size": 4092
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1408/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1408/skill_4.png",
-      "size": 3540
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1408/skill_16.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1408/skill_5.png",
-      "size": 4244
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1408/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1408/skill_13.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1408/skill_8.png",
-      "size": 3780
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1304/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1304/skill_6.png",
-      "size": 4712
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1304/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1304/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1304/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1304/skill_3.png",
-      "size": 3952
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1304/skill_7.png",
-      "size": 4048
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1304/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1304/skill_2.png",
-      "size": 3434
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1304/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1304/skill_4.png",
-      "size": 3560
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1304/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1304/skill_5.png",
-      "size": 3756
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1304/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1304/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1304/skill_8.png",
-      "size": 4904
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1507/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1507/skill_6.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1507/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1507/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1507/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1507/skill_3.png",
-      "size": 4362
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1507/skill_7.png",
-      "size": 5736
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1507/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1507/skill_2.png",
-      "size": 5618
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1507/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1507/skill_4.png",
-      "size": 4064
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1507/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1507/skill_5.png",
-      "size": 4178
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1507/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1507/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1507/skill_8.png",
-      "size": 3188
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1104/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1104/skill_6.png",
-      "size": 4510
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1104/skill_12.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1104/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1104/skill_9.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1104/skill_3.png",
-      "size": 4360
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1104/skill_7.png",
-      "size": 5620
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1104/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1104/skill_2.png",
-      "size": 2038
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1104/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1104/skill_4.png",
-      "size": 4620
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1104/skill_16.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1104/skill_5.png",
-      "size": 4216
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1104/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1104/skill_13.png",
-      "size": 5986
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1104/skill_8.png",
-      "size": 2780
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1303/skill_15.png",
-      "size": 3802
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1303/skill_6.png",
-      "size": 3642
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1303/skill_12.png",
-      "size": 5024
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1303/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1303/skill_9.png",
-      "size": 5024
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1303/skill_3.png",
-      "size": 3438
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1303/skill_7.png",
-      "size": 3644
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1303/skill_14.png",
-      "size": 3802
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1303/skill_2.png",
-      "size": 3336
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1303/skill_10.png",
-      "size": 3802
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1303/skill_4.png",
-      "size": 3108
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1303/skill_16.png",
-      "size": 5024
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1303/skill_5.png",
-      "size": 3126
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1303/skill_11.png",
-      "size": 3802
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1303/skill_13.png",
-      "size": 5024
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1303/skill_8.png",
-      "size": 3818
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1106/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1106/skill_6.png",
-      "size": 4196
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1106/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1106/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1106/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1106/skill_3.png",
-      "size": 3926
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1106/skill_7.png",
-      "size": 4724
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1106/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1106/skill_2.png",
-      "size": 3140
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1106/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1106/skill_4.png",
-      "size": 3254
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1106/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1106/skill_5.png",
-      "size": 3342
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1106/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1106/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1106/skill_8.png",
-      "size": 3768
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1501/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1501/skill_6.png",
-      "size": 5664
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1501/skill_12.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1501/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1501/skill_9.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1501/skill_3.png",
-      "size": 6870
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1501/skill_7.png",
-      "size": 4202
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1501/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1501/skill_2.png",
-      "size": 5892
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1501/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1501/skill_4.png",
-      "size": 4114
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1501/skill_16.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1501/skill_5.png",
-      "size": 3746
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1501/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1501/skill_13.png",
-      "size": 4788
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1501/skill_8.png",
-      "size": 3294
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1409/skill_15.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1409/skill_6.png",
-      "size": 3874
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1409/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1409/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1409/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1409/skill_3.png",
-      "size": 5562
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1409/skill_7.png",
-      "size": 5546
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1409/skill_14.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1409/skill_2.png",
-      "size": 4994
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1409/skill_10.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1409/skill_4.png",
-      "size": 5818
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1409/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1409/skill_5.png",
-      "size": 4896
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1409/skill_11.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1409/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1409/skill_8.png",
-      "size": 3334
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1505/skill_15.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1505/skill_6.png",
-      "size": 3900
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1505/skill_12.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1505/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1505/skill_9.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1505/skill_3.png",
-      "size": 5590
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1505/skill_7.png",
-      "size": 4944
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1505/skill_14.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1505/skill_2.png",
-      "size": 3698
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1505/skill_10.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1505/skill_4.png",
-      "size": 3010
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1505/skill_16.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1505/skill_5.png",
-      "size": 5180
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1505/skill_11.png",
-      "size": 3492
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1505/skill_13.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1505/skill_8.png",
-      "size": 5390
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1604/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1604/skill_6.png",
-      "size": 3398
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1604/skill_12.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1604/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1604/skill_9.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1604/skill_3.png",
-      "size": 3034
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1604/skill_7.png",
-      "size": 5778
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1604/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1604/skill_2.png",
-      "size": 2588
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1604/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1604/skill_4.png",
-      "size": 3554
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1604/skill_16.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1604/skill_5.png",
-      "size": 3178
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1604/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1604/skill_13.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1604/skill_8.png",
-      "size": 2892
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1406/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1406/skill_6.png",
-      "size": 3520
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1406/skill_12.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1406/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1406/skill_9.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1406/skill_3.png",
-      "size": 4150
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1406/skill_7.png",
-      "size": 5050
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1406/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1406/skill_2.png",
-      "size": 4092
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1406/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1406/skill_4.png",
-      "size": 3540
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1406/skill_16.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1406/skill_5.png",
-      "size": 4244
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1406/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1406/skill_13.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1406/skill_8.png",
-      "size": 3780
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1603/skill_15.png",
-      "size": 3600
+      "name": "skill_热熔伤害加成提升.png",
+      "path": "role_detail/skill/1202/skill_热熔伤害加成提升.png",
+      "size": 4184
     },
     {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1603/skill_6.png",
-      "size": 4036
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1603/skill_12.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1603/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1603/skill_9.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1603/skill_3.png",
-      "size": 3758
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1603/skill_7.png",
-      "size": 4832
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1603/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1603/skill_2.png",
-      "size": 4936
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1603/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1603/skill_4.png",
-      "size": 3974
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1603/skill_16.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1603/skill_5.png",
-      "size": 3386
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1603/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1603/skill_13.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1603/skill_8.png",
-      "size": 3726
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1606/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1606/skill_6.png",
-      "size": 4296
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1606/skill_12.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1606/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1606/skill_9.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1606/skill_3.png",
-      "size": 3926
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1606/skill_7.png",
-      "size": 5120
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1606/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1606/skill_2.png",
-      "size": 4006
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1606/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1606/skill_4.png",
-      "size": 3922
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1606/skill_16.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1606/skill_5.png",
-      "size": 4404
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1606/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1606/skill_13.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1606/skill_8.png",
-      "size": 3630
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1302/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1302/skill_6.png",
-      "size": 4466
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1302/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1302/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1302/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1302/skill_3.png",
-      "size": 4784
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1302/skill_7.png",
-      "size": 4464
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1302/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1302/skill_2.png",
-      "size": 4928
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1302/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1302/skill_4.png",
-      "size": 2438
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1302/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1302/skill_5.png",
-      "size": 3616
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1302/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1302/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1302/skill_8.png",
-      "size": 2386
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1301/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1301/skill_6.png",
-      "size": 3318
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1301/skill_12.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1301/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1301/skill_9.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1301/skill_3.png",
-      "size": 5384
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1301/skill_7.png",
-      "size": 4662
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1301/skill_14.png",
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1202/skill_攻击提升.png",
       "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1301/skill_2.png",
-      "size": 3180
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1301/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1301/skill_4.png",
-      "size": 4746
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1301/skill_16.png",
-      "size": 6678
     },
     {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1301/skill_5.png",
+      "name": "skill_加麻加辣.png",
+      "path": "role_detail/skill/1202/skill_加麻加辣.png",
       "size": 5186
     },
     {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1301/skill_11.png",
-      "size": 3600
+      "name": "skill_谐度破坏·佩枪.png",
+      "path": "role_detail/skill/1202/skill_谐度破坏·佩枪.png",
+      "size": 3262
     },
     {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1301/skill_13.png",
-      "size": 6678
+      "name": "skill_炽烈焰火.png",
+      "path": "role_detail/skill/1202/skill_炽烈焰火.png",
+      "size": 5730
     },
     {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1301/skill_8.png",
-      "size": 3054
+      "name": "skill_灼热弹匣.png",
+      "path": "role_detail/skill/1202/skill_灼热弹匣.png",
+      "size": 5048
     },
     {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1601/skill_15.png",
-      "size": 3802
+      "name": "skill_堂堂登场.png",
+      "path": "role_detail/skill/1202/skill_堂堂登场.png",
+      "size": 2332
     },
     {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1601/skill_6.png",
-      "size": 6410
+      "name": "skill_咻咻斗意.png",
+      "path": "role_detail/skill/1202/skill_咻咻斗意.png",
+      "size": 2386
     },
     {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1601/skill_12.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1601/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1601/skill_9.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1601/skill_3.png",
-      "size": 6040
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1601/skill_7.png",
-      "size": 4142
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1601/skill_14.png",
-      "size": 3802
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1601/skill_2.png",
-      "size": 6008
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1601/skill_10.png",
-      "size": 3802
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1601/skill_4.png",
-      "size": 5214
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1601/skill_16.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1601/skill_5.png",
-      "size": 5426
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1601/skill_11.png",
-      "size": 3802
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1601/skill_13.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1601/skill_8.png",
-      "size": 3572
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1402/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1402/skill_6.png",
-      "size": 4530
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1402/skill_12.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1402/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1402/skill_9.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1402/skill_3.png",
-      "size": 6716
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1402/skill_7.png",
-      "size": 3622
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1402/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1402/skill_2.png",
-      "size": 6748
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1402/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1402/skill_4.png",
-      "size": 4608
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1402/skill_16.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1402/skill_5.png",
-      "size": 3634
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1402/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1402/skill_13.png",
-      "size": 4828
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1402/skill_8.png",
-      "size": 2692
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1107/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1107/skill_6.png",
-      "size": 3982
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1107/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1107/skill_1.png",
-      "size": 1366
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1107/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1107/skill_3.png",
-      "size": 3430
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1107/skill_7.png",
-      "size": 4472
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1107/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1107/skill_2.png",
-      "size": 4882
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1107/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1107/skill_4.png",
-      "size": 3402
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1107/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1107/skill_5.png",
-      "size": 2454
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1107/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1107/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1107/skill_8.png",
-      "size": 3716
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1203/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1203/skill_6.png",
-      "size": 5452
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1203/skill_12.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1203/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1203/skill_9.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1203/skill_3.png",
-      "size": 5484
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1203/skill_7.png",
-      "size": 4576
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1203/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1203/skill_2.png",
-      "size": 4998
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1203/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1203/skill_4.png",
-      "size": 4986
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1203/skill_16.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1203/skill_5.png",
-      "size": 5182
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1203/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1203/skill_13.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1203/skill_8.png",
-      "size": 2378
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1204/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1204/skill_6.png",
-      "size": 3246
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1204/skill_12.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1204/skill_1.png",
-      "size": 1366
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1204/skill_9.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1204/skill_3.png",
-      "size": 4018
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1204/skill_7.png",
-      "size": 3694
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1204/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1204/skill_2.png",
-      "size": 4640
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1204/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1204/skill_4.png",
-      "size": 3702
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1204/skill_16.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1204/skill_5.png",
-      "size": 3642
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1204/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1204/skill_13.png",
-      "size": 4184
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1204/skill_8.png",
-      "size": 4004
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1605/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1605/skill_6.png",
-      "size": 3398
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1605/skill_12.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1605/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1605/skill_9.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1605/skill_3.png",
-      "size": 3034
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1605/skill_7.png",
-      "size": 5778
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1605/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1605/skill_2.png",
-      "size": 2588
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1605/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1605/skill_4.png",
-      "size": 3554
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1605/skill_16.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1605/skill_5.png",
-      "size": 3178
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1605/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1605/skill_13.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1605/skill_8.png",
-      "size": 2892
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1405/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1405/skill_6.png",
-      "size": 2054
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1405/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1405/skill_1.png",
-      "size": 2232
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1405/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1405/skill_3.png",
-      "size": 2666
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1405/skill_7.png",
-      "size": 4288
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1405/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1405/skill_2.png",
-      "size": 3522
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1405/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1405/skill_4.png",
-      "size": 3848
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1405/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1405/skill_5.png",
-      "size": 2944
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1405/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1405/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1405/skill_8.png",
-      "size": 3348
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1602/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1602/skill_6.png",
-      "size": 5514
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1602/skill_12.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1602/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1602/skill_9.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1602/skill_3.png",
-      "size": 6372
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1602/skill_7.png",
-      "size": 3922
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1602/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1602/skill_2.png",
-      "size": 6710
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1602/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1602/skill_4.png",
-      "size": 3830
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1602/skill_16.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1602/skill_5.png",
-      "size": 3826
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1602/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1602/skill_13.png",
-      "size": 5448
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1602/skill_8.png",
-      "size": 4024
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1411/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1411/skill_6.png",
-      "size": 3544
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1411/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1411/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1411/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1411/skill_3.png",
-      "size": 4622
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1411/skill_7.png",
-      "size": 4164
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1411/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1411/skill_2.png",
-      "size": 3854
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1411/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1411/skill_4.png",
-      "size": 4036
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1411/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1411/skill_5.png",
-      "size": 4272
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1411/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1411/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1411/skill_8.png",
-      "size": 3994
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1205/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1205/skill_6.png",
-      "size": 5298
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1205/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1205/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1205/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1205/skill_3.png",
-      "size": 5374
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1205/skill_7.png",
-      "size": 5242
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1205/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1205/skill_2.png",
+      "name": "skill_英魂炽火流.png",
+      "path": "role_detail/skill/1202/skill_英魂炽火流.png",
       "size": 4352
     },
     {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1205/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1205/skill_4.png",
-      "size": 3034
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1205/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1205/skill_5.png",
-      "size": 4258
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1205/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1205/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1205/skill_8.png",
-      "size": 3522
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1504/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1504/skill_6.png",
-      "size": 4134
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1504/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1504/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1504/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1504/skill_3.png",
-      "size": 5534
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1504/skill_7.png",
-      "size": 4436
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1504/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1504/skill_2.png",
-      "size": 3980
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1504/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1504/skill_4.png",
-      "size": 4120
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1504/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1504/skill_5.png",
-      "size": 4324
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1504/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1504/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1504/skill_8.png",
-      "size": 4472
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1105/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1105/skill_6.png",
-      "size": 3116
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1105/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1105/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1105/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1105/skill_3.png",
-      "size": 3364
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1105/skill_7.png",
-      "size": 3922
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1105/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1105/skill_2.png",
-      "size": 2972
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1105/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1105/skill_4.png",
-      "size": 3378
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1105/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1105/skill_5.png",
-      "size": 3880
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1105/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1105/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1105/skill_8.png",
-      "size": 3348
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1508/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1508/skill_6.png",
-      "size": 3056
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1508/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1508/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1508/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1508/skill_3.png",
-      "size": 4144
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1508/skill_7.png",
-      "size": 4744
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1508/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1508/skill_2.png",
-      "size": 2544
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1508/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1508/skill_4.png",
-      "size": 4630
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1508/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1508/skill_5.png",
-      "size": 3296
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1508/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1508/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1508/skill_8.png",
-      "size": 2070
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1207/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1207/skill_6.png",
-      "size": 3354
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1207/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1207/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1207/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1207/skill_3.png",
-      "size": 3010
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1207/skill_7.png",
-      "size": 3274
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1207/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1207/skill_2.png",
-      "size": 2808
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1207/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1207/skill_4.png",
-      "size": 3040
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1207/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1207/skill_5.png",
-      "size": 2554
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1207/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1207/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1207/skill_8.png",
-      "size": 3396
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1506/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1506/skill_6.png",
-      "size": 5472
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1506/skill_12.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1506/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1506/skill_9.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1506/skill_3.png",
-      "size": 3622
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1506/skill_7.png",
-      "size": 4908
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1506/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1506/skill_2.png",
-      "size": 4626
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1506/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1506/skill_4.png",
-      "size": 4334
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1506/skill_16.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1506/skill_5.png",
-      "size": 3880
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1506/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1506/skill_13.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1506/skill_8.png",
-      "size": 4840
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1306/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1306/skill_6.png",
-      "size": 3010
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1306/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1306/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1306/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1306/skill_3.png",
-      "size": 3154
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1306/skill_7.png",
-      "size": 4262
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1306/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1306/skill_2.png",
-      "size": 2954
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1306/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1306/skill_4.png",
-      "size": 2554
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1306/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1306/skill_5.png",
-      "size": 3172
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1306/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1306/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1306/skill_8.png",
-      "size": 3228
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1206/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1206/skill_6.png",
-      "size": 3692
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1206/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1206/skill_1.png",
-      "size": 2008
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1206/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1206/skill_3.png",
-      "size": 5906
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1206/skill_7.png",
-      "size": 5302
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1206/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1206/skill_2.png",
-      "size": 3464
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1206/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1206/skill_4.png",
-      "size": 3066
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1206/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1206/skill_5.png",
-      "size": 2904
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1206/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1206/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1206/skill_8.png",
-      "size": 4976
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1404/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1404/skill_6.png",
-      "size": 2882
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1404/skill_12.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1404/skill_1.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1404/skill_9.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1404/skill_3.png",
-      "size": 3486
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1404/skill_7.png",
-      "size": 5338
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1404/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1404/skill_2.png",
-      "size": 3074
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1404/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1404/skill_4.png",
-      "size": 3214
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1404/skill_16.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1404/skill_5.png",
-      "size": 3218
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1404/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1404/skill_13.png",
-      "size": 3598
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1404/skill_8.png",
-      "size": 3954
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1307/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1307/skill_6.png",
-      "size": 3664
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1307/skill_12.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1307/skill_1.png",
-      "size": 2280
-    },
-    {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1307/skill_9.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1307/skill_3.png",
-      "size": 4156
-    },
-    {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1307/skill_7.png",
-      "size": 4620
-    },
-    {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1307/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1307/skill_2.png",
-      "size": 4220
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1307/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1307/skill_4.png",
-      "size": 3124
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1307/skill_16.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1307/skill_5.png",
-      "size": 3204
-    },
-    {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1307/skill_11.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1307/skill_13.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1307/skill_8.png",
-      "size": 4922
-    },
-    {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1407/skill_15.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1407/skill_6.png",
-      "size": 3324
-    },
-    {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1407/skill_12.png",
-      "size": 6678
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1407/skill_1.png",
+      "name": "skill_猎魔扳机.png",
+      "path": "role_detail/skill/1208/skill_猎魔扳机.png",
       "size": 1366
     },
     {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1407/skill_9.png",
+      "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1208/skill_暴击伤害提升.png",
       "size": 6678
     },
     {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1407/skill_3.png",
-      "size": 4584
+      "name": "skill_超阈限.png",
+      "path": "role_detail/skill/1208/skill_超阈限.png",
+      "size": 4704
     },
     {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1407/skill_7.png",
-      "size": 5684
+      "name": "skill_誓猎.png",
+      "path": "role_detail/skill/1208/skill_誓猎.png",
+      "size": 4418
     },
     {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1407/skill_14.png",
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1208/skill_攻击提升.png",
       "size": 3600
     },
     {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1407/skill_2.png",
-      "size": 3986
+      "name": "skill_驱猎逐烬.png",
+      "path": "role_detail/skill/1208/skill_驱猎逐烬.png",
+      "size": 2862
     },
     {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1407/skill_10.png",
+      "name": "skill_谐度破坏·佩枪.png",
+      "path": "role_detail/skill/1208/skill_谐度破坏·佩枪.png",
+      "size": 3262
+    },
+    {
+      "name": "skill_永火上膛.png",
+      "path": "role_detail/skill/1208/skill_永火上膛.png",
+      "size": 4146
+    },
+    {
+      "name": "skill_食罪.png",
+      "path": "role_detail/skill/1208/skill_食罪.png",
+      "size": 2768
+    },
+    {
+      "name": "skill_炼净.png",
+      "path": "role_detail/skill/1208/skill_炼净.png",
+      "size": 5212
+    },
+    {
+      "name": "skill_边缘翼动.png",
+      "path": "role_detail/skill/1208/skill_边缘翼动.png",
+      "size": 4730
+    },
+    {
+      "name": "skill_无明心音.png",
+      "path": "role_detail/skill/1102/skill_无明心音.png",
+      "size": 4508
+    },
+    {
+      "name": "skill_凛刺.png",
+      "path": "role_detail/skill/1102/skill_凛刺.png",
+      "size": 5490
+    },
+    {
+      "name": "skill_凝冰.png",
+      "path": "role_detail/skill/1102/skill_凝冰.png",
+      "size": 5372
+    },
+    {
+      "name": "skill_凛絜.png",
+      "path": "role_detail/skill/1102/skill_凛絜.png",
+      "size": 4340
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1102/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_冷凝伤害加成提升.png",
+      "path": "role_detail/skill/1102/skill_冷凝伤害加成提升.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1102/skill_攻击提升.png",
       "size": 3600
     },
     {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1407/skill_4.png",
-      "size": 3246
+      "name": "skill_朔雪永冻.png",
+      "path": "role_detail/skill/1102/skill_朔雪永冻.png",
+      "size": 5972
     },
     {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1407/skill_16.png",
-      "size": 6678
+      "name": "skill_寒光.png",
+      "path": "role_detail/skill/1102/skill_寒光.png",
+      "size": 2008
     },
     {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1407/skill_5.png",
-      "size": 4882
+      "name": "skill_瀑雪.png",
+      "path": "role_detail/skill/1102/skill_瀑雪.png",
+      "size": 5080
     },
     {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1407/skill_11.png",
-      "size": 3600
+      "name": "skill_焦瞑冻土.png",
+      "path": "role_detail/skill/1102/skill_焦瞑冻土.png",
+      "size": 4368
     },
     {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1407/skill_13.png",
-      "size": 6678
+      "name": "skill_未完成的曲目.png",
+      "path": "role_detail/skill/1608/skill_未完成的曲目.png",
+      "size": 4614
     },
     {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1407/skill_8.png",
-      "size": 3836
+      "name": "skill_新世界狂想曲.png",
+      "path": "role_detail/skill/1608/skill_新世界狂想曲.png",
+      "size": 4536
     },
     {
-      "name": "skill_15.png",
-      "path": "role_detail/skill/1503/skill_15.png",
-      "size": 3600
+      "name": "skill_往日深渊的圆舞曲.png",
+      "path": "role_detail/skill/1608/skill_往日深渊的圆舞曲.png",
+      "size": 3138
     },
     {
-      "name": "skill_6.png",
-      "path": "role_detail/skill/1503/skill_6.png",
-      "size": 4232
+      "name": "skill_八重奏.png",
+      "path": "role_detail/skill/1608/skill_八重奏.png",
+      "size": 3516
     },
     {
-      "name": "skill_12.png",
-      "path": "role_detail/skill/1503/skill_12.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_1.png",
-      "path": "role_detail/skill/1503/skill_1.png",
+      "name": "skill_生与死的乐章.png",
+      "path": "role_detail/skill/1608/skill_生与死的乐章.png",
       "size": 2280
     },
     {
-      "name": "skill_9.png",
-      "path": "role_detail/skill/1503/skill_9.png",
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1608/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_稍纵即逝的梦呓.png",
+      "path": "role_detail/skill/1608/skill_稍纵即逝的梦呓.png",
+      "size": 2768
+    },
+    {
+      "name": "skill_致命组歌.png",
+      "path": "role_detail/skill/1608/skill_致命组歌.png",
+      "size": 3246
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1608/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_变音符.png",
+      "path": "role_detail/skill/1608/skill_变音符.png",
+      "size": 3902
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1608/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_虚实之间.png",
+      "path": "role_detail/skill/1607/skill_虚实之间.png",
+      "size": 4964
+    },
+    {
+      "name": "skill_「药」.png",
+      "path": "role_detail/skill/1607/skill_「药」.png",
+      "size": 3056
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1607/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_虚像陷落.png",
+      "path": "role_detail/skill/1607/skill_虚像陷落.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_幽影共舞.png",
+      "path": "role_detail/skill/1607/skill_幽影共舞.png",
+      "size": 3672
+    },
+    {
+      "name": "skill_海面之下.png",
+      "path": "role_detail/skill/1607/skill_海面之下.png",
+      "size": 4792
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1607/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_游弋.png",
+      "path": "role_detail/skill/1607/skill_游弋.png",
+      "size": 3980
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1607/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_「毒」.png",
+      "path": "role_detail/skill/1607/skill_「毒」.png",
+      "size": 3340
+    },
+    {
+      "name": "skill_柔软触手.png",
+      "path": "role_detail/skill/1607/skill_柔软触手.png",
+      "size": 3674
+    },
+    {
+      "name": "skill_激策回馈.png",
+      "path": "role_detail/skill/1103/skill_激策回馈.png",
+      "size": 4620
+    },
+    {
+      "name": "skill_命源输送.png",
+      "path": "role_detail/skill/1103/skill_命源输送.png",
+      "size": 3676
+    },
+    {
+      "name": "skill_溯生环复.png",
+      "path": "role_detail/skill/1103/skill_溯生环复.png",
+      "size": 3756
+    },
+    {
+      "name": "skill_应急预案.png",
+      "path": "role_detail/skill/1103/skill_应急预案.png",
+      "size": 2972
+    },
+    {
+      "name": "skill_生命提升.png",
+      "path": "role_detail/skill/1103/skill_生命提升.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1103/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_刹那合弥.png",
+      "path": "role_detail/skill/1103/skill_刹那合弥.png",
+      "size": 3336
+    },
+    {
+      "name": "skill_泛音区间.png",
+      "path": "role_detail/skill/1103/skill_泛音区间.png",
+      "size": 4610
+    },
+    {
+      "name": "skill_应许.png",
+      "path": "role_detail/skill/1103/skill_应许.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_覆雪流盈.png",
+      "path": "role_detail/skill/1103/skill_覆雪流盈.png",
+      "size": 3776
+    },
+    {
+      "name": "skill_治疗效果加成提升.png",
+      "path": "role_detail/skill/1103/skill_治疗效果加成提升.png",
       "size": 3512
     },
     {
-      "name": "skill_3.png",
-      "path": "role_detail/skill/1503/skill_3.png",
-      "size": 7672
+      "name": "skill_虚晃一枪.png",
+      "path": "role_detail/skill/1403/skill_虚晃一枪.png",
+      "size": 3480
     },
     {
-      "name": "skill_7.png",
-      "path": "role_detail/skill/1503/skill_7.png",
+      "name": "skill_气动伤害加成提升.png",
+      "path": "role_detail/skill/1403/skill_气动伤害加成提升.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_雾解.png",
+      "path": "role_detail/skill/1403/skill_雾解.png",
+      "size": 3688
+    },
+    {
+      "name": "skill_真假参半.png",
+      "path": "role_detail/skill/1403/skill_真假参半.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1403/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_谐度破坏·佩枪.png",
+      "path": "role_detail/skill/1403/skill_谐度破坏·佩枪.png",
+      "size": 3262
+    },
+    {
+      "name": "skill_雾色掩护.png",
+      "path": "role_detail/skill/1403/skill_雾色掩护.png",
+      "size": 3748
+    },
+    {
+      "name": "skill_零失误演绎.png",
+      "path": "role_detail/skill/1403/skill_零失误演绎.png",
+      "size": 2242
+    },
+    {
+      "name": "skill_雾里观花.png",
+      "path": "role_detail/skill/1403/skill_雾里观花.png",
+      "size": 4136
+    },
+    {
+      "name": "skill_中场休息时间.png",
+      "path": "role_detail/skill/1403/skill_中场休息时间.png",
+      "size": 3030
+    },
+    {
+      "name": "skill_移位戏法.png",
+      "path": "role_detail/skill/1403/skill_移位戏法.png",
+      "size": 3980
+    },
+    {
+      "name": "skill_震声.png",
+      "path": "role_detail/skill/1502/skill_震声.png",
+      "size": 5664
+    },
+    {
+      "name": "skill_回响奏鸣.png",
+      "path": "role_detail/skill/1502/skill_回响奏鸣.png",
+      "size": 6870
+    },
+    {
+      "name": "skill_衍射伤害加成提升.png",
+      "path": "role_detail/skill/1502/skill_衍射伤害加成提升.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1502/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1502/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_万物微尘.png",
+      "path": "role_detail/skill/1502/skill_万物微尘.png",
+      "size": 4202
+    },
+    {
+      "name": "skill_浮声千斩.png",
+      "path": "role_detail/skill/1502/skill_浮声千斩.png",
+      "size": 5892
+    },
+    {
+      "name": "skill_瞬刻.png",
+      "path": "role_detail/skill/1502/skill_瞬刻.png",
+      "size": 3294
+    },
+    {
+      "name": "skill_静聆.png",
+      "path": "role_detail/skill/1502/skill_静聆.png",
+      "size": 3746
+    },
+    {
+      "name": "skill_屏息.png",
+      "path": "role_detail/skill/1502/skill_屏息.png",
+      "size": 4114
+    },
+    {
+      "name": "skill_化声为形.png",
+      "path": "role_detail/skill/1502/skill_化声为形.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_盈昇.png",
+      "path": "role_detail/skill/1410/skill_盈昇.png",
+      "size": 5588
+    },
+    {
+      "name": "skill_祭者独步.png",
+      "path": "role_detail/skill/1410/skill_祭者独步.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1410/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_新衍.png",
+      "path": "role_detail/skill/1410/skill_新衍.png",
+      "size": 5374
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1410/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_先觉赋格.png",
+      "path": "role_detail/skill/1410/skill_先觉赋格.png",
+      "size": 4046
+    },
+    {
+      "name": "skill_晦渡为明.png",
+      "path": "role_detail/skill/1410/skill_晦渡为明.png",
+      "size": 3858
+    },
+    {
+      "name": "skill_溺失月海.png",
+      "path": "role_detail/skill/1410/skill_溺失月海.png",
+      "size": 5018
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1410/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_照我以显.png",
+      "path": "role_detail/skill/1410/skill_照我以显.png",
+      "size": 4398
+    },
+    {
+      "name": "skill_于盈亏间涨落.png",
+      "path": "role_detail/skill/1410/skill_于盈亏间涨落.png",
+      "size": 6360
+    },
+    {
+      "name": "skill_链式.png",
+      "path": "role_detail/skill/1305/skill_链式.png",
+      "size": 2128
+    },
+    {
+      "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1305/skill_暴击伤害提升.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1305/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_基本推衍.png",
+      "path": "role_detail/skill/1305/skill_基本推衍.png",
+      "size": 3214
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1305/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_正理.png",
+      "path": "role_detail/skill/1305/skill_正理.png",
+      "size": 4186
+    },
+    {
+      "name": "skill_思维矩阵.png",
+      "path": "role_detail/skill/1305/skill_思维矩阵.png",
+      "size": 3690
+    },
+    {
+      "name": "skill_问难.png",
+      "path": "role_detail/skill/1305/skill_问难.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_察类明故.png",
+      "path": "role_detail/skill/1305/skill_察类明故.png",
+      "size": 4234
+    },
+    {
+      "name": "skill_睿知.png",
+      "path": "role_detail/skill/1305/skill_睿知.png",
+      "size": 3750
+    },
+    {
+      "name": "skill_潜心.png",
+      "path": "role_detail/skill/1305/skill_潜心.png",
+      "size": 3074
+    },
+    {
+      "name": "skill_万象归墟.png",
+      "path": "role_detail/skill/1408/skill_万象归墟.png",
+      "size": 4150
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1408/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1408/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_风息流转.png",
+      "path": "role_detail/skill/1408/skill_风息流转.png",
+      "size": 5050
+    },
+    {
+      "name": "skill_狂岚未尽.png",
+      "path": "role_detail/skill/1408/skill_狂岚未尽.png",
+      "size": 3520
+    },
+    {
+      "name": "skill_刻雾裁风.png",
+      "path": "role_detail/skill/1408/skill_刻雾裁风.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_无垠之风.png",
+      "path": "role_detail/skill/1408/skill_无垠之风.png",
+      "size": 4244
+    },
+    {
+      "name": "skill_裂象.png",
+      "path": "role_detail/skill/1408/skill_裂象.png",
+      "size": 4092
+    },
+    {
+      "name": "skill_空渡浮尘.png",
+      "path": "role_detail/skill/1408/skill_空渡浮尘.png",
+      "size": 3540
+    },
+    {
+      "name": "skill_流风回响.png",
+      "path": "role_detail/skill/1408/skill_流风回响.png",
+      "size": 3780
+    },
+    {
+      "name": "skill_治疗效果加成提升.png",
+      "path": "role_detail/skill/1408/skill_治疗效果加成提升.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_驭时.png",
+      "path": "role_detail/skill/1304/skill_驭时.png",
+      "size": 4904
+    },
+    {
+      "name": "skill_沐光.png",
+      "path": "role_detail/skill/1304/skill_沐光.png",
+      "size": 3560
+    },
+    {
+      "name": "skill_凝神.png",
+      "path": "role_detail/skill/1304/skill_凝神.png",
+      "size": 3756
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1304/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_浮光霁寒.png",
+      "path": "role_detail/skill/1304/skill_浮光霁寒.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1304/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_移岁诛邪.png",
+      "path": "role_detail/skill/1304/skill_移岁诛邪.png",
+      "size": 3952
+    },
+    {
+      "name": "skill_流光夕影.png",
+      "path": "role_detail/skill/1304/skill_流光夕影.png",
+      "size": 3434
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1304/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_蟠龙清辉.png",
+      "path": "role_detail/skill/1304/skill_蟠龙清辉.png",
+      "size": 4712
+    },
+    {
+      "name": "skill_万物一心.png",
+      "path": "role_detail/skill/1304/skill_万物一心.png",
+      "size": 4048
+    },
+    {
+      "name": "skill_无惧苦痛.png",
+      "path": "role_detail/skill/1507/skill_无惧苦痛.png",
+      "size": 4178
+    },
+    {
+      "name": "skill_来日道标.png",
+      "path": "role_detail/skill/1507/skill_来日道标.png",
+      "size": 3188
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1507/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_晨昏交替之时.png",
+      "path": "role_detail/skill/1507/skill_晨昏交替之时.png",
+      "size": 4362
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1507/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_快速响应.png",
+      "path": "role_detail/skill/1507/skill_快速响应.png",
+      "size": 4064
+    },
+    {
+      "name": "skill_黯夜将明.png",
+      "path": "role_detail/skill/1507/skill_黯夜将明.png",
+      "size": 5736
+    },
+    {
+      "name": "skill_例行交涉.png",
+      "path": "role_detail/skill/1507/skill_例行交涉.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_即刻执行.png",
+      "path": "role_detail/skill/1507/skill_即刻执行.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_无眠守望.png",
+      "path": "role_detail/skill/1507/skill_无眠守望.png",
+      "size": 5618
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1507/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_奋进·狮子奋迅，俱足万行.png",
+      "path": "role_detail/skill/1104/skill_奋进·狮子奋迅，俱足万行.png",
+      "size": 4360
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1104/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_狮班免掠，逢场避让.png",
+      "path": "role_detail/skill/1104/skill_狮班免掠，逢场避让.png",
+      "size": 4620
+    },
+    {
+      "name": "skill_冷凝伤害加成提升.png",
+      "path": "role_detail/skill/1104/skill_冷凝伤害加成提升.png",
+      "size": 5986
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1104/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_出洞·睡狮蛰醒.png",
+      "path": "role_detail/skill/1104/skill_出洞·睡狮蛰醒.png",
+      "size": 4510
+    },
+    {
+      "name": "skill_留痕·踏雪点星.png",
+      "path": "role_detail/skill/1104/skill_留痕·踏雪点星.png",
+      "size": 2780
+    },
+    {
+      "name": "skill_形神合一.png",
+      "path": "role_detail/skill/1104/skill_形神合一.png",
+      "size": 5620
+    },
+    {
+      "name": "skill_勤修苦练，锯牙磨砺.png",
+      "path": "role_detail/skill/1104/skill_勤修苦练，锯牙磨砺.png",
+      "size": 4216
+    },
+    {
+      "name": "skill_常态·凛凛威风拳.png",
+      "path": "role_detail/skill/1104/skill_常态·凛凛威风拳.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_冲掌·势式相承.png",
+      "path": "role_detail/skill/1104/skill_冲掌·势式相承.png",
+      "size": 2038
+    },
+    {
+      "name": "skill_导电伤害加成提升.png",
+      "path": "role_detail/skill/1303/skill_导电伤害加成提升.png",
+      "size": 5024
+    },
+    {
+      "name": "skill_驱雷.png",
+      "path": "role_detail/skill/1303/skill_驱雷.png",
+      "size": 3818
+    },
+    {
+      "name": "skill_寂土重明.png",
+      "path": "role_detail/skill/1303/skill_寂土重明.png",
+      "size": 3438
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1303/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_拳震凌武.png",
+      "path": "role_detail/skill/1303/skill_拳震凌武.png",
+      "size": 3336
+    },
+    {
+      "name": "skill_雷煌拳.png",
+      "path": "role_detail/skill/1303/skill_雷煌拳.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_防御提升.png",
+      "path": "role_detail/skill/1303/skill_防御提升.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_轰雷.png",
+      "path": "role_detail/skill/1303/skill_轰雷.png",
+      "size": 3642
+    },
+    {
+      "name": "skill_沉雷藏锋.png",
+      "path": "role_detail/skill/1303/skill_沉雷藏锋.png",
+      "size": 3644
+    },
+    {
+      "name": "skill_决电.png",
+      "path": "role_detail/skill/1303/skill_决电.png",
+      "size": 3108
+    },
+    {
+      "name": "skill_敛光.png",
+      "path": "role_detail/skill/1303/skill_敛光.png",
+      "size": 3126
+    },
+    {
+      "name": "skill_珠玑.png",
+      "path": "role_detail/skill/1106/skill_珠玑.png",
+      "size": 3342
+    },
+    {
+      "name": "skill_如意卜.png",
+      "path": "role_detail/skill/1106/skill_如意卜.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1106/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_诗中物.png",
+      "path": "role_detail/skill/1106/skill_诗中物.png",
+      "size": 4724
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1106/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_片玉.png",
+      "path": "role_detail/skill/1106/skill_片玉.png",
+      "size": 3254
+    },
+    {
+      "name": "skill_鉴珍.png",
+      "path": "role_detail/skill/1106/skill_鉴珍.png",
+      "size": 3768
+    },
+    {
+      "name": "skill_匣中问祯.png",
+      "path": "role_detail/skill/1106/skill_匣中问祯.png",
+      "size": 3140
+    },
+    {
+      "name": "skill_遂心匣.png",
+      "path": "role_detail/skill/1106/skill_遂心匣.png",
+      "size": 4196
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1106/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_霜坠.png",
+      "path": "role_detail/skill/1106/skill_霜坠.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_震声.png",
+      "path": "role_detail/skill/1501/skill_震声.png",
+      "size": 5664
+    },
+    {
+      "name": "skill_回响奏鸣.png",
+      "path": "role_detail/skill/1501/skill_回响奏鸣.png",
+      "size": 6870
+    },
+    {
+      "name": "skill_衍射伤害加成提升.png",
+      "path": "role_detail/skill/1501/skill_衍射伤害加成提升.png",
+      "size": 4788
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1501/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1501/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_万物微尘.png",
+      "path": "role_detail/skill/1501/skill_万物微尘.png",
+      "size": 4202
+    },
+    {
+      "name": "skill_浮声千斩.png",
+      "path": "role_detail/skill/1501/skill_浮声千斩.png",
+      "size": 5892
+    },
+    {
+      "name": "skill_瞬刻.png",
+      "path": "role_detail/skill/1501/skill_瞬刻.png",
+      "size": 3294
+    },
+    {
+      "name": "skill_静聆.png",
+      "path": "role_detail/skill/1501/skill_静聆.png",
+      "size": 3746
+    },
+    {
+      "name": "skill_屏息.png",
+      "path": "role_detail/skill/1501/skill_屏息.png",
+      "size": 4114
+    },
+    {
+      "name": "skill_化声为形.png",
+      "path": "role_detail/skill/1501/skill_化声为形.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_以心织就颂愿.png",
+      "path": "role_detail/skill/1409/skill_以心织就颂愿.png",
+      "size": 5818
+    },
+    {
+      "name": "skill_以剑奉读此身.png",
+      "path": "role_detail/skill/1409/skill_以剑奉读此身.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_此剑以人之名.png",
+      "path": "role_detail/skill/1409/skill_此剑以人之名.png",
+      "size": 4994
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1409/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_此剑，为潮水的过去.png",
+      "path": "role_detail/skill/1409/skill_此剑，为潮水的过去.png",
+      "size": 3874
+    },
+    {
+      "name": "skill_生命提升.png",
+      "path": "role_detail/skill/1409/skill_生命提升.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_听骑士从心祈愿.png",
+      "path": "role_detail/skill/1409/skill_听骑士从心祈愿.png",
+      "size": 5562
+    },
+    {
+      "name": "skill_以风刻痕留蚀.png",
+      "path": "role_detail/skill/1409/skill_以风刻痕留蚀.png",
+      "size": 4896
+    },
+    {
+      "name": "skill_暴风雨.png",
+      "path": "role_detail/skill/1409/skill_暴风雨.png",
+      "size": 5546
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1409/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_听风潮为你祝颂.png",
+      "path": "role_detail/skill/1409/skill_听风潮为你祝颂.png",
+      "size": 3334
+    },
+    {
+      "name": "skill_自我引力.png",
+      "path": "role_detail/skill/1505/skill_自我引力.png",
+      "size": 5180
+    },
+    {
+      "name": "skill_终末回环.png",
+      "path": "role_detail/skill/1505/skill_终末回环.png",
+      "size": 5590
+    },
+    {
+      "name": "skill_死生流溢.png",
+      "path": "role_detail/skill/1505/skill_死生流溢.png",
+      "size": 3010
+    },
+    {
+      "name": "skill_故此证明.png",
+      "path": "role_detail/skill/1505/skill_故此证明.png",
+      "size": 3900
+    },
+    {
+      "name": "skill_混沌理论.png",
+      "path": "role_detail/skill/1505/skill_混沌理论.png",
+      "size": 3698
+    },
+    {
+      "name": "skill_双联合相.png",
+      "path": "role_detail/skill/1505/skill_双联合相.png",
+      "size": 5390
+    },
+    {
+      "name": "skill_生命提升.png",
+      "path": "role_detail/skill/1505/skill_生命提升.png",
+      "size": 3492
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1505/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_群星漫响.png",
+      "path": "role_detail/skill/1505/skill_群星漫响.png",
+      "size": 4944
+    },
+    {
+      "name": "skill_真源构演.png",
+      "path": "role_detail/skill/1505/skill_真源构演.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_治疗效果加成提升.png",
+      "path": "role_detail/skill/1505/skill_治疗效果加成提升.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_临渊死寂.png",
+      "path": "role_detail/skill/1604/skill_临渊死寂.png",
+      "size": 3034
+    },
+    {
+      "name": "skill_唤声.png",
+      "path": "role_detail/skill/1604/skill_唤声.png",
+      "size": 2892
+    },
+    {
+      "name": "skill_变格.png",
+      "path": "role_detail/skill/1604/skill_变格.png",
+      "size": 3554
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1604/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_拢音.png",
+      "path": "role_detail/skill/1604/skill_拢音.png",
+      "size": 3178
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1604/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_裁羽弑音.png",
+      "path": "role_detail/skill/1604/skill_裁羽弑音.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_湮灭伤害加成提升.png",
+      "path": "role_detail/skill/1604/skill_湮灭伤害加成提升.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_永夜开明.png",
+      "path": "role_detail/skill/1604/skill_永夜开明.png",
+      "size": 5778
+    },
+    {
+      "name": "skill_行刃.png",
+      "path": "role_detail/skill/1604/skill_行刃.png",
+      "size": 2588
+    },
+    {
+      "name": "skill_化刹.png",
+      "path": "role_detail/skill/1604/skill_化刹.png",
+      "size": 3398
+    },
+    {
+      "name": "skill_万象归墟.png",
+      "path": "role_detail/skill/1406/skill_万象归墟.png",
+      "size": 4150
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1406/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1406/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_风息流转.png",
+      "path": "role_detail/skill/1406/skill_风息流转.png",
+      "size": 5050
+    },
+    {
+      "name": "skill_狂岚未尽.png",
+      "path": "role_detail/skill/1406/skill_狂岚未尽.png",
+      "size": 3520
+    },
+    {
+      "name": "skill_刻雾裁风.png",
+      "path": "role_detail/skill/1406/skill_刻雾裁风.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_无垠之风.png",
+      "path": "role_detail/skill/1406/skill_无垠之风.png",
+      "size": 4244
+    },
+    {
+      "name": "skill_裂象.png",
+      "path": "role_detail/skill/1406/skill_裂象.png",
+      "size": 4092
+    },
+    {
+      "name": "skill_空渡浮尘.png",
+      "path": "role_detail/skill/1406/skill_空渡浮尘.png",
+      "size": 3540
+    },
+    {
+      "name": "skill_流风回响.png",
+      "path": "role_detail/skill/1406/skill_流风回响.png",
+      "size": 3780
+    },
+    {
+      "name": "skill_治疗效果加成提升.png",
+      "path": "role_detail/skill/1406/skill_治疗效果加成提升.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1603/skill_暴击伤害提升.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_缠绕.png",
+      "path": "role_detail/skill/1603/skill_缠绕.png",
+      "size": 3726
+    },
+    {
+      "name": "skill_温床.png",
+      "path": "role_detail/skill/1603/skill_温床.png",
+      "size": 3974
+    },
+    {
+      "name": "skill_侵占.png",
+      "path": "role_detail/skill/1603/skill_侵占.png",
+      "size": 3386
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1603/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1603/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_芳华绽烬.png",
+      "path": "role_detail/skill/1603/skill_芳华绽烬.png",
+      "size": 3758
+    },
+    {
+      "name": "skill_育种.png",
+      "path": "role_detail/skill/1603/skill_育种.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_盛放与凋零的轮舞.png",
+      "path": "role_detail/skill/1603/skill_盛放与凋零的轮舞.png",
+      "size": 4936
+    },
+    {
+      "name": "skill_植物性宇宙.png",
+      "path": "role_detail/skill/1603/skill_植物性宇宙.png",
+      "size": 4832
+    },
+    {
+      "name": "skill_八千春秋.png",
+      "path": "role_detail/skill/1603/skill_八千春秋.png",
+      "size": 4036
+    },
+    {
+      "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1606/skill_暴击伤害提升.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1606/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_道具师的自我修养.png",
+      "path": "role_detail/skill/1606/skill_道具师的自我修养.png",
+      "size": 5120
+    },
+    {
+      "name": "skill_无尽引力珍奇箱.png",
+      "path": "role_detail/skill/1606/skill_无尽引力珍奇箱.png",
+      "size": 4404
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1606/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_掌声鼓励.png",
+      "path": "role_detail/skill/1606/skill_掌声鼓励.png",
+      "size": 3630
+    },
+    {
+      "name": "skill_佩洛，悠着点.png",
+      "path": "role_detail/skill/1606/skill_佩洛，悠着点.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_沉浸式演出.png",
+      "path": "role_detail/skill/1606/skill_沉浸式演出.png",
+      "size": 3922
+    },
+    {
+      "name": "skill_高难度设计.png",
+      "path": "role_detail/skill/1606/skill_高难度设计.png",
+      "size": 4006
+    },
+    {
+      "name": "skill_佩洛，来帮忙.png",
+      "path": "role_detail/skill/1606/skill_佩洛，来帮忙.png",
+      "size": 4296
+    },
+    {
+      "name": "skill_即兴喜剧，开场.png",
+      "path": "role_detail/skill/1606/skill_即兴喜剧，开场.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_策电.png",
+      "path": "role_detail/skill/1302/skill_策电.png",
+      "size": 2386
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1302/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_破天雷灭击.png",
+      "path": "role_detail/skill/1302/skill_破天雷灭击.png",
+      "size": 4784
+    },
+    {
+      "name": "skill_千面魅影.png",
+      "path": "role_detail/skill/1302/skill_千面魅影.png",
+      "size": 4464
+    },
+    {
+      "name": "skill_磁殛咆哮.png",
+      "path": "role_detail/skill/1302/skill_磁殛咆哮.png",
+      "size": 4928
+    },
+    {
+      "name": "skill_狂雷飓风.png",
+      "path": "role_detail/skill/1302/skill_狂雷飓风.png",
+      "size": 4466
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1302/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_悬丝华刃舞.png",
+      "path": "role_detail/skill/1302/skill_悬丝华刃舞.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_目标专注.png",
+      "path": "role_detail/skill/1302/skill_目标专注.png",
+      "size": 3616
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1302/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_浸渍痛楚.png",
+      "path": "role_detail/skill/1302/skill_浸渍痛楚.png",
+      "size": 2438
+    },
+    {
+      "name": "skill_幻影蚀刻.png",
+      "path": "role_detail/skill/1301/skill_幻影蚀刻.png",
+      "size": 5384
+    },
+    {
+      "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1301/skill_暴击伤害提升.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_灭杀指令.png",
+      "path": "role_detail/skill/1301/skill_灭杀指令.png",
+      "size": 3180
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1301/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_喋血觉悟.png",
+      "path": "role_detail/skill/1301/skill_喋血觉悟.png",
+      "size": 4746
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1301/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_掠影奇袭.png",
+      "path": "role_detail/skill/1301/skill_掠影奇袭.png",
+      "size": 3054
+    },
+    {
+      "name": "skill_全境通缉.png",
+      "path": "role_detail/skill/1301/skill_全境通缉.png",
+      "size": 3318
+    },
+    {
+      "name": "skill_无暇赴死.png",
+      "path": "role_detail/skill/1301/skill_无暇赴死.png",
+      "size": 5186
+    },
+    {
+      "name": "skill_猎犬剑技·獠牙撕扯.png",
+      "path": "role_detail/skill/1301/skill_猎犬剑技·獠牙撕扯.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_猎杀使命.png",
+      "path": "role_detail/skill/1301/skill_猎杀使命.png",
+      "size": 4662
+    },
+    {
+      "name": "skill_千钧.png",
+      "path": "role_detail/skill/1601/skill_千钧.png",
+      "size": 3572
+    },
+    {
+      "name": "skill_固若金汤.png",
+      "path": "role_detail/skill/1601/skill_固若金汤.png",
+      "size": 6008
+    },
+    {
+      "name": "skill_岿然.png",
+      "path": "role_detail/skill/1601/skill_岿然.png",
+      "size": 5426
+    },
+    {
+      "name": "skill_携攻守阵.png",
+      "path": "role_detail/skill/1601/skill_携攻守阵.png",
+      "size": 6410
+    },
+    {
+      "name": "skill_攻防转换.png",
+      "path": "role_detail/skill/1601/skill_攻防转换.png",
+      "size": 4142
+    },
+    {
+      "name": "skill_重器藏锋.png",
+      "path": "role_detail/skill/1601/skill_重器藏锋.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1601/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_防御提升.png",
+      "path": "role_detail/skill/1601/skill_防御提升.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_不动如山.png",
+      "path": "role_detail/skill/1601/skill_不动如山.png",
+      "size": 6040
+    },
+    {
+      "name": "skill_湮灭伤害加成提升.png",
+      "path": "role_detail/skill/1601/skill_湮灭伤害加成提升.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_护心.png",
+      "path": "role_detail/skill/1601/skill_护心.png",
+      "size": 5214
+    },
+    {
+      "name": "skill_湛蓝礼赞.png",
+      "path": "role_detail/skill/1402/skill_湛蓝礼赞.png",
+      "size": 4530
+    },
+    {
+      "name": "skill_怀悯.png",
+      "path": "role_detail/skill/1402/skill_怀悯.png",
+      "size": 3634
+    },
+    {
+      "name": "skill_气动伤害加成提升.png",
+      "path": "role_detail/skill/1402/skill_气动伤害加成提升.png",
+      "size": 4828
+    },
+    {
+      "name": "skill_流风载域.png",
+      "path": "role_detail/skill/1402/skill_流风载域.png",
+      "size": 6748
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1402/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_解意.png",
+      "path": "role_detail/skill/1402/skill_解意.png",
+      "size": 4608
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1402/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_衍息.png",
+      "path": "role_detail/skill/1402/skill_衍息.png",
+      "size": 2692
+    },
+    {
+      "name": "skill_覆声裁羽.png",
+      "path": "role_detail/skill/1402/skill_覆声裁羽.png",
+      "size": 3622
+    },
+    {
+      "name": "skill_风羽为刃.png",
+      "path": "role_detail/skill/1402/skill_风羽为刃.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_朔风旋涌.png",
+      "path": "role_detail/skill/1402/skill_朔风旋涌.png",
+      "size": 6716
+    },
+    {
+      "name": "skill_艺术至上.png",
+      "path": "role_detail/skill/1107/skill_艺术至上.png",
+      "size": 2454
+    },
+    {
+      "name": "skill_致辞.png",
+      "path": "role_detail/skill/1107/skill_致辞.png",
+      "size": 3716
+    },
+    {
+      "name": "skill_艺间巡礼.png",
+      "path": "role_detail/skill/1107/skill_艺间巡礼.png",
+      "size": 4472
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1107/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_谐度破坏·佩枪.png",
+      "path": "role_detail/skill/1107/skill_谐度破坏·佩枪.png",
+      "size": 3262
+    },
+    {
+      "name": "skill_入冬叹调.png",
+      "path": "role_detail/skill/1107/skill_入冬叹调.png",
+      "size": 3982
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1107/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_缄默执行.png",
+      "path": "role_detail/skill/1107/skill_缄默执行.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_新浪潮时代.png",
+      "path": "role_detail/skill/1107/skill_新浪潮时代.png",
+      "size": 3430
+    },
+    {
+      "name": "skill_暴力美学.png",
+      "path": "role_detail/skill/1107/skill_暴力美学.png",
+      "size": 4882
+    },
+    {
+      "name": "skill_无瑕净度.png",
+      "path": "role_detail/skill/1107/skill_无瑕净度.png",
+      "size": 3402
+    },
+    {
+      "name": "skill_羊咩出击.png",
+      "path": "role_detail/skill/1203/skill_羊咩出击.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_黑白羊咩.png",
+      "path": "role_detail/skill/1203/skill_黑白羊咩.png",
+      "size": 4576
+    },
+    {
+      "name": "skill_热熔伤害加成提升.png",
+      "path": "role_detail/skill/1203/skill_热熔伤害加成提升.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1203/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_生气的黑咩.png",
+      "path": "role_detail/skill/1203/skill_生气的黑咩.png",
+      "size": 4986
+    },
+    {
+      "name": "skill_黑咩大暴走.png",
+      "path": "role_detail/skill/1203/skill_黑咩大暴走.png",
+      "size": 5484
+    },
+    {
+      "name": "skill_热场.png",
+      "path": "role_detail/skill/1203/skill_热场.png",
+      "size": 2378
+    },
+    {
+      "name": "skill_热力羊咩.png",
+      "path": "role_detail/skill/1203/skill_热力羊咩.png",
+      "size": 4998
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1203/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_咩咩加油歌.png",
+      "path": "role_detail/skill/1203/skill_咩咩加油歌.png",
+      "size": 5182
+    },
+    {
+      "name": "skill_咩咩帮手.png",
+      "path": "role_detail/skill/1203/skill_咩咩帮手.png",
+      "size": 5452
+    },
+    {
+      "name": "skill_怒火赋格.png",
+      "path": "role_detail/skill/1204/skill_怒火赋格.png",
+      "size": 3694
+    },
+    {
+      "name": "skill_节奏自由.png",
+      "path": "role_detail/skill/1204/skill_节奏自由.png",
+      "size": 3642
+    },
+    {
+      "name": "skill_激昂变奏.png",
+      "path": "role_detail/skill/1204/skill_激昂变奏.png",
+      "size": 4640
+    },
+    {
+      "name": "skill_热熔伤害加成提升.png",
+      "path": "role_detail/skill/1204/skill_热熔伤害加成提升.png",
+      "size": 4184
+    },
+    {
+      "name": "skill_不协和音.png",
+      "path": "role_detail/skill/1204/skill_不协和音.png",
+      "size": 3246
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1204/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_即兴发挥.png",
+      "path": "role_detail/skill/1204/skill_即兴发挥.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_谐度破坏·佩枪.png",
+      "path": "role_detail/skill/1204/skill_谐度破坏·佩枪.png",
+      "size": 3262
+    },
+    {
+      "name": "skill_怒意移调.png",
+      "path": "role_detail/skill/1204/skill_怒意移调.png",
+      "size": 4004
+    },
+    {
+      "name": "skill_暴烈终曲.png",
+      "path": "role_detail/skill/1204/skill_暴烈终曲.png",
+      "size": 4018
+    },
+    {
+      "name": "skill_密接和应.png",
+      "path": "role_detail/skill/1204/skill_密接和应.png",
+      "size": 3702
+    },
+    {
+      "name": "skill_临渊死寂.png",
+      "path": "role_detail/skill/1605/skill_临渊死寂.png",
+      "size": 3034
+    },
+    {
+      "name": "skill_唤声.png",
+      "path": "role_detail/skill/1605/skill_唤声.png",
+      "size": 2892
+    },
+    {
+      "name": "skill_变格.png",
+      "path": "role_detail/skill/1605/skill_变格.png",
+      "size": 3554
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1605/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_拢音.png",
+      "path": "role_detail/skill/1605/skill_拢音.png",
+      "size": 3178
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1605/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_裁羽弑音.png",
+      "path": "role_detail/skill/1605/skill_裁羽弑音.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_湮灭伤害加成提升.png",
+      "path": "role_detail/skill/1605/skill_湮灭伤害加成提升.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_永夜开明.png",
+      "path": "role_detail/skill/1605/skill_永夜开明.png",
+      "size": 5778
+    },
+    {
+      "name": "skill_行刃.png",
+      "path": "role_detail/skill/1605/skill_行刃.png",
+      "size": 2588
+    },
+    {
+      "name": "skill_化刹.png",
+      "path": "role_detail/skill/1605/skill_化刹.png",
+      "size": 3398
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1405/skill_谐度破坏·臂铠.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1405/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_混元气旋.png",
+      "path": "role_detail/skill/1405/skill_混元气旋.png",
+      "size": 4288
+    },
+    {
+      "name": "skill_覆映吾身.png",
+      "path": "role_detail/skill/1405/skill_覆映吾身.png",
+      "size": 2944
+    },
+    {
+      "name": "skill_化境.png",
+      "path": "role_detail/skill/1405/skill_化境.png",
+      "size": 3348
+    },
+    {
+      "name": "skill_风仪拳术.png",
+      "path": "role_detail/skill/1405/skill_风仪拳术.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_涤净力场.png",
+      "path": "role_detail/skill/1405/skill_涤净力场.png",
+      "size": 2666
+    },
+    {
+      "name": "skill_形释无极.png",
+      "path": "role_detail/skill/1405/skill_形释无极.png",
+      "size": 3848
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1405/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_静气循行.png",
+      "path": "role_detail/skill/1405/skill_静气循行.png",
+      "size": 3522
+    },
+    {
+      "name": "skill_绯红绽放.png",
+      "path": "role_detail/skill/1602/skill_绯红绽放.png",
+      "size": 6372
+    },
+    {
+      "name": "skill_击雠.png",
+      "path": "role_detail/skill/1602/skill_击雠.png",
+      "size": 5514
+    },
+    {
+      "name": "skill_盈溢.png",
+      "path": "role_detail/skill/1602/skill_盈溢.png",
+      "size": 3826
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1602/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1602/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_朱华残章.png",
+      "path": "role_detail/skill/1602/skill_朱华残章.png",
+      "size": 6710
+    },
+    {
+      "name": "skill_湮灭伤害加成提升.png",
+      "path": "role_detail/skill/1602/skill_湮灭伤害加成提升.png",
+      "size": 5448
+    },
+    {
+      "name": "skill_明晦.png",
+      "path": "role_detail/skill/1602/skill_明晦.png",
+      "size": 4024
+    },
+    {
+      "name": "skill_丹心昭瑾.png",
+      "path": "role_detail/skill/1602/skill_丹心昭瑾.png",
+      "size": 3922
+    },
+    {
+      "name": "skill_绯光.png",
+      "path": "role_detail/skill/1602/skill_绯光.png",
+      "size": 3830
+    },
+    {
+      "name": "skill_执刃.png",
+      "path": "role_detail/skill/1602/skill_执刃.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_质黑相青.png",
+      "path": "role_detail/skill/1411/skill_质黑相青.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_且从容.png",
+      "path": "role_detail/skill/1411/skill_且从容.png",
+      "size": 4036
+    },
+    {
+      "name": "skill_穿林打叶.png",
+      "path": "role_detail/skill/1411/skill_穿林打叶.png",
+      "size": 3854
+    },
+    {
+      "name": "skill_与尔同销万古愁.png",
+      "path": "role_detail/skill/1411/skill_与尔同销万古愁.png",
+      "size": 4272
+    },
+    {
+      "name": "skill_攻其必救.png",
+      "path": "role_detail/skill/1411/skill_攻其必救.png",
+      "size": 3544
+    },
+    {
+      "name": "skill_裁竹为锋.png",
+      "path": "role_detail/skill/1411/skill_裁竹为锋.png",
+      "size": 4164
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1411/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1411/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_万钧一断.png",
+      "path": "role_detail/skill/1411/skill_万钧一断.png",
+      "size": 4622
+    },
+    {
+      "name": "skill_出其不趋.png",
+      "path": "role_detail/skill/1411/skill_出其不趋.png",
+      "size": 3994
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1411/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_赫羽三相.png",
+      "path": "role_detail/skill/1205/skill_赫羽三相.png",
+      "size": 4352
+    },
+    {
+      "name": "skill_离火照丹心.png",
+      "path": "role_detail/skill/1205/skill_离火照丹心.png",
+      "size": 5374
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1205/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1205/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_散势.png",
+      "path": "role_detail/skill/1205/skill_散势.png",
+      "size": 4258
+    },
+    {
+      "name": "skill_天道持枢.png",
+      "path": "role_detail/skill/1205/skill_天道持枢.png",
+      "size": 5298
+    },
+    {
+      "name": "skill_奇正相生.png",
+      "path": "role_detail/skill/1205/skill_奇正相生.png",
+      "size": 3522
+    },
+    {
+      "name": "skill_焚身以火.png",
+      "path": "role_detail/skill/1205/skill_焚身以火.png",
+      "size": 5242
+    },
+    {
+      "name": "skill_潜谋.png",
+      "path": "role_detail/skill/1205/skill_潜谋.png",
+      "size": 3034
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1205/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_衔火洞明.png",
+      "path": "role_detail/skill/1205/skill_衔火洞明.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_专项派送.png",
+      "path": "role_detail/skill/1504/skill_专项派送.png",
+      "size": 4134
+    },
+    {
+      "name": "skill_奔赴.png",
+      "path": "role_detail/skill/1504/skill_奔赴.png",
+      "size": 4324
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1504/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_啾啾专送.png",
+      "path": "role_detail/skill/1504/skill_啾啾专送.png",
+      "size": 5534
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1504/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_前路领航.png",
+      "path": "role_detail/skill/1504/skill_前路领航.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_信号闪耀.png",
+      "path": "role_detail/skill/1504/skill_信号闪耀.png",
+      "size": 4436
+    },
+    {
+      "name": "skill_灯光探照.png",
+      "path": "role_detail/skill/1504/skill_灯光探照.png",
+      "size": 3980
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1504/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_寻路.png",
+      "path": "role_detail/skill/1504/skill_寻路.png",
+      "size": 4120
+    },
+    {
+      "name": "skill_护航.png",
+      "path": "role_detail/skill/1504/skill_护航.png",
+      "size": 4472
+    },
+    {
+      "name": "skill_柔翰生辉.png",
+      "path": "role_detail/skill/1105/skill_柔翰生辉.png",
+      "size": 3116
+    },
+    {
+      "name": "skill_妙笔丹青.png",
+      "path": "role_detail/skill/1105/skill_妙笔丹青.png",
+      "size": 3922
+    },
+    {
+      "name": "skill_挥毫.png",
+      "path": "role_detail/skill/1105/skill_挥毫.png",
+      "size": 3378
+    },
+    {
+      "name": "skill_虚实境趣.png",
+      "path": "role_detail/skill/1105/skill_虚实境趣.png",
+      "size": 3364
+    },
+    {
+      "name": "skill_以形写神.png",
+      "path": "role_detail/skill/1105/skill_以形写神.png",
+      "size": 2972
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1105/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1105/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_提白.png",
+      "path": "role_detail/skill/1105/skill_提白.png",
+      "size": 3348
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1105/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_点睛.png",
+      "path": "role_detail/skill/1105/skill_点睛.png",
+      "size": 3880
+    },
+    {
+      "name": "skill_轻云淡墨.png",
+      "path": "role_detail/skill/1105/skill_轻云淡墨.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_解弦视界·万理归尘.png",
+      "path": "role_detail/skill/1508/skill_解弦视界·万理归尘.png",
+      "size": 4744
+    },
+    {
+      "name": "skill_鸣响·再临.png",
+      "path": "role_detail/skill/1508/skill_鸣响·再临.png",
+      "size": 3056
+    },
+    {
+      "name": "skill_终点在此处.png",
+      "path": "role_detail/skill/1508/skill_终点在此处.png",
+      "size": 3296
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1508/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_解弦式第零定律.png",
+      "path": "role_detail/skill/1508/skill_解弦式第零定律.png",
+      "size": 2070
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1508/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_即刻·归无.png",
+      "path": "role_detail/skill/1508/skill_即刻·归无.png",
+      "size": 4144
+    },
+    {
+      "name": "skill_俱寂.png",
+      "path": "role_detail/skill/1508/skill_俱寂.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_无解的命途.png",
+      "path": "role_detail/skill/1508/skill_无解的命途.png",
+      "size": 4630
+    },
+    {
+      "name": "skill_碎面构图.png",
+      "path": "role_detail/skill/1508/skill_碎面构图.png",
+      "size": 2544
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1508/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_你在看哪里？.png",
+      "path": "role_detail/skill/1207/skill_你在看哪里？.png",
+      "size": 3354
+    },
+    {
+      "name": "skill_记住我的名字.png",
+      "path": "role_detail/skill/1207/skill_记住我的名字.png",
+      "size": 3040
+    },
+    {
+      "name": "skill_燃星.png",
+      "path": "role_detail/skill/1207/skill_燃星.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1207/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_荣光欢酣于火.png",
+      "path": "role_detail/skill/1207/skill_荣光欢酣于火.png",
+      "size": 3010
+    },
+    {
+      "name": "skill_围猎.png",
+      "path": "role_detail/skill/1207/skill_围猎.png",
+      "size": 2808
+    },
+    {
+      "name": "skill_焰狼宣告.png",
+      "path": "role_detail/skill/1207/skill_焰狼宣告.png",
+      "size": 3274
+    },
+    {
+      "name": "skill_搭档啊，与我并肩.png",
+      "path": "role_detail/skill/1207/skill_搭档啊，与我并肩.png",
+      "size": 3396
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1207/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1207/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_胜利为我呼嚎.png",
+      "path": "role_detail/skill/1207/skill_胜利为我呼嚎.png",
+      "size": 2554
+    },
+    {
+      "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1506/skill_暴击伤害提升.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1506/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_交错星辉的祝祷.png",
+      "path": "role_detail/skill/1506/skill_交错星辉的祝祷.png",
+      "size": 4908
+    },
+    {
+      "name": "skill_临在.png",
+      "path": "role_detail/skill/1506/skill_临在.png",
+      "size": 4334
+    },
+    {
+      "name": "skill_启明之誓愿.png",
+      "path": "role_detail/skill/1506/skill_启明之誓愿.png",
+      "size": 3622
+    },
+    {
+      "name": "skill_金色恩典.png",
+      "path": "role_detail/skill/1506/skill_金色恩典.png",
+      "size": 5472
+    },
+    {
+      "name": "skill_敬请光辉降落.png",
+      "path": "role_detail/skill/1506/skill_敬请光辉降落.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1506/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_倾听之心.png",
+      "path": "role_detail/skill/1506/skill_倾听之心.png",
+      "size": 4840
+    },
+    {
+      "name": "skill_追寻光芒之所.png",
+      "path": "role_detail/skill/1506/skill_追寻光芒之所.png",
+      "size": 4626
+    },
+    {
+      "name": "skill_启示.png",
+      "path": "role_detail/skill/1506/skill_启示.png",
+      "size": 3880
+    },
+    {
+      "name": "skill_逐狩.png",
+      "path": "role_detail/skill/1306/skill_逐狩.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_荣誉的加护.png",
+      "path": "role_detail/skill/1306/skill_荣誉的加护.png",
+      "size": 2554
+    },
+    {
+      "name": "skill_至日的征伐.png",
+      "path": "role_detail/skill/1306/skill_至日的征伐.png",
+      "size": 3154
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1306/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_斩锋.png",
+      "path": "role_detail/skill/1306/skill_斩锋.png",
+      "size": 2954
+    },
+    {
+      "name": "skill_曜阳如我.png",
+      "path": "role_detail/skill/1306/skill_曜阳如我.png",
+      "size": 4262
+    },
+    {
+      "name": "skill_灼金的巡行.png",
+      "path": "role_detail/skill/1306/skill_灼金的巡行.png",
+      "size": 3010
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1306/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_不屈的战歌.png",
+      "path": "role_detail/skill/1306/skill_不屈的战歌.png",
+      "size": 3228
+    },
+    {
+      "name": "skill_炽盛决意.png",
+      "path": "role_detail/skill/1306/skill_炽盛决意.png",
+      "size": 3172
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1306/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_海中戏剧.png",
+      "path": "role_detail/skill/1206/skill_海中戏剧.png",
+      "size": 5302
+    },
+    {
+      "name": "skill_航向确定！.png",
+      "path": "role_detail/skill/1206/skill_航向确定！.png",
+      "size": 4976
+    },
+    {
+      "name": "skill_迎海投火的决意.png",
+      "path": "role_detail/skill/1206/skill_迎海投火的决意.png",
+      "size": 2904
+    },
+    {
+      "name": "skill_船长的狂想演出.png",
+      "path": "role_detail/skill/1206/skill_船长的狂想演出.png",
+      "size": 2008
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1206/skill_谐度破坏·迅刀.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1206/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_直到世界尽头.png",
+      "path": "role_detail/skill/1206/skill_直到世界尽头.png",
+      "size": 5906
+    },
+    {
+      "name": "skill_为我！.png",
+      "path": "role_detail/skill/1206/skill_为我！.png",
+      "size": 3692
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1206/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_起锚！.png",
+      "path": "role_detail/skill/1206/skill_起锚！.png",
+      "size": 3464
+    },
+    {
+      "name": "skill_领航之焰.png",
+      "path": "role_detail/skill/1206/skill_领航之焰.png",
+      "size": 3066
+    },
+    {
+      "name": "skill_泛彩流光.png",
+      "path": "role_detail/skill/1509/skill_泛彩流光.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_《自适应光学在生活中的实际应用》.png",
+      "path": "role_detail/skill/1509/skill_《自适应光学在生活中的实际应用》.png",
+      "size": 3570
+    },
+    {
+      "name": "skill_来点儿颜色瞧瞧！.png",
+      "path": "role_detail/skill/1509/skill_来点儿颜色瞧瞧！.png",
+      "size": 4566
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1509/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_光谱解析.png",
+      "path": "role_detail/skill/1509/skill_光谱解析.png",
+      "size": 3262
+    },
+    {
+      "name": "skill_琳奈式创想.png",
+      "path": "role_detail/skill/1509/skill_琳奈式创想.png",
+      "size": 3082
+    },
+    {
+      "name": "skill_永不褪色！.png",
+      "path": "role_detail/skill/1509/skill_永不褪色！.png",
+      "size": 3332
+    },
+    {
+      "name": "skill_色光混合律.png",
+      "path": "role_detail/skill/1509/skill_色光混合律.png",
+      "size": 4384
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1509/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_爆炸喷涂.png",
+      "path": "role_detail/skill/1509/skill_爆炸喷涂.png",
+      "size": 4366
+    },
+    {
+      "name": "skill_有空一起兜风！.png",
+      "path": "role_detail/skill/1509/skill_有空一起兜风！.png",
+      "size": 4920
+    },
+    {
+      "name": "skill_解耦.png",
+      "path": "role_detail/skill/1209/skill_解耦.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_基态校准.png",
+      "path": "role_detail/skill/1209/skill_基态校准.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_有界.png",
+      "path": "role_detail/skill/1209/skill_有界.png",
+      "size": 4432
+    },
+    {
+      "name": "skill_临界协议.png",
+      "path": "role_detail/skill/1209/skill_临界协议.png",
+      "size": 3928
+    },
+    {
+      "name": "skill_递归.png",
+      "path": "role_detail/skill/1209/skill_递归.png",
+      "size": 4440
+    },
+    {
+      "name": "skill_防御提升.png",
+      "path": "role_detail/skill/1209/skill_防御提升.png",
+      "size": 3802
+    },
+    {
+      "name": "skill_质能等价.png",
+      "path": "role_detail/skill/1209/skill_质能等价.png",
+      "size": 4568
+    },
+    {
+      "name": "skill_蓝图.png",
+      "path": "role_detail/skill/1209/skill_蓝图.png",
+      "size": 4110
+    },
+    {
+      "name": "skill_解算.png",
+      "path": "role_detail/skill/1209/skill_解算.png",
+      "size": 5012
+    },
+    {
+      "name": "skill_归敛.png",
+      "path": "role_detail/skill/1209/skill_归敛.png",
+      "size": 3864
+    },
+    {
+      "name": "skill_治疗效果加成提升.png",
+      "path": "role_detail/skill/1209/skill_治疗效果加成提升.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_蕴风集流.png",
+      "path": "role_detail/skill/1404/skill_蕴风集流.png",
+      "size": 3218
+    },
+    {
+      "name": "skill_克己.png",
+      "path": "role_detail/skill/1404/skill_克己.png",
+      "size": 3954
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1404/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_枪扫风定.png",
+      "path": "role_detail/skill/1404/skill_枪扫风定.png",
+      "size": 3074
+    },
+    {
+      "name": "skill_垂天平澜.png",
+      "path": "role_detail/skill/1404/skill_垂天平澜.png",
+      "size": 3214
+    },
+    {
+      "name": "skill_谐度破坏·长刃.png",
+      "path": "role_detail/skill/1404/skill_谐度破坏·长刃.png",
+      "size": 3740
+    },
+    {
+      "name": "skill_孤枪止戈.png",
+      "path": "role_detail/skill/1404/skill_孤枪止戈.png",
+      "size": 2040
+    },
+    {
+      "name": "skill_攻其不备.png",
+      "path": "role_detail/skill/1404/skill_攻其不备.png",
+      "size": 2882
+    },
+    {
+      "name": "skill_苍躣八荒·谋定.png",
+      "path": "role_detail/skill/1404/skill_苍躣八荒·谋定.png",
+      "size": 3486
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1404/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_苍龙破阵.png",
+      "path": "role_detail/skill/1404/skill_苍龙破阵.png",
+      "size": 5338
+    },
+    {
+      "name": "skill_吉时已至，厄运退散.png",
+      "path": "role_detail/skill/1307/skill_吉时已至，厄运退散.png",
+      "size": 3124
+    },
+    {
+      "name": "skill_役将驱邪.png",
+      "path": "role_detail/skill/1307/skill_役将驱邪.png",
+      "size": 4922
+    },
+    {
+      "name": "skill_卦起雷动.png",
+      "path": "role_detail/skill/1307/skill_卦起雷动.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_飞雷诀.png",
+      "path": "role_detail/skill/1307/skill_飞雷诀.png",
+      "size": 4156
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1307/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1307/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_召劾鬼神.png",
+      "path": "role_detail/skill/1307/skill_召劾鬼神.png",
+      "size": 3664
+    },
+    {
+      "name": "skill_雷炁化生.png",
+      "path": "role_detail/skill/1307/skill_雷炁化生.png",
+      "size": 4620
+    },
+    {
+      "name": "skill_治疗效果加成提升.png",
+      "path": "role_detail/skill/1307/skill_治疗效果加成提升.png",
+      "size": 3512
+    },
+    {
+      "name": "skill_我名地上仙.png",
+      "path": "role_detail/skill/1307/skill_我名地上仙.png",
+      "size": 3204
+    },
+    {
+      "name": "skill_遁影牵雷.png",
+      "path": "role_detail/skill/1307/skill_遁影牵雷.png",
+      "size": 4220
+    },
+    {
+      "name": "skill_谐律速奏.png",
+      "path": "role_detail/skill/1407/skill_谐律速奏.png",
+      "size": 3986
+    },
+    {
+      "name": "skill_四拍的舞曲.png",
+      "path": "role_detail/skill/1407/skill_四拍的舞曲.png",
+      "size": 1366
+    },
+    {
+      "name": "skill_携风吟游.png",
+      "path": "role_detail/skill/1407/skill_携风吟游.png",
+      "size": 3324
+    },
+    {
+      "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1407/skill_暴击伤害提升.png",
+      "size": 6678
+    },
+    {
+      "name": "skill_风与诗乐的交响.png",
+      "path": "role_detail/skill/1407/skill_风与诗乐的交响.png",
+      "size": 5684
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1407/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_幕间伴奏.png",
+      "path": "role_detail/skill/1407/skill_幕间伴奏.png",
+      "size": 3246
+    },
+    {
+      "name": "skill_歌者的三重华彩.png",
+      "path": "role_detail/skill/1407/skill_歌者的三重华彩.png",
+      "size": 4584
+    },
+    {
+      "name": "skill_谐度破坏·佩枪.png",
+      "path": "role_detail/skill/1407/skill_谐度破坏·佩枪.png",
+      "size": 3262
+    },
+    {
+      "name": "skill_和声引风.png",
+      "path": "role_detail/skill/1407/skill_和声引风.png",
+      "size": 3836
+    },
+    {
+      "name": "skill_黎那汐塔之风.png",
+      "path": "role_detail/skill/1407/skill_黎那汐塔之风.png",
+      "size": 4882
+    },
+    {
+      "name": "skill_星星花绽放.png",
+      "path": "role_detail/skill/1503/skill_星星花绽放.png",
       "size": 4314
     },
     {
-      "name": "skill_14.png",
-      "path": "role_detail/skill/1503/skill_14.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_2.png",
-      "path": "role_detail/skill/1503/skill_2.png",
-      "size": 4772
-    },
-    {
-      "name": "skill_10.png",
-      "path": "role_detail/skill/1503/skill_10.png",
-      "size": 3600
-    },
-    {
-      "name": "skill_4.png",
-      "path": "role_detail/skill/1503/skill_4.png",
-      "size": 5064
-    },
-    {
-      "name": "skill_16.png",
-      "path": "role_detail/skill/1503/skill_16.png",
-      "size": 3512
-    },
-    {
-      "name": "skill_5.png",
-      "path": "role_detail/skill/1503/skill_5.png",
+      "name": "skill_生命的恩惠.png",
+      "path": "role_detail/skill/1503/skill_生命的恩惠.png",
       "size": 5900
     },
     {
-      "name": "skill_11.png",
-      "path": "role_detail/skill/1503/skill_11.png",
+      "name": "skill_蔓延.png",
+      "path": "role_detail/skill/1503/skill_蔓延.png",
+      "size": 4232
+    },
+    {
+      "name": "skill_扩繁试验.png",
+      "path": "role_detail/skill/1503/skill_扩繁试验.png",
+      "size": 4772
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1503/skill_攻击提升.png",
       "size": 3600
     },
     {
-      "name": "skill_13.png",
-      "path": "role_detail/skill/1503/skill_13.png",
+      "name": "skill_盛放.png",
+      "path": "role_detail/skill/1503/skill_盛放.png",
+      "size": 3770
+    },
+    {
+      "name": "skill_自然的献礼.png",
+      "path": "role_detail/skill/1503/skill_自然的献礼.png",
+      "size": 5064
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1503/skill_谐度破坏·音感仪.png",
+      "size": 3778
+    },
+    {
+      "name": "skill_育苗.png",
+      "path": "role_detail/skill/1503/skill_育苗.png",
+      "size": 2280
+    },
+    {
+      "name": "skill_治疗效果加成提升.png",
+      "path": "role_detail/skill/1503/skill_治疗效果加成提升.png",
       "size": 3512
     },
     {
-      "name": "skill_8.png",
-      "path": "role_detail/skill/1503/skill_8.png",
-      "size": 3770
+      "name": "skill_草木生长.png",
+      "path": "role_detail/skill/1503/skill_草木生长.png",
+      "size": 7672
     },
     {
       "name": "chain_4.png",
@@ -4941,6 +3896,66 @@
       "name": "chain_5.png",
       "path": "role_detail/chains/1206/chain_5.png",
       "size": 2740
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1509/chain_4.png",
+      "size": 3678
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1509/chain_2.png",
+      "size": 3978
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1509/chain_3.png",
+      "size": 3568
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1509/chain_1.png",
+      "size": 4376
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1509/chain_6.png",
+      "size": 3972
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1509/chain_5.png",
+      "size": 4408
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1209/chain_4.png",
+      "size": 3262
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1209/chain_2.png",
+      "size": 4136
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1209/chain_3.png",
+      "size": 4496
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1209/chain_1.png",
+      "size": 4174
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1209/chain_6.png",
+      "size": 4330
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1209/chain_5.png",
+      "size": 4372
     },
     {
       "name": "chain_4.png",
