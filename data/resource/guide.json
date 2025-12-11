@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2025-12-06T06:58:13Z",
+  "last_updated": "2025-12-11T05:56:49Z",
   "files": [
     {
       "name": "相里要.jpg",
@@ -141,6 +141,11 @@
       "name": "鉴心.jpg",
       "path": "guide/Moealkyne/鉴心.jpg",
       "size": 1297299
+    },
+    {
+      "name": "卜灵.jpg",
+      "path": "guide/Moealkyne/卜灵.jpg",
+      "size": 1314412
     },
     {
       "name": "长离.jpg",
@@ -286,6 +291,11 @@
       "name": "露帕.jpg",
       "path": "guide/JieXing/露帕.jpg",
       "size": 583621
+    },
+    {
+      "name": "卜灵.jpg",
+      "path": "guide/JieXing/卜灵.jpg",
+      "size": 3437135
     },
     {
       "name": "釉瑚.jpg",
