@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2025-12-11T10:05:21Z",
+  "last_updated": "2025-12-15T10:52:49Z",
   "files": [
     {
       "name": "skill_砰砰.png",
@@ -1706,6 +1706,11 @@
       "name": "skill_化刹.png",
       "path": "role_detail/skill/1605/skill_化刹.png",
       "size": 3398
+    },
+    {
+      "name": "skill_掌息之要.png",
+      "path": "role_detail/skill/1405/skill_掌息之要.png",
+      "size": 2054
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
