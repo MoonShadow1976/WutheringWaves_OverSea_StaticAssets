@@ -24,4 +24,4 @@
 code_url = "https://purge.jsdelivr.net/gh/MoonShadow1976/WutheringWaves_OverSea_StaticAssets@latest/js/oversea_codes.js"
 calendar_url = "https://purge.jsdelivr.net/gh/MoonShadow1976/WutheringWaves_OverSea_StaticAssets@latest/images/calendar.jpg"
 
-#material 41_ 430_  423_ 426_
+#material _41_ _430_  _423_ _426_
