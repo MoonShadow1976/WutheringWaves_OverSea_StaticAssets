@@ -1,6 +1,6 @@
 {
   "name": "material",
-  "last_updated": "2025-12-23T06:59:42Z",
+  "last_updated": "2025-12-25T01:54:16Z",
   "files": [
     {
       "name": "material_41100011.png",
@@ -526,11 +526,6 @@
       "name": "material_42601050.png",
       "path": "material/material_42601050.png",
       "size": 15946
-    },
-    {
-      "name": "material_43.png",
-      "path": "material/material_43.png",
-      "size": 34348
     },
     {
       "name": "material_41400254.png",
