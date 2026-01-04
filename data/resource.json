@@ -1,13 +1,14 @@
 {
-  "last_updated": "2025-12-25T14:40:10Z",
+  "last_updated": "2026-01-04T12:01:25Z",
   "directories": [
     "guide",
     "material",
     "phantom",
     "role_detail",
     "role_pile",
+    "share",
     "waves_avatar",
     "waves_weapon"
   ],
-  "total_index_files": 7
+  "total_index_files": 8
 }
