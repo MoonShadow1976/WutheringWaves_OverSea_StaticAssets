@@ -19,9 +19,8 @@
 { "id": "1", "order": "HAPPY", "reward": "星声*50", "label": "测试", "type": "", "is_fail": "0", "is_update": "1", "tip": "0", "qufu": "0", "author": "", "create_time": "05-30", "begin_time": "0", "over_time": "0", "is_cur_month": "0" }
 """
 
-
 # 更新链接
 code_url = "https://purge.jsdelivr.net/gh/MoonShadow1976/WutheringWaves_OverSea_StaticAssets@latest/js/oversea_codes.js"
 calendar_url = "https://purge.jsdelivr.net/gh/MoonShadow1976/WutheringWaves_OverSea_StaticAssets@latest/images/calendar.jpg"
 
-#material _41_ _430_  _423_ _426_
+# material _41_ _430_  _423_ _426_
