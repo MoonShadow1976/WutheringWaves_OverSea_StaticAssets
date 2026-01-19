@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-01-18T05:52:53Z",
+  "last_updated": "2026-01-19T17:20:03Z",
   "files": [
     {
       "name": "skill_砰砰.png",
@@ -1048,6 +1048,61 @@
       "size": 3512
     },
     {
+      "name": "skill_不可见的守候.png",
+      "path": "role_detail/skill/1210/skill_不可见的守候.png",
+      "size": 3656
+    },
+    {
+      "name": "skill_飞至启明之时.png",
+      "path": "role_detail/skill/1210/skill_飞至启明之时.png",
+      "size": 4072
+    },
+    {
+      "name": "skill_航程伊始的预兆.png",
+      "path": "role_detail/skill/1210/skill_航程伊始的预兆.png",
+      "size": 2976
+    },
+    {
+      "name": "skill_为寂静赋形.png",
+      "path": "role_detail/skill/1210/skill_为寂静赋形.png",
+      "size": 4830
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1210/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_星与星之间.png",
+      "path": "role_detail/skill/1210/skill_星与星之间.png",
+      "size": 4194
+    },
+    {
+      "name": "skill_于万籁之前.png",
+      "path": "role_detail/skill/1210/skill_于万籁之前.png",
+      "size": 3536
+    },
+    {
+      "name": "skill_共赴长航.png",
+      "path": "role_detail/skill/1210/skill_共赴长航.png",
+      "size": 4436
+    },
+    {
+      "name": "skill_尚未落地的旋律.png",
+      "path": "role_detail/skill/1210/skill_尚未落地的旋律.png",
+      "size": 3926
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1210/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_校准无垠.png",
+      "path": "role_detail/skill/1210/skill_校准无垠.png",
+      "size": 2008
+    },
+    {
       "name": "skill_临渊死寂.png",
       "path": "role_detail/skill/1604/skill_临渊死寂.png",
       "size": 3034
@@ -1708,6 +1763,61 @@
       "size": 3398
     },
     {
+      "name": "skill_注入黎明以前.png",
+      "path": "role_detail/skill/1510/skill_注入黎明以前.png",
+      "size": 2792
+    },
+    {
+      "name": "skill_一场关于光的默辩.png",
+      "path": "role_detail/skill/1510/skill_一场关于光的默辩.png",
+      "size": 3720
+    },
+    {
+      "name": "skill_光犹如此.png",
+      "path": "role_detail/skill/1510/skill_光犹如此.png",
+      "size": 2232
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1510/skill_攻击提升.png",
+      "size": 3600
+    },
+    {
+      "name": "skill_致濒死以答.png",
+      "path": "role_detail/skill/1510/skill_致濒死以答.png",
+      "size": 3806
+    },
+    {
+      "name": "skill_于永冻中释义.png",
+      "path": "role_detail/skill/1510/skill_于永冻中释义.png",
+      "size": 3494
+    },
+    {
+      "name": "skill_自霜中诞生的火光.png",
+      "path": "role_detail/skill/1510/skill_自霜中诞生的火光.png",
+      "size": 4584
+    },
+    {
+      "name": "skill_雪下的脉搏.png",
+      "path": "role_detail/skill/1510/skill_雪下的脉搏.png",
+      "size": 3118
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1510/skill_暴击提升.png",
+      "size": 3598
+    },
+    {
+      "name": "skill_无因的医谕.png",
+      "path": "role_detail/skill/1510/skill_无因的医谕.png",
+      "size": 2810
+    },
+    {
+      "name": "skill_所有陨落在此重逢.png",
+      "path": "role_detail/skill/1510/skill_所有陨落在此重逢.png",
+      "size": 2846
+    },
+    {
       "name": "skill_掌息之要.png",
       "path": "role_detail/skill/1405/skill_掌息之要.png",
       "size": 2054
@@ -2340,7 +2450,7 @@
     {
       "name": "skill_琳奈式创想.png",
       "path": "role_detail/skill/1509/skill_琳奈式创想.png",
-      "size": 3082
+      "size": 2922
     },
     {
       "name": "skill_永不褪色！.png",
@@ -3214,6 +3324,36 @@
     },
     {
       "name": "chain_4.png",
+      "path": "role_detail/chains/1210/chain_4.png",
+      "size": 3600
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1210/chain_2.png",
+      "size": 3956
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1210/chain_3.png",
+      "size": 4210
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1210/chain_1.png",
+      "size": 4310
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1210/chain_6.png",
+      "size": 3836
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1210/chain_5.png",
+      "size": 3876
+    },
+    {
+      "name": "chain_4.png",
       "path": "role_detail/chains/1604/chain_4.png",
       "size": 2952
     },
@@ -3571,6 +3711,36 @@
       "name": "chain_5.png",
       "path": "role_detail/chains/1605/chain_5.png",
       "size": 2904
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1510/chain_4.png",
+      "size": 2744
+    },
+    {
+      "name": "chain_2.png",
+      "path": "role_detail/chains/1510/chain_2.png",
+      "size": 3610
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1510/chain_3.png",
+      "size": 4638
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1510/chain_1.png",
+      "size": 3680
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1510/chain_6.png",
+      "size": 3682
+    },
+    {
+      "name": "chain_5.png",
+      "path": "role_detail/chains/1510/chain_5.png",
+      "size": 3716
     },
     {
       "name": "chain_4.png",
