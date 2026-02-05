@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-02-05T02:12:01Z",
+  "last_updated": "2026-02-05T12:27:13Z",
   "files": [
     {
       "name": "相里要.jpg",
@@ -311,6 +311,11 @@
       "name": "琳奈.jpg",
       "path": "guide/JieXing/琳奈.jpg",
       "size": 468780
+    },
+    {
+      "name": "爱弥斯.jpg",
+      "path": "guide/JieXing/爱弥斯.jpg",
+      "size": 767184
     },
     {
       "name": "卜灵.jpg",
@@ -696,6 +701,11 @@
       "name": "漂泊者·衍射.jpg",
       "path": "guide/JinLingZi/漂泊者·衍射.jpg",
       "size": 108430
+    },
+    {
+      "name": "爱弥斯.jpg",
+      "path": "guide/JinLingZi/爱弥斯.jpg",
+      "size": 927736
     },
     {
       "name": "维里奈.jpg",
