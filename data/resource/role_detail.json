@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-01-24T02:18:56Z",
+  "last_updated": "2026-02-03T05:09:48Z",
   "files": [
     {
       "name": "skill_砰砰.png",
@@ -30,7 +30,7 @@
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1202/skill_谐度破坏·佩枪.png",
-      "size": 3262
+      "size": 3298
     },
     {
       "name": "skill_炽烈焰火.png",
@@ -90,7 +90,7 @@
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1208/skill_谐度破坏·佩枪.png",
-      "size": 3262
+      "size": 3298
     },
     {
       "name": "skill_永火上膛.png",
@@ -360,7 +360,7 @@
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1403/skill_谐度破坏·佩枪.png",
-      "size": 3262
+      "size": 3298
     },
     {
       "name": "skill_雾色掩护.png",
@@ -455,7 +455,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1410/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_新衍.png",
@@ -510,7 +510,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1305/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_基本推衍.png",
@@ -675,7 +675,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1507/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_晨昏交替之时.png",
@@ -725,7 +725,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1104/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_狮班免掠，逢场避让.png",
@@ -790,7 +790,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1303/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_拳震凌武.png",
@@ -840,7 +840,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1106/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_诗中物.png",
@@ -1065,7 +1065,7 @@
     {
       "name": "skill_为寂静赋形.png",
       "path": "role_detail/skill/1210/skill_为寂静赋形.png",
-      "size": 4830
+      "size": 4828
     },
     {
       "name": "skill_攻击提升.png",
@@ -1275,7 +1275,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1606/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_道具师的自我修养.png",
@@ -1565,7 +1565,7 @@
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1107/skill_谐度破坏·佩枪.png",
-      "size": 3262
+      "size": 3298
     },
     {
       "name": "skill_入冬叹调.png",
@@ -1690,7 +1690,7 @@
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1204/skill_谐度破坏·佩枪.png",
-      "size": 3262
+      "size": 3298
     },
     {
       "name": "skill_怒意移调.png",
@@ -1770,7 +1770,7 @@
     {
       "name": "skill_一场关于光的默辩.png",
       "path": "role_detail/skill/1510/skill_一场关于光的默辩.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_光犹如此.png",
@@ -1825,7 +1825,7 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1405/skill_谐度破坏·臂铠.png",
-      "size": 3720
+      "size": 3718
     },
     {
       "name": "skill_攻击提升.png",
@@ -2445,7 +2445,7 @@
     {
       "name": "skill_光谱解析.png",
       "path": "role_detail/skill/1509/skill_光谱解析.png",
-      "size": 3262
+      "size": 3298
     },
     {
       "name": "skill_琳奈式创想.png",
@@ -2685,7 +2685,7 @@
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1407/skill_谐度破坏·佩枪.png",
-      "size": 3262
+      "size": 3298
     },
     {
       "name": "skill_和声引风.png",
@@ -3325,7 +3325,7 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1210/chain_4.png",
-      "size": 3600
+      "size": 3670
     },
     {
       "name": "chain_2.png",
@@ -3335,22 +3335,22 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1210/chain_3.png",
-      "size": 4210
+      "size": 3884
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1210/chain_1.png",
-      "size": 4310
+      "size": 4222
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1210/chain_6.png",
-      "size": 3836
+      "size": 3554
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1210/chain_5.png",
-      "size": 3876
+      "size": 3892
     },
     {
       "name": "chain_4.png",
@@ -3715,32 +3715,32 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1510/chain_4.png",
-      "size": 2744
+      "size": 2494
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1510/chain_2.png",
-      "size": 3610
+      "size": 3332
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1510/chain_3.png",
-      "size": 4638
+      "size": 3500
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1510/chain_1.png",
-      "size": 3680
+      "size": 3596
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1510/chain_6.png",
-      "size": 3682
+      "size": 3046
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1510/chain_5.png",
-      "size": 3716
+      "size": 4116
     },
     {
       "name": "chain_4.png",
@@ -4075,22 +4075,22 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1509/chain_4.png",
-      "size": 3678
+      "size": 3676
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1509/chain_2.png",
-      "size": 3978
+      "size": 3966
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1509/chain_3.png",
-      "size": 3568
+      "size": 3566
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1509/chain_1.png",
-      "size": 4376
+      "size": 4374
     },
     {
       "name": "chain_6.png",
@@ -4100,7 +4100,7 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1509/chain_5.png",
-      "size": 4408
+      "size": 4406
     },
     {
       "name": "chain_4.png",
