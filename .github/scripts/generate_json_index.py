@@ -52,7 +52,7 @@ def find_all_files(directory_path: Path, resource_root: Path) -> list[FileInfo]:
     for item in directory_path.rglob("*"):
         if item.is_file() and not item.name.endswith(".json"):  # 排除所有JSON文件
             all_files.append(get_file_info(item, resource_root))
-    all_files.sort(key=lambda x: x["name"])
+    all_files.sort(key=lambda x: (x["name"], x["path"]))
     return all_files
 
 
