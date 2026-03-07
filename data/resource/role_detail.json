@@ -1,21 +1,21 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-02-28T08:11:13Z",
+  "last_updated": "2026-03-07T05:45:10Z",
   "files": [
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1102/chain_1.png",
-      "size": 2294
+      "size": 2288
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1103/chain_1.png",
-      "size": 1904
+      "size": 1900
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1104/chain_1.png",
-      "size": 3512
+      "size": 3514
     },
     {
       "name": "chain_1.png",
@@ -25,17 +25,17 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1106/chain_1.png",
-      "size": 2764
+      "size": 2762
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1107/chain_1.png",
-      "size": 3716
+      "size": 3714
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1202/chain_1.png",
-      "size": 2720
+      "size": 2716
     },
     {
       "name": "chain_1.png",
@@ -45,22 +45,22 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1204/chain_1.png",
-      "size": 3640
+      "size": 3636
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1205/chain_1.png",
-      "size": 3278
+      "size": 3274
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1206/chain_1.png",
-      "size": 3086
+      "size": 3088
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1207/chain_1.png",
-      "size": 2882
+      "size": 2878
     },
     {
       "name": "chain_1.png",
@@ -70,22 +70,22 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1209/chain_1.png",
-      "size": 3744
+      "size": 3742
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1210/chain_1.png",
-      "size": 4162
+      "size": 4128
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1301/chain_1.png",
-      "size": 2700
+      "size": 2678
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1302/chain_1.png",
-      "size": 3112
+      "size": 3108
     },
     {
       "name": "chain_1.png",
@@ -95,7 +95,7 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1304/chain_1.png",
-      "size": 3422
+      "size": 3420
     },
     {
       "name": "chain_1.png",
@@ -105,32 +105,32 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1306/chain_1.png",
-      "size": 3454
+      "size": 3452
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1307/chain_1.png",
-      "size": 3630
+      "size": 3634
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1402/chain_1.png",
-      "size": 2332
+      "size": 2326
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1403/chain_1.png",
-      "size": 3192
+      "size": 3196
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1404/chain_1.png",
-      "size": 2820
+      "size": 2824
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1405/chain_1.png",
-      "size": 2726
+      "size": 2734
     },
     {
       "name": "chain_1.png",
@@ -140,7 +140,7 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1407/chain_1.png",
-      "size": 3934
+      "size": 3936
     },
     {
       "name": "chain_1.png",
@@ -150,17 +150,17 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1409/chain_1.png",
-      "size": 3354
+      "size": 3350
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1410/chain_1.png",
-      "size": 3960
+      "size": 3956
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1411/chain_1.png",
-      "size": 2982
+      "size": 2984
     },
     {
       "name": "chain_1.png",
@@ -175,72 +175,72 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1503/chain_1.png",
-      "size": 2056
+      "size": 2058
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1504/chain_1.png",
-      "size": 2422
+      "size": 2420
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1505/chain_1.png",
-      "size": 3846
+      "size": 3844
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1506/chain_1.png",
-      "size": 2896
+      "size": 2888
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1507/chain_1.png",
-      "size": 3436
+      "size": 3434
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1508/chain_1.png",
-      "size": 3506
+      "size": 3502
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1509/chain_1.png",
-      "size": 4172
+      "size": 4176
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1510/chain_1.png",
-      "size": 3414
+      "size": 3438
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1601/chain_1.png",
-      "size": 4184
+      "size": 4178
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1602/chain_1.png",
-      "size": 1980
+      "size": 1978
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1603/chain_1.png",
-      "size": 3100
+      "size": 3098
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1604/chain_1.png",
-      "size": 3044
+      "size": 3038
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1605/chain_1.png",
-      "size": 3044
+      "size": 3038
     },
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1606/chain_1.png",
-      "size": 3702
+      "size": 3710
     },
     {
       "name": "chain_1.png",
@@ -250,62 +250,62 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1608/chain_1.png",
-      "size": 3436
+      "size": 3440
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1102/chain_2.png",
-      "size": 2880
+      "size": 2878
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1103/chain_2.png",
-      "size": 2430
+      "size": 2428
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1104/chain_2.png",
-      "size": 3140
+      "size": 3154
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1105/chain_2.png",
-      "size": 2462
+      "size": 2456
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1106/chain_2.png",
-      "size": 2202
+      "size": 2196
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1107/chain_2.png",
-      "size": 2990
+      "size": 2988
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1202/chain_2.png",
-      "size": 2316
+      "size": 2318
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1203/chain_2.png",
-      "size": 2516
+      "size": 2506
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1204/chain_2.png",
-      "size": 2768
+      "size": 2772
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1205/chain_2.png",
-      "size": 3178
+      "size": 3174
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1206/chain_2.png",
-      "size": 38540
+      "size": 38528
     },
     {
       "name": "chain_2.png",
@@ -315,27 +315,27 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1208/chain_2.png",
-      "size": 4770
+      "size": 4760
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1209/chain_2.png",
-      "size": 3732
+      "size": 3736
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1210/chain_2.png",
-      "size": 3776
+      "size": 3764
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1301/chain_2.png",
-      "size": 3314
+      "size": 3310
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1302/chain_2.png",
-      "size": 3086
+      "size": 3084
     },
     {
       "name": "chain_2.png",
@@ -345,17 +345,17 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1304/chain_2.png",
-      "size": 3644
+      "size": 3642
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1305/chain_2.png",
-      "size": 2472
+      "size": 2476
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1306/chain_2.png",
-      "size": 3026
+      "size": 3022
     },
     {
       "name": "chain_2.png",
@@ -365,7 +365,7 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1402/chain_2.png",
-      "size": 1976
+      "size": 1974
     },
     {
       "name": "chain_2.png",
@@ -375,7 +375,7 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1404/chain_2.png",
-      "size": 3096
+      "size": 3106
     },
     {
       "name": "chain_2.png",
@@ -385,27 +385,27 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1406/chain_2.png",
-      "size": 3156
+      "size": 3154
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1407/chain_2.png",
-      "size": 3418
+      "size": 3416
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1408/chain_2.png",
-      "size": 3156
+      "size": 3154
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1409/chain_2.png",
-      "size": 4756
+      "size": 4750
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1410/chain_2.png",
-      "size": 3976
+      "size": 3970
     },
     {
       "name": "chain_2.png",
@@ -415,12 +415,12 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1501/chain_2.png",
-      "size": 2212
+      "size": 2210
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1502/chain_2.png",
-      "size": 2212
+      "size": 2210
     },
     {
       "name": "chain_2.png",
@@ -430,17 +430,17 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1504/chain_2.png",
-      "size": 3178
+      "size": 3176
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1505/chain_2.png",
-      "size": 3274
+      "size": 3276
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1506/chain_2.png",
-      "size": 4038
+      "size": 4040
     },
     {
       "name": "chain_2.png",
@@ -460,12 +460,12 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1510/chain_2.png",
-      "size": 3164
+      "size": 3190
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1601/chain_2.png",
-      "size": 2310
+      "size": 2306
     },
     {
       "name": "chain_2.png",
@@ -475,62 +475,62 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1603/chain_2.png",
-      "size": 3578
+      "size": 3576
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1604/chain_2.png",
-      "size": 2346
+      "size": 2352
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1605/chain_2.png",
-      "size": 2346
+      "size": 2352
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1606/chain_2.png",
-      "size": 3460
+      "size": 3452
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1607/chain_2.png",
-      "size": 3194
+      "size": 3190
     },
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1608/chain_2.png",
-      "size": 3400
+      "size": 3390
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1102/chain_3.png",
-      "size": 2782
+      "size": 2778
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1103/chain_3.png",
-      "size": 2298
+      "size": 2300
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1104/chain_3.png",
-      "size": 4028
+      "size": 4030
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1105/chain_3.png",
-      "size": 2286
+      "size": 2284
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1106/chain_3.png",
-      "size": 3338
+      "size": 3336
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1107/chain_3.png",
-      "size": 3364
+      "size": 3362
     },
     {
       "name": "chain_3.png",
@@ -540,52 +540,52 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1203/chain_3.png",
-      "size": 3028
+      "size": 3026
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1204/chain_3.png",
-      "size": 3474
+      "size": 3466
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1205/chain_3.png",
-      "size": 3556
+      "size": 3550
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1206/chain_3.png",
-      "size": 3240
+      "size": 3242
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1207/chain_3.png",
-      "size": 2928
+      "size": 2920
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1208/chain_3.png",
-      "size": 3352
+      "size": 3348
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1209/chain_3.png",
-      "size": 4092
+      "size": 4090
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1210/chain_3.png",
-      "size": 3668
+      "size": 3948
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1301/chain_3.png",
-      "size": 4246
+      "size": 4240
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1302/chain_3.png",
-      "size": 3166
+      "size": 3160
     },
     {
       "name": "chain_3.png",
@@ -595,27 +595,27 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1304/chain_3.png",
-      "size": 3272
+      "size": 3266
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1305/chain_3.png",
-      "size": 2872
+      "size": 2876
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1306/chain_3.png",
-      "size": 3346
+      "size": 3342
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1307/chain_3.png",
-      "size": 3424
+      "size": 3428
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1402/chain_3.png",
-      "size": 2232
+      "size": 2228
     },
     {
       "name": "chain_3.png",
@@ -625,12 +625,12 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1404/chain_3.png",
-      "size": 2924
+      "size": 2918
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1405/chain_3.png",
-      "size": 2350
+      "size": 2356
     },
     {
       "name": "chain_3.png",
@@ -640,7 +640,7 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1407/chain_3.png",
-      "size": 3782
+      "size": 3768
     },
     {
       "name": "chain_3.png",
@@ -650,52 +650,52 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1409/chain_3.png",
-      "size": 3514
+      "size": 3506
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1410/chain_3.png",
-      "size": 3694
+      "size": 3688
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1411/chain_3.png",
-      "size": 3100
+      "size": 3102
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1501/chain_3.png",
-      "size": 2414
+      "size": 2416
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1502/chain_3.png",
-      "size": 2414
+      "size": 2416
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1503/chain_3.png",
-      "size": 1474
+      "size": 1472
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1504/chain_3.png",
-      "size": 2780
+      "size": 2772
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1505/chain_3.png",
-      "size": 3356
+      "size": 3354
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1506/chain_3.png",
-      "size": 3482
+      "size": 3480
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1507/chain_3.png",
-      "size": 3602
+      "size": 3598
     },
     {
       "name": "chain_3.png",
@@ -705,22 +705,22 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1509/chain_3.png",
-      "size": 3540
+      "size": 3536
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1510/chain_3.png",
-      "size": 3328
+      "size": 3214
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1601/chain_3.png",
-      "size": 2326
+      "size": 2324
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1602/chain_3.png",
-      "size": 1952
+      "size": 1954
     },
     {
       "name": "chain_3.png",
@@ -730,62 +730,62 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1604/chain_3.png",
-      "size": 3050
+      "size": 3054
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1605/chain_3.png",
-      "size": 3050
+      "size": 3054
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1606/chain_3.png",
-      "size": 3670
+      "size": 3672
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1607/chain_3.png",
-      "size": 3790
+      "size": 3770
     },
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1608/chain_3.png",
-      "size": 4140
+      "size": 4132
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1102/chain_4.png",
-      "size": 2972
+      "size": 2970
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1103/chain_4.png",
-      "size": 2440
+      "size": 2434
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1104/chain_4.png",
-      "size": 3162
+      "size": 3170
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1105/chain_4.png",
-      "size": 2892
+      "size": 2888
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1106/chain_4.png",
-      "size": 2030
+      "size": 2028
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1107/chain_4.png",
-      "size": 3230
+      "size": 3228
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1202/chain_4.png",
-      "size": 2140
+      "size": 2138
     },
     {
       "name": "chain_4.png",
@@ -795,12 +795,12 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1204/chain_4.png",
-      "size": 2932
+      "size": 2930
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1205/chain_4.png",
-      "size": 2938
+      "size": 2934
     },
     {
       "name": "chain_4.png",
@@ -810,77 +810,77 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1207/chain_4.png",
-      "size": 2936
+      "size": 2930
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1208/chain_4.png",
-      "size": 3876
+      "size": 3874
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1209/chain_4.png",
-      "size": 2916
+      "size": 2918
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1210/chain_4.png",
-      "size": 3504
+      "size": 3436
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1301/chain_4.png",
-      "size": 3162
+      "size": 3170
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1302/chain_4.png",
-      "size": 2902
+      "size": 2912
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1303/chain_4.png",
-      "size": 2496
+      "size": 2488
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1304/chain_4.png",
-      "size": 3002
-    },
-    {
-      "name": "chain_4.png",
-      "path": "role_detail/chains/1305/chain_4.png",
-      "size": 3026
-    },
-    {
-      "name": "chain_4.png",
-      "path": "role_detail/chains/1306/chain_4.png",
       "size": 3000
     },
     {
       "name": "chain_4.png",
+      "path": "role_detail/chains/1305/chain_4.png",
+      "size": 3024
+    },
+    {
+      "name": "chain_4.png",
+      "path": "role_detail/chains/1306/chain_4.png",
+      "size": 2996
+    },
+    {
+      "name": "chain_4.png",
       "path": "role_detail/chains/1307/chain_4.png",
-      "size": 3252
+      "size": 3256
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1402/chain_4.png",
-      "size": 2454
+      "size": 2448
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1403/chain_4.png",
-      "size": 3468
+      "size": 3470
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1404/chain_4.png",
-      "size": 3592
+      "size": 3602
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1405/chain_4.png",
-      "size": 3342
+      "size": 3336
     },
     {
       "name": "chain_4.png",
@@ -890,7 +890,7 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1407/chain_4.png",
-      "size": 3110
+      "size": 3112
     },
     {
       "name": "chain_4.png",
@@ -900,27 +900,27 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1409/chain_4.png",
-      "size": 3338
+      "size": 3332
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1410/chain_4.png",
-      "size": 3644
+      "size": 3638
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1411/chain_4.png",
-      "size": 3562
+      "size": 3564
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1501/chain_4.png",
-      "size": 2422
+      "size": 2420
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1502/chain_4.png",
-      "size": 2422
+      "size": 2420
     },
     {
       "name": "chain_4.png",
@@ -930,17 +930,17 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1504/chain_4.png",
-      "size": 2556
+      "size": 2550
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1505/chain_4.png",
-      "size": 3930
+      "size": 3938
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1506/chain_4.png",
-      "size": 3826
+      "size": 3824
     },
     {
       "name": "chain_4.png",
@@ -950,17 +950,17 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1508/chain_4.png",
-      "size": 2596
+      "size": 2594
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1509/chain_4.png",
-      "size": 3512
+      "size": 3504
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1510/chain_4.png",
-      "size": 2350
+      "size": 2328
     },
     {
       "name": "chain_4.png",
@@ -975,32 +975,32 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1603/chain_4.png",
-      "size": 3616
+      "size": 3614
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1604/chain_4.png",
-      "size": 2840
+      "size": 2852
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1605/chain_4.png",
-      "size": 2840
+      "size": 2852
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1606/chain_4.png",
-      "size": 3440
+      "size": 3444
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1607/chain_4.png",
-      "size": 2862
+      "size": 2874
     },
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1608/chain_4.png",
-      "size": 3898
+      "size": 3886
     },
     {
       "name": "chain_5.png",
@@ -1010,27 +1010,27 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1103/chain_5.png",
-      "size": 1556
+      "size": 1552
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1104/chain_5.png",
-      "size": 4004
+      "size": 3992
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1105/chain_5.png",
-      "size": 3132
+      "size": 3128
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1106/chain_5.png",
-      "size": 3220
+      "size": 3218
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1107/chain_5.png",
-      "size": 3742
+      "size": 3740
     },
     {
       "name": "chain_5.png",
@@ -1040,22 +1040,22 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1203/chain_5.png",
-      "size": 2866
+      "size": 2862
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1204/chain_5.png",
-      "size": 3308
+      "size": 3290
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1205/chain_5.png",
-      "size": 3400
+      "size": 3404
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1206/chain_5.png",
-      "size": 2616
+      "size": 2614
     },
     {
       "name": "chain_5.png",
@@ -1065,7 +1065,7 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1208/chain_5.png",
-      "size": 3826
+      "size": 3822
     },
     {
       "name": "chain_5.png",
@@ -1075,22 +1075,22 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1210/chain_5.png",
-      "size": 3744
+      "size": 3704
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1301/chain_5.png",
-      "size": 3454
+      "size": 3476
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1302/chain_5.png",
-      "size": 2936
+      "size": 2932
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1303/chain_5.png",
-      "size": 3868
+      "size": 3864
     },
     {
       "name": "chain_5.png",
@@ -1100,52 +1100,52 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1305/chain_5.png",
-      "size": 2902
+      "size": 2904
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1306/chain_5.png",
-      "size": 2988
+      "size": 2982
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1307/chain_5.png",
-      "size": 3444
+      "size": 3446
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1402/chain_5.png",
-      "size": 2736
+      "size": 2730
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1403/chain_5.png",
-      "size": 3660
+      "size": 3658
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1404/chain_5.png",
-      "size": 3058
+      "size": 3048
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1405/chain_5.png",
-      "size": 3124
+      "size": 3132
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1406/chain_5.png",
-      "size": 2900
+      "size": 2896
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1407/chain_5.png",
-      "size": 3190
+      "size": 3192
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1408/chain_5.png",
-      "size": 2900
+      "size": 2896
     },
     {
       "name": "chain_5.png",
@@ -1155,22 +1155,22 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1410/chain_5.png",
-      "size": 3798
+      "size": 3792
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1411/chain_5.png",
-      "size": 3484
+      "size": 3482
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1501/chain_5.png",
-      "size": 1214
+      "size": 1212
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1502/chain_5.png",
-      "size": 1214
+      "size": 1212
     },
     {
       "name": "chain_5.png",
@@ -1180,42 +1180,42 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1504/chain_5.png",
-      "size": 3084
+      "size": 3068
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1505/chain_5.png",
-      "size": 3972
+      "size": 3986
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1506/chain_5.png",
-      "size": 2706
+      "size": 2702
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1507/chain_5.png",
-      "size": 4102
+      "size": 4098
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1508/chain_5.png",
-      "size": 3536
+      "size": 3538
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1509/chain_5.png",
-      "size": 4398
+      "size": 4396
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1510/chain_5.png",
-      "size": 3894
+      "size": 3896
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1601/chain_5.png",
-      "size": 2532
+      "size": 2534
     },
     {
       "name": "chain_5.png",
@@ -1225,17 +1225,17 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1603/chain_5.png",
-      "size": 3644
+      "size": 3642
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1604/chain_5.png",
-      "size": 2668
+      "size": 2674
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1605/chain_5.png",
-      "size": 2668
+      "size": 2674
     },
     {
       "name": "chain_5.png",
@@ -1245,17 +1245,17 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1607/chain_5.png",
-      "size": 3678
+      "size": 3666
     },
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1608/chain_5.png",
-      "size": 3098
+      "size": 3092
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1102/chain_6.png",
-      "size": 3270
+      "size": 3272
     },
     {
       "name": "chain_6.png",
@@ -1265,17 +1265,17 @@
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1104/chain_6.png",
-      "size": 4060
+      "size": 4062
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1105/chain_6.png",
-      "size": 2354
+      "size": 2356
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1106/chain_6.png",
-      "size": 3192
+      "size": 3186
     },
     {
       "name": "chain_6.png",
@@ -1285,32 +1285,32 @@
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1202/chain_6.png",
-      "size": 2634
+      "size": 2636
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1203/chain_6.png",
-      "size": 3258
+      "size": 3254
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1204/chain_6.png",
-      "size": 2802
+      "size": 2792
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1205/chain_6.png",
-      "size": 2914
+      "size": 2910
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1206/chain_6.png",
-      "size": 3420
+      "size": 3418
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1207/chain_6.png",
-      "size": 3016
+      "size": 3014
     },
     {
       "name": "chain_6.png",
@@ -1320,37 +1320,37 @@
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1209/chain_6.png",
-      "size": 3880
+      "size": 3878
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1210/chain_6.png",
-      "size": 3374
+      "size": 3810
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1301/chain_6.png",
-      "size": 3844
+      "size": 3842
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1302/chain_6.png",
-      "size": 2966
-    },
-    {
-      "name": "chain_6.png",
-      "path": "role_detail/chains/1303/chain_6.png",
       "size": 2982
     },
     {
       "name": "chain_6.png",
+      "path": "role_detail/chains/1303/chain_6.png",
+      "size": 2974
+    },
+    {
+      "name": "chain_6.png",
       "path": "role_detail/chains/1304/chain_6.png",
-      "size": 2902
+      "size": 2900
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1305/chain_6.png",
-      "size": 3798
+      "size": 3796
     },
     {
       "name": "chain_6.png",
@@ -1360,57 +1360,57 @@
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1307/chain_6.png",
-      "size": 3006
+      "size": 3008
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1402/chain_6.png",
-      "size": 3004
+      "size": 3000
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1403/chain_6.png",
-      "size": 3682
+      "size": 3680
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1404/chain_6.png",
-      "size": 3448
+      "size": 3444
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1405/chain_6.png",
-      "size": 3078
+      "size": 3084
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1406/chain_6.png",
-      "size": 3432
+      "size": 3428
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1407/chain_6.png",
-      "size": 2898
+      "size": 2916
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1408/chain_6.png",
-      "size": 3432
+      "size": 3428
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1409/chain_6.png",
-      "size": 3150
+      "size": 3146
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1410/chain_6.png",
-      "size": 3614
+      "size": 3606
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1411/chain_6.png",
-      "size": 3068
+      "size": 3070
     },
     {
       "name": "chain_6.png",
@@ -1425,222 +1425,227 @@
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1503/chain_6.png",
-      "size": 1594
+      "size": 1592
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1504/chain_6.png",
-      "size": 3230
+      "size": 3228
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1505/chain_6.png",
-      "size": 3454
+      "size": 3462
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1506/chain_6.png",
-      "size": 3680
+      "size": 3676
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1507/chain_6.png",
-      "size": 3564
+      "size": 3562
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1508/chain_6.png",
-      "size": 3520
+      "size": 3524
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1509/chain_6.png",
-      "size": 3774
+      "size": 3776
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1510/chain_6.png",
-      "size": 2912
+      "size": 2920
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1601/chain_6.png",
-      "size": 2440
+      "size": 2442
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1602/chain_6.png",
-      "size": 2532
+      "size": 2534
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1603/chain_6.png",
-      "size": 3470
+      "size": 3468
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1604/chain_6.png",
-      "size": 2774
+      "size": 2776
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1605/chain_6.png",
-      "size": 2774
+      "size": 2776
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1606/chain_6.png",
-      "size": 3508
+      "size": 3524
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1607/chain_6.png",
-      "size": 2870
+      "size": 2866
     },
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1608/chain_6.png",
-      "size": 4104
+      "size": 4102
     },
     {
       "name": "skill_《自适应光学在生活中的实际应用》.png",
       "path": "role_detail/skill/1509/skill_《自适应光学在生活中的实际应用》.png",
-      "size": 3338
+      "size": 3344
     },
     {
       "name": "skill_「毒」.png",
       "path": "role_detail/skill/1607/skill_「毒」.png",
-      "size": 3074
+      "size": 3078
     },
     {
       "name": "skill_「药」.png",
       "path": "role_detail/skill/1607/skill_「药」.png",
-      "size": 2734
+      "size": 2740
+    },
+    {
+      "name": "skill_一、二、三…….png",
+      "path": "role_detail/skill/1412/skill_一、二、三…….png",
+      "size": 2092
     },
     {
       "name": "skill_一场关于光的默辩.png",
       "path": "role_detail/skill/1510/skill_一场关于光的默辩.png",
-      "size": 3320
+      "size": 3326
     },
     {
       "name": "skill_万物一心.png",
       "path": "role_detail/skill/1304/skill_万物一心.png",
-      "size": 3750
+      "size": 3752
     },
     {
       "name": "skill_万物微尘.png",
       "path": "role_detail/skill/1501/skill_万物微尘.png",
-      "size": 3722
+      "size": 3732
     },
     {
       "name": "skill_万象归墟.png",
       "path": "role_detail/skill/1406/skill_万象归墟.png",
-      "size": 3810
+      "size": 3814
     },
     {
       "name": "skill_万钧一断.png",
       "path": "role_detail/skill/1411/skill_万钧一断.png",
-      "size": 4314
+      "size": 4318
     },
     {
       "name": "skill_不动如山.png",
       "path": "role_detail/skill/1601/skill_不动如山.png",
-      "size": 6404
+      "size": 6410
     },
     {
       "name": "skill_不协和音.png",
       "path": "role_detail/skill/1204/skill_不协和音.png",
-      "size": 2980
+      "size": 2982
     },
     {
       "name": "skill_不可见的守候.png",
       "path": "role_detail/skill/1210/skill_不可见的守候.png",
-      "size": 3404
+      "size": 4400
     },
     {
       "name": "skill_不屈的战歌.png",
       "path": "role_detail/skill/1306/skill_不屈的战歌.png",
-      "size": 3016
+      "size": 3022
     },
     {
       "name": "skill_与尔同销万古愁.png",
       "path": "role_detail/skill/1411/skill_与尔同销万古愁.png",
-      "size": 3972
+      "size": 3982
     },
     {
       "name": "skill_专项派送.png",
       "path": "role_detail/skill/1504/skill_专项派送.png",
-      "size": 3850
+      "size": 3844
     },
     {
       "name": "skill_且从容.png",
       "path": "role_detail/skill/1411/skill_且从容.png",
-      "size": 3790
+      "size": 3792
     },
     {
       "name": "skill_中场休息时间.png",
       "path": "role_detail/skill/1403/skill_中场休息时间.png",
-      "size": 2782
+      "size": 2806
     },
     {
       "name": "skill_临在.png",
       "path": "role_detail/skill/1506/skill_临在.png",
-      "size": 4024
+      "size": 4032
     },
     {
       "name": "skill_临渊死寂.png",
       "path": "role_detail/skill/1604/skill_临渊死寂.png",
-      "size": 2760
+      "size": 2762
     },
     {
       "name": "skill_临界协议.png",
       "path": "role_detail/skill/1209/skill_临界协议.png",
-      "size": 3552
+      "size": 3550
     },
     {
       "name": "skill_丹心昭瑾.png",
       "path": "role_detail/skill/1602/skill_丹心昭瑾.png",
-      "size": 3532
+      "size": 3536
     },
     {
       "name": "skill_为寂静赋形.png",
       "path": "role_detail/skill/1210/skill_为寂静赋形.png",
-      "size": 4504
+      "size": 4376
     },
     {
       "name": "skill_为我！.png",
       "path": "role_detail/skill/1206/skill_为我！.png",
-      "size": 3416
+      "size": 3424
     },
     {
       "name": "skill_于万籁之前.png",
       "path": "role_detail/skill/1210/skill_于万籁之前.png",
-      "size": 3328
+      "size": 3500
     },
     {
       "name": "skill_于永冻中释义.png",
       "path": "role_detail/skill/1510/skill_于永冻中释义.png",
-      "size": 3266
+      "size": 4216
     },
     {
       "name": "skill_于盈亏间涨落.png",
       "path": "role_detail/skill/1410/skill_于盈亏间涨落.png",
-      "size": 5958
+      "size": 5966
     },
     {
       "name": "skill_交错星辉的祝祷.png",
       "path": "role_detail/skill/1506/skill_交错星辉的祝祷.png",
-      "size": 4602
+      "size": 4616
     },
     {
       "name": "skill_以剑奉读此身.png",
       "path": "role_detail/skill/1409/skill_以剑奉读此身.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_以形写神.png",
       "path": "role_detail/skill/1105/skill_以形写神.png",
-      "size": 2714
+      "size": 2870
     },
     {
       "name": "skill_以心织就颂愿.png",
@@ -1650,7 +1655,7 @@
     {
       "name": "skill_以风刻痕留蚀.png",
       "path": "role_detail/skill/1409/skill_以风刻痕留蚀.png",
-      "size": 4592
+      "size": 4588
     },
     {
       "name": "skill_你在看哪里？.png",
@@ -1660,17 +1665,17 @@
     {
       "name": "skill_佩洛，悠着点.png",
       "path": "role_detail/skill/1606/skill_佩洛，悠着点.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_佩洛，来帮忙.png",
       "path": "role_detail/skill/1606/skill_佩洛，来帮忙.png",
-      "size": 3870
+      "size": 3884
     },
     {
       "name": "skill_例行交涉.png",
       "path": "role_detail/skill/1507/skill_例行交涉.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_侵占.png",
@@ -1685,42 +1690,42 @@
     {
       "name": "skill_俱寂.png",
       "path": "role_detail/skill/1508/skill_俱寂.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_倾听之心.png",
       "path": "role_detail/skill/1506/skill_倾听之心.png",
-      "size": 4554
+      "size": 4560
     },
     {
       "name": "skill_先觉赋格.png",
       "path": "role_detail/skill/1410/skill_先觉赋格.png",
-      "size": 3730
+      "size": 3736
     },
     {
       "name": "skill_光犹如此.png",
       "path": "role_detail/skill/1510/skill_光犹如此.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_光谱解析.png",
       "path": "role_detail/skill/1509/skill_光谱解析.png",
-      "size": 3042
+      "size": 3050
     },
     {
       "name": "skill_克己.png",
       "path": "role_detail/skill/1404/skill_克己.png",
-      "size": 3444
+      "size": 3430
     },
     {
       "name": "skill_入冬叹调.png",
       "path": "role_detail/skill/1107/skill_入冬叹调.png",
-      "size": 3614
+      "size": 3608
     },
     {
       "name": "skill_全境通缉.png",
       "path": "role_detail/skill/1301/skill_全境通缉.png",
-      "size": 2980
+      "size": 2990
     },
     {
       "name": "skill_八千春秋.png",
@@ -1730,32 +1735,32 @@
     {
       "name": "skill_八重奏.png",
       "path": "role_detail/skill/1608/skill_八重奏.png",
-      "size": 3374
+      "size": 3372
     },
     {
       "name": "skill_共赴长航.png",
       "path": "role_detail/skill/1210/skill_共赴长航.png",
-      "size": 4194
+      "size": 4276
     },
     {
       "name": "skill_冲掌·势式相承.png",
       "path": "role_detail/skill/1104/skill_冲掌·势式相承.png",
-      "size": 1876
+      "size": 1884
     },
     {
       "name": "skill_决电.png",
       "path": "role_detail/skill/1303/skill_决电.png",
-      "size": 2794
+      "size": 2796
     },
     {
       "name": "skill_凛刺.png",
       "path": "role_detail/skill/1102/skill_凛刺.png",
-      "size": 5834
+      "size": 5832
     },
     {
       "name": "skill_凛絜.png",
       "path": "role_detail/skill/1102/skill_凛絜.png",
-      "size": 3884
+      "size": 3912
     },
     {
       "name": "skill_凝冰.png",
@@ -1765,7 +1770,7 @@
     {
       "name": "skill_凝神.png",
       "path": "role_detail/skill/1304/skill_凝神.png",
-      "size": 3500
+      "size": 3510
     },
     {
       "name": "skill_出其不趋.png",
@@ -1775,57 +1780,57 @@
     {
       "name": "skill_出洞·睡狮蛰醒.png",
       "path": "role_detail/skill/1104/skill_出洞·睡狮蛰醒.png",
-      "size": 3864
+      "size": 3866
     },
     {
       "name": "skill_击雠.png",
       "path": "role_detail/skill/1602/skill_击雠.png",
-      "size": 5768
+      "size": 5772
     },
     {
       "name": "skill_刹那合弥.png",
       "path": "role_detail/skill/1103/skill_刹那合弥.png",
-      "size": 3002
+      "size": 3004
     },
     {
       "name": "skill_刻雾裁风.png",
       "path": "role_detail/skill/1406/skill_刻雾裁风.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_前路领航.png",
       "path": "role_detail/skill/1504/skill_前路领航.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_加麻加辣.png",
       "path": "role_detail/skill/1202/skill_加麻加辣.png",
-      "size": 5310
+      "size": 5328
     },
     {
       "name": "skill_勤修苦练，锯牙磨砺.png",
       "path": "role_detail/skill/1104/skill_勤修苦练，锯牙磨砺.png",
-      "size": 3678
+      "size": 3670
     },
     {
       "name": "skill_化刹.png",
       "path": "role_detail/skill/1604/skill_化刹.png",
-      "size": 3032
+      "size": 3034
     },
     {
       "name": "skill_化境.png",
       "path": "role_detail/skill/1405/skill_化境.png",
-      "size": 3054
+      "size": 3066
     },
     {
       "name": "skill_化声为形.png",
       "path": "role_detail/skill/1501/skill_化声为形.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_匣中问祯.png",
       "path": "role_detail/skill/1106/skill_匣中问祯.png",
-      "size": 2902
+      "size": 2906
     },
     {
       "name": "skill_千钧.png",
@@ -1835,67 +1840,67 @@
     {
       "name": "skill_千面魅影.png",
       "path": "role_detail/skill/1302/skill_千面魅影.png",
-      "size": 4840
+      "size": 4842
     },
     {
       "name": "skill_卦起雷动.png",
       "path": "role_detail/skill/1307/skill_卦起雷动.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_即兴发挥.png",
       "path": "role_detail/skill/1204/skill_即兴发挥.png",
-      "size": 1282
+      "size": 1284
     },
     {
       "name": "skill_即兴喜剧，开场.png",
       "path": "role_detail/skill/1606/skill_即兴喜剧，开场.png",
-      "size": 3560
+      "size": 3552
     },
     {
       "name": "skill_即刻·归无.png",
       "path": "role_detail/skill/1508/skill_即刻·归无.png",
-      "size": 3846
+      "size": 3848
     },
     {
       "name": "skill_即刻执行.png",
       "path": "role_detail/skill/1507/skill_即刻执行.png",
-      "size": 3360
+      "size": 3374
     },
     {
       "name": "skill_双联合相.png",
       "path": "role_detail/skill/1505/skill_双联合相.png",
-      "size": 4820
+      "size": 4824
     },
     {
       "name": "skill_变格.png",
       "path": "role_detail/skill/1604/skill_变格.png",
-      "size": 3186
+      "size": 3190
     },
     {
       "name": "skill_变音符.png",
       "path": "role_detail/skill/1608/skill_变音符.png",
-      "size": 3502
+      "size": 3514
     },
     {
       "name": "skill_召劾鬼神.png",
       "path": "role_detail/skill/1307/skill_召劾鬼神.png",
-      "size": 3398
+      "size": 3404
     },
     {
       "name": "skill_吉时已至，厄运退散.png",
       "path": "role_detail/skill/1307/skill_吉时已至，厄运退散.png",
-      "size": 2912
+      "size": 2914
     },
     {
       "name": "skill_听风潮为你祝颂.png",
       "path": "role_detail/skill/1409/skill_听风潮为你祝颂.png",
-      "size": 3076
+      "size": 3084
     },
     {
       "name": "skill_听骑士从心祈愿.png",
       "path": "role_detail/skill/1409/skill_听骑士从心祈愿.png",
-      "size": 5230
+      "size": 5236
     },
     {
       "name": "skill_启明之誓愿.png",
@@ -1905,32 +1910,32 @@
     {
       "name": "skill_启示.png",
       "path": "role_detail/skill/1506/skill_启示.png",
-      "size": 3612
+      "size": 3616
     },
     {
       "name": "skill_命源输送.png",
       "path": "role_detail/skill/1103/skill_命源输送.png",
-      "size": 3330
+      "size": 3354
     },
     {
       "name": "skill_和声引风.png",
       "path": "role_detail/skill/1407/skill_和声引风.png",
-      "size": 3460
+      "size": 3456
     },
     {
       "name": "skill_咩咩加油歌.png",
       "path": "role_detail/skill/1203/skill_咩咩加油歌.png",
-      "size": 5334
+      "size": 5346
     },
     {
       "name": "skill_咩咩帮手.png",
       "path": "role_detail/skill/1203/skill_咩咩帮手.png",
-      "size": 5622
+      "size": 5634
     },
     {
       "name": "skill_咻咻斗意.png",
       "path": "role_detail/skill/1202/skill_咻咻斗意.png",
-      "size": 2152
+      "size": 2156
     },
     {
       "name": "skill_唤声.png",
@@ -1940,32 +1945,42 @@
     {
       "name": "skill_啾啾专送.png",
       "path": "role_detail/skill/1504/skill_啾啾专送.png",
-      "size": 5048
+      "size": 5052
     },
     {
       "name": "skill_喋血觉悟.png",
       "path": "role_detail/skill/1301/skill_喋血觉悟.png",
-      "size": 4088
+      "size": 4090
     },
     {
       "name": "skill_四拍的舞曲.png",
       "path": "role_detail/skill/1407/skill_四拍的舞曲.png",
-      "size": 1282
+      "size": 1284
     },
     {
       "name": "skill_回响奏鸣.png",
       "path": "role_detail/skill/1501/skill_回响奏鸣.png",
-      "size": 7190
+      "size": 7198
     },
     {
       "name": "skill_围猎.png",
       "path": "role_detail/skill/1207/skill_围猎.png",
-      "size": 2578
+      "size": 2582
     },
     {
       "name": "skill_固若金汤.png",
       "path": "role_detail/skill/1601/skill_固若金汤.png",
       "size": 6168
+    },
+    {
+      "name": "skill_在这一瞬间.png",
+      "path": "role_detail/skill/1412/skill_在这一瞬间.png",
+      "size": 2900
+    },
+    {
+      "name": "skill_在那浩瀚中.png",
+      "path": "role_detail/skill/1412/skill_在那浩瀚中.png",
+      "size": 4152
     },
     {
       "name": "skill_垂天平澜.png",
@@ -1975,187 +1990,192 @@
     {
       "name": "skill_基态校准.png",
       "path": "role_detail/skill/1209/skill_基态校准.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_基本推衍.png",
       "path": "role_detail/skill/1305/skill_基本推衍.png",
-      "size": 3194
+      "size": 3190
     },
     {
       "name": "skill_堂堂登场.png",
       "path": "role_detail/skill/1202/skill_堂堂登场.png",
-      "size": 2150
+      "size": 2146
     },
     {
       "name": "skill_天道持枢.png",
       "path": "role_detail/skill/1205/skill_天道持枢.png",
-      "size": 4960
+      "size": 4972
     },
     {
       "name": "skill_奇正相生.png",
       "path": "role_detail/skill/1205/skill_奇正相生.png",
-      "size": 3258
+      "size": 3252
     },
     {
       "name": "skill_奋进·狮子奋迅，俱足万行.png",
       "path": "role_detail/skill/1104/skill_奋进·狮子奋迅，俱足万行.png",
-      "size": 3924
+      "size": 3918
     },
     {
       "name": "skill_奔赴.png",
       "path": "role_detail/skill/1504/skill_奔赴.png",
-      "size": 4338
+      "size": 4342
     },
     {
       "name": "skill_如意卜.png",
       "path": "role_detail/skill/1106/skill_如意卜.png",
-      "size": 3678
+      "size": 3684
+    },
+    {
+      "name": "skill_如那期望般！.png",
+      "path": "role_detail/skill/1412/skill_如那期望般！.png",
+      "size": 2396
     },
     {
       "name": "skill_妙笔丹青.png",
       "path": "role_detail/skill/1105/skill_妙笔丹青.png",
-      "size": 3630
+      "size": 3780
     },
     {
       "name": "skill_孤枪止戈.png",
       "path": "role_detail/skill/1404/skill_孤枪止戈.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_寂土重明.png",
       "path": "role_detail/skill/1303/skill_寂土重明.png",
-      "size": 3170
+      "size": 3188
     },
     {
       "name": "skill_密接和应.png",
       "path": "role_detail/skill/1204/skill_密接和应.png",
-      "size": 3332
+      "size": 3330
     },
     {
       "name": "skill_寒光.png",
       "path": "role_detail/skill/1102/skill_寒光.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_察类明故.png",
       "path": "role_detail/skill/1305/skill_察类明故.png",
-      "size": 4050
+      "size": 4364
     },
     {
       "name": "skill_寻路.png",
       "path": "role_detail/skill/1504/skill_寻路.png",
-      "size": 3590
+      "size": 3582
     },
     {
       "name": "skill_尚未落地的旋律.png",
       "path": "role_detail/skill/1210/skill_尚未落地的旋律.png",
-      "size": 3520
+      "size": 3508
     },
     {
       "name": "skill_屏息.png",
       "path": "role_detail/skill/1501/skill_屏息.png",
-      "size": 4348
+      "size": 4346
     },
     {
       "name": "skill_岿然.png",
       "path": "role_detail/skill/1601/skill_岿然.png",
-      "size": 5712
+      "size": 5720
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1103/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1104/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1105/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1106/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1107/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1203/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1205/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1206/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1207/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1208/skill_巧手烹调.png",
-      "size": 4400
+      "size": 4410
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1209/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1210/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1301/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1303/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1306/skill_巧手烹调.png",
-      "size": 4010
+      "size": 4016
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1307/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1409/skill_巧手烹调.png",
-      "size": 5248
+      "size": 5252
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1411/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1503/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
@@ -2165,112 +2185,112 @@
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1505/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1506/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1507/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1508/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1509/skill_巧手烹调.png",
-      "size": 4088
+      "size": 4096
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1510/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1602/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1603/skill_巧手烹调.png",
-      "size": 2488
+      "size": 2498
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1606/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_巧手烹调.png",
       "path": "role_detail/skill/1608/skill_巧手烹调.png",
-      "size": 2038
+      "size": 2040
     },
     {
       "name": "skill_常态·凛凛威风拳.png",
       "path": "role_detail/skill/1104/skill_常态·凛凛威风拳.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_幕间伴奏.png",
       "path": "role_detail/skill/1407/skill_幕间伴奏.png",
-      "size": 2868
+      "size": 2878
     },
     {
       "name": "skill_幻影蚀刻.png",
       "path": "role_detail/skill/1301/skill_幻影蚀刻.png",
-      "size": 4628
+      "size": 4626
     },
     {
       "name": "skill_幽影共舞.png",
       "path": "role_detail/skill/1607/skill_幽影共舞.png",
-      "size": 3314
+      "size": 3312
     },
     {
       "name": "skill_应急预案.png",
       "path": "role_detail/skill/1103/skill_应急预案.png",
-      "size": 2630
+      "size": 2632
     },
     {
       "name": "skill_应许.png",
       "path": "role_detail/skill/1103/skill_应许.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_归敛.png",
       "path": "role_detail/skill/1209/skill_归敛.png",
-      "size": 3516
+      "size": 3514
     },
     {
       "name": "skill_形神合一.png",
       "path": "role_detail/skill/1104/skill_形神合一.png",
-      "size": 4762
+      "size": 4764
     },
     {
       "name": "skill_形释无极.png",
       "path": "role_detail/skill/1405/skill_形释无极.png",
-      "size": 3450
+      "size": 3448
     },
     {
       "name": "skill_役将驱邪.png",
       "path": "role_detail/skill/1307/skill_役将驱邪.png",
-      "size": 4612
+      "size": 4618
     },
     {
       "name": "skill_往日深渊的圆舞曲.png",
       "path": "role_detail/skill/1608/skill_往日深渊的圆舞曲.png",
-      "size": 2870
+      "size": 2872
     },
     {
       "name": "skill_快速响应.png",
       "path": "role_detail/skill/1507/skill_快速响应.png",
-      "size": 3776
+      "size": 3774
     },
     {
       "name": "skill_怀悯.png",
@@ -2280,92 +2300,92 @@
     {
       "name": "skill_怒意移调.png",
       "path": "role_detail/skill/1204/skill_怒意移调.png",
-      "size": 3564
+      "size": 3568
     },
     {
       "name": "skill_怒火赋格.png",
       "path": "role_detail/skill/1204/skill_怒火赋格.png",
-      "size": 3320
+      "size": 3304
     },
     {
       "name": "skill_思维矩阵.png",
       "path": "role_detail/skill/1305/skill_思维矩阵.png",
-      "size": 3432
+      "size": 3708
     },
     {
       "name": "skill_悬丝华刃舞.png",
       "path": "role_detail/skill/1302/skill_悬丝华刃舞.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_我名地上仙.png",
       "path": "role_detail/skill/1307/skill_我名地上仙.png",
-      "size": 2948
+      "size": 2958
     },
     {
       "name": "skill_所有陨落在此重逢.png",
       "path": "role_detail/skill/1510/skill_所有陨落在此重逢.png",
-      "size": 2632
+      "size": 3692
     },
     {
       "name": "skill_执刃.png",
       "path": "role_detail/skill/1602/skill_执刃.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_扩繁试验.png",
       "path": "role_detail/skill/1503/skill_扩繁试验.png",
-      "size": 5170
+      "size": 5166
     },
     {
       "name": "skill_护心.png",
       "path": "role_detail/skill/1601/skill_护心.png",
-      "size": 5692
+      "size": 5698
     },
     {
       "name": "skill_护航.png",
       "path": "role_detail/skill/1504/skill_护航.png",
-      "size": 4560
+      "size": 4570
     },
     {
       "name": "skill_拢音.png",
       "path": "role_detail/skill/1604/skill_拢音.png",
-      "size": 2916
+      "size": 2920
     },
     {
       "name": "skill_拳震凌武.png",
       "path": "role_detail/skill/1303/skill_拳震凌武.png",
-      "size": 3042
+      "size": 3048
     },
     {
       "name": "skill_挥毫.png",
       "path": "role_detail/skill/1105/skill_挥毫.png",
-      "size": 3150
+      "size": 3814
     },
     {
       "name": "skill_掌声鼓励.png",
       "path": "role_detail/skill/1606/skill_掌声鼓励.png",
-      "size": 3352
+      "size": 3350
     },
     {
       "name": "skill_掌息之要.png",
       "path": "role_detail/skill/1405/skill_掌息之要.png",
-      "size": 1902
+      "size": 1906
     },
     {
       "name": "skill_掠影奇袭.png",
       "path": "role_detail/skill/1301/skill_掠影奇袭.png",
-      "size": 2778
+      "size": 2768
     },
     {
       "name": "skill_提白.png",
       "path": "role_detail/skill/1105/skill_提白.png",
-      "size": 3078
+      "size": 3432
     },
     {
       "name": "skill_搭档啊，与我并肩.png",
       "path": "role_detail/skill/1207/skill_搭档啊，与我并肩.png",
-      "size": 3172
+      "size": 3178
     },
     {
       "name": "skill_携攻守阵.png",
@@ -2375,27 +2395,27 @@
     {
       "name": "skill_携风吟游.png",
       "path": "role_detail/skill/1407/skill_携风吟游.png",
-      "size": 3024
+      "size": 3034
     },
     {
       "name": "skill_攻其不备.png",
       "path": "role_detail/skill/1404/skill_攻其不备.png",
-      "size": 2584
+      "size": 2588
     },
     {
       "name": "skill_攻其必救.png",
       "path": "role_detail/skill/1411/skill_攻其必救.png",
-      "size": 3286
+      "size": 3290
     },
     {
       "name": "skill_攻防转换.png",
       "path": "role_detail/skill/1601/skill_攻防转换.png",
-      "size": 3640
+      "size": 3644
     },
     {
       "name": "skill_故此证明.png",
       "path": "role_detail/skill/1505/skill_故此证明.png",
-      "size": 3554
+      "size": 3562
     },
     {
       "name": "skill_敛光.png",
@@ -2410,137 +2430,142 @@
     {
       "name": "skill_敬请光辉降落.png",
       "path": "role_detail/skill/1506/skill_敬请光辉降落.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_斩锋.png",
       "path": "role_detail/skill/1306/skill_斩锋.png",
-      "size": 2760
+      "size": 2756
     },
     {
       "name": "skill_新世界狂想曲.png",
       "path": "role_detail/skill/1608/skill_新世界狂想曲.png",
-      "size": 3996
+      "size": 3998
     },
     {
       "name": "skill_新浪潮时代.png",
       "path": "role_detail/skill/1107/skill_新浪潮时代.png",
-      "size": 3218
+      "size": 3212
     },
     {
       "name": "skill_新衍.png",
       "path": "role_detail/skill/1410/skill_新衍.png",
-      "size": 5066
+      "size": 5078
     },
     {
       "name": "skill_无因的医谕.png",
       "path": "role_detail/skill/1510/skill_无因的医谕.png",
-      "size": 2676
+      "size": 3808
     },
     {
       "name": "skill_无垠之风.png",
       "path": "role_detail/skill/1406/skill_无垠之风.png",
-      "size": 3872
+      "size": 3874
     },
     {
       "name": "skill_无尽引力珍奇箱.png",
       "path": "role_detail/skill/1606/skill_无尽引力珍奇箱.png",
-      "size": 3930
+      "size": 3942
     },
     {
       "name": "skill_无惧苦痛.png",
       "path": "role_detail/skill/1507/skill_无惧苦痛.png",
-      "size": 3926
+      "size": 3938
     },
     {
       "name": "skill_无明心音.png",
       "path": "role_detail/skill/1102/skill_无明心音.png",
-      "size": 4040
+      "size": 4036
     },
     {
       "name": "skill_无暇赴死.png",
       "path": "role_detail/skill/1301/skill_无暇赴死.png",
-      "size": 4434
+      "size": 4440
     },
     {
       "name": "skill_无瑕净度.png",
       "path": "role_detail/skill/1107/skill_无瑕净度.png",
-      "size": 3444
+      "size": 3440
     },
     {
       "name": "skill_无眠守望.png",
       "path": "role_detail/skill/1507/skill_无眠守望.png",
-      "size": 4976
+      "size": 4970
     },
     {
       "name": "skill_无解的命途.png",
       "path": "role_detail/skill/1508/skill_无解的命途.png",
-      "size": 4256
+      "size": 4270
     },
     {
       "name": "skill_明晦.png",
       "path": "role_detail/skill/1602/skill_明晦.png",
-      "size": 3588
+      "size": 3606
     },
     {
       "name": "skill_星与星之间.png",
       "path": "role_detail/skill/1210/skill_星与星之间.png",
-      "size": 3838
+      "size": 4166
     },
     {
       "name": "skill_星星花绽放.png",
       "path": "role_detail/skill/1503/skill_星星花绽放.png",
-      "size": 3824
+      "size": 3836
+    },
+    {
+      "name": "skill_昭日的语源.png",
+      "path": "role_detail/skill/1412/skill_昭日的语源.png",
+      "size": 3656
     },
     {
       "name": "skill_晦渡为明.png",
       "path": "role_detail/skill/1410/skill_晦渡为明.png",
-      "size": 3624
+      "size": 3632
     },
     {
       "name": "skill_晨昏交替之时.png",
       "path": "role_detail/skill/1507/skill_晨昏交替之时.png",
-      "size": 4054
+      "size": 4056
     },
     {
       "name": "skill_暴力美学.png",
       "path": "role_detail/skill/1107/skill_暴力美学.png",
-      "size": 4526
+      "size": 4520
     },
     {
       "name": "skill_暴烈终曲.png",
       "path": "role_detail/skill/1204/skill_暴烈终曲.png",
-      "size": 3440
+      "size": 3442
     },
     {
       "name": "skill_暴风雨.png",
       "path": "role_detail/skill/1409/skill_暴风雨.png",
-      "size": 5248
+      "size": 5252
     },
     {
       "name": "skill_曜阳如我.png",
       "path": "role_detail/skill/1306/skill_曜阳如我.png",
-      "size": 4010
+      "size": 4016
     },
     {
       "name": "skill_有界.png",
       "path": "role_detail/skill/1209/skill_有界.png",
-      "size": 4036
+      "size": 4004
     },
     {
       "name": "skill_有空一起兜风！.png",
       "path": "role_detail/skill/1509/skill_有空一起兜风！.png",
-      "size": 4612
+      "size": 4622
     },
     {
       "name": "skill_朔雪永冻.png",
       "path": "role_detail/skill/1102/skill_朔雪永冻.png",
-      "size": 6288
+      "size": 6290
     },
     {
       "name": "skill_朔风旋涌.png",
       "path": "role_detail/skill/1402/skill_朔风旋涌.png",
-      "size": 6756
+      "size": 6752
     },
     {
       "name": "skill_未完成的曲目.png",
@@ -2550,12 +2575,12 @@
     {
       "name": "skill_朱华残章.png",
       "path": "role_detail/skill/1602/skill_朱华残章.png",
-      "size": 7148
+      "size": 7154
     },
     {
       "name": "skill_来日道标.png",
       "path": "role_detail/skill/1507/skill_来日道标.png",
-      "size": 2962
+      "size": 2966
     },
     {
       "name": "skill_来点儿颜色瞧瞧！.png",
@@ -2565,47 +2590,47 @@
     {
       "name": "skill_枪扫风定.png",
       "path": "role_detail/skill/1404/skill_枪扫风定.png",
-      "size": 2798
+      "size": 2796
     },
     {
       "name": "skill_柔翰生辉.png",
       "path": "role_detail/skill/1105/skill_柔翰生辉.png",
-      "size": 2854
+      "size": 3318
     },
     {
       "name": "skill_柔软触手.png",
       "path": "role_detail/skill/1607/skill_柔软触手.png",
-      "size": 3352
+      "size": 3362
     },
     {
       "name": "skill_校准无垠.png",
       "path": "role_detail/skill/1210/skill_校准无垠.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_植物性宇宙.png",
       "path": "role_detail/skill/1603/skill_植物性宇宙.png",
-      "size": 4522
+      "size": 4530
     },
     {
       "name": "skill_歌者的三重华彩.png",
       "path": "role_detail/skill/1407/skill_歌者的三重华彩.png",
-      "size": 4086
+      "size": 4090
     },
     {
       "name": "skill_正理.png",
       "path": "role_detail/skill/1305/skill_正理.png",
-      "size": 4370
+      "size": 4436
     },
     {
       "name": "skill_此剑以人之名.png",
       "path": "role_detail/skill/1409/skill_此剑以人之名.png",
-      "size": 4414
+      "size": 4394
     },
     {
       "name": "skill_此剑，为潮水的过去.png",
       "path": "role_detail/skill/1409/skill_此剑，为潮水的过去.png",
-      "size": 3588
+      "size": 3592
     },
     {
       "name": "skill_步测索拉.png",
@@ -2615,7 +2640,7 @@
     {
       "name": "skill_死生流溢.png",
       "path": "role_detail/skill/1505/skill_死生流溢.png",
-      "size": 2804
+      "size": 2802
     },
     {
       "name": "skill_永不褪色！.png",
@@ -2625,22 +2650,22 @@
     {
       "name": "skill_永夜开明.png",
       "path": "role_detail/skill/1604/skill_永夜开明.png",
-      "size": 5032
+      "size": 5040
     },
     {
       "name": "skill_永火上膛.png",
       "path": "role_detail/skill/1208/skill_永火上膛.png",
-      "size": 3894
+      "size": 3892
     },
     {
       "name": "skill_沉浸式演出.png",
       "path": "role_detail/skill/1606/skill_沉浸式演出.png",
-      "size": 3640
+      "size": 3636
     },
     {
       "name": "skill_沉雷藏锋.png",
       "path": "role_detail/skill/1303/skill_沉雷藏锋.png",
-      "size": 3330
+      "size": 3328
     },
     {
       "name": "skill_沐光.png",
@@ -2650,27 +2675,27 @@
     {
       "name": "skill_泛彩流光.png",
       "path": "role_detail/skill/1509/skill_泛彩流光.png",
-      "size": 1282
+      "size": 1284
     },
     {
       "name": "skill_泛音区间.png",
       "path": "role_detail/skill/1103/skill_泛音区间.png",
-      "size": 4664
+      "size": 4662
     },
     {
       "name": "skill_注入黎明以前.png",
       "path": "role_detail/skill/1510/skill_注入黎明以前.png",
-      "size": 2556
+      "size": 3296
     },
     {
       "name": "skill_流光夕影.png",
       "path": "role_detail/skill/1304/skill_流光夕影.png",
-      "size": 3192
+      "size": 3202
     },
     {
       "name": "skill_流风回响.png",
       "path": "role_detail/skill/1406/skill_流风回响.png",
-      "size": 3506
+      "size": 3510
     },
     {
       "name": "skill_流风载域.png",
@@ -2680,27 +2705,27 @@
     {
       "name": "skill_浮光霁寒.png",
       "path": "role_detail/skill/1304/skill_浮光霁寒.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_浮声千斩.png",
       "path": "role_detail/skill/1501/skill_浮声千斩.png",
-      "size": 6312
+      "size": 6318
     },
     {
       "name": "skill_海中戏剧.png",
       "path": "role_detail/skill/1206/skill_海中戏剧.png",
-      "size": 4860
+      "size": 4858
     },
     {
       "name": "skill_海面之下.png",
       "path": "role_detail/skill/1607/skill_海面之下.png",
-      "size": 4336
+      "size": 4324
     },
     {
       "name": "skill_浸渍痛楚.png",
       "path": "role_detail/skill/1302/skill_浸渍痛楚.png",
-      "size": 2554
+      "size": 2556
     },
     {
       "name": "skill_涤净力场.png",
@@ -2710,52 +2735,52 @@
     {
       "name": "skill_混元气旋.png",
       "path": "role_detail/skill/1405/skill_混元气旋.png",
-      "size": 3854
+      "size": 3870
     },
     {
       "name": "skill_混沌理论.png",
       "path": "role_detail/skill/1505/skill_混沌理论.png",
-      "size": 3350
+      "size": 3344
     },
     {
       "name": "skill_温床.png",
       "path": "role_detail/skill/1603/skill_温床.png",
-      "size": 3698
+      "size": 3704
     },
     {
       "name": "skill_游弋.png",
       "path": "role_detail/skill/1607/skill_游弋.png",
-      "size": 3576
+      "size": 3568
     },
     {
       "name": "skill_湛蓝礼赞.png",
       "path": "role_detail/skill/1402/skill_湛蓝礼赞.png",
-      "size": 4676
+      "size": 4672
     },
     {
       "name": "skill_溯生环复.png",
       "path": "role_detail/skill/1103/skill_溯生环复.png",
-      "size": 3378
+      "size": 3370
     },
     {
       "name": "skill_溺失月海.png",
       "path": "role_detail/skill/1410/skill_溺失月海.png",
-      "size": 4722
+      "size": 4730
     },
     {
       "name": "skill_潜心.png",
       "path": "role_detail/skill/1305/skill_潜心.png",
-      "size": 2866
+      "size": 3358
     },
     {
       "name": "skill_潜谋.png",
       "path": "role_detail/skill/1205/skill_潜谋.png",
-      "size": 2876
+      "size": 2880
     },
     {
       "name": "skill_激昂变奏.png",
       "path": "role_detail/skill/1204/skill_激昂变奏.png",
-      "size": 4006
+      "size": 3996
     },
     {
       "name": "skill_激策回馈.png",
@@ -2765,37 +2790,37 @@
     {
       "name": "skill_瀑雪.png",
       "path": "role_detail/skill/1102/skill_瀑雪.png",
-      "size": 5364
+      "size": 5372
     },
     {
       "name": "skill_灭杀指令.png",
       "path": "role_detail/skill/1301/skill_灭杀指令.png",
-      "size": 2800
+      "size": 2796
     },
     {
       "name": "skill_灯光探照.png",
       "path": "role_detail/skill/1504/skill_灯光探照.png",
-      "size": 3756
+      "size": 3758
     },
     {
       "name": "skill_灼热弹匣.png",
       "path": "role_detail/skill/1202/skill_灼热弹匣.png",
-      "size": 5256
+      "size": 5262
     },
     {
       "name": "skill_灼金的巡行.png",
       "path": "role_detail/skill/1306/skill_灼金的巡行.png",
-      "size": 2818
+      "size": 2822
     },
     {
       "name": "skill_点睛.png",
       "path": "role_detail/skill/1105/skill_点睛.png",
-      "size": 3620
+      "size": 4244
     },
     {
       "name": "skill_炼净.png",
       "path": "role_detail/skill/1208/skill_炼净.png",
-      "size": 4870
+      "size": 4886
     },
     {
       "name": "skill_炽烈焰火.png",
@@ -2805,57 +2830,57 @@
     {
       "name": "skill_炽盛决意.png",
       "path": "role_detail/skill/1306/skill_炽盛决意.png",
-      "size": 2954
+      "size": 2950
     },
     {
       "name": "skill_热力羊咩.png",
       "path": "role_detail/skill/1203/skill_热力羊咩.png",
-      "size": 5058
+      "size": 5064
     },
     {
       "name": "skill_热场.png",
       "path": "role_detail/skill/1203/skill_热场.png",
-      "size": 2200
+      "size": 2204
     },
     {
       "name": "skill_焚身以火.png",
       "path": "role_detail/skill/1205/skill_焚身以火.png",
-      "size": 4932
+      "size": 4948
     },
     {
       "name": "skill_焦瞑冻土.png",
       "path": "role_detail/skill/1102/skill_焦瞑冻土.png",
-      "size": 4584
+      "size": 4588
     },
     {
       "name": "skill_焰狼宣告.png",
       "path": "role_detail/skill/1207/skill_焰狼宣告.png",
-      "size": 3056
+      "size": 3062
     },
     {
       "name": "skill_照我以显.png",
       "path": "role_detail/skill/1410/skill_照我以显.png",
-      "size": 4094
+      "size": 4112
     },
     {
       "name": "skill_燃星.png",
       "path": "role_detail/skill/1207/skill_燃星.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_爆炸喷涂.png",
       "path": "role_detail/skill/1509/skill_爆炸喷涂.png",
-      "size": 4046
+      "size": 4054
     },
     {
       "name": "skill_片玉.png",
       "path": "role_detail/skill/1106/skill_片玉.png",
-      "size": 2982
+      "size": 2976
     },
     {
       "name": "skill_狂岚未尽.png",
       "path": "role_detail/skill/1406/skill_狂岚未尽.png",
-      "size": 3210
+      "size": 3216
     },
     {
       "name": "skill_狂雷飓风.png",
@@ -2865,47 +2890,47 @@
     {
       "name": "skill_狮班免掠，逢场避让.png",
       "path": "role_detail/skill/1104/skill_狮班免掠，逢场避让.png",
-      "size": 4058
+      "size": 4050
     },
     {
       "name": "skill_猎杀使命.png",
       "path": "role_detail/skill/1301/skill_猎杀使命.png",
-      "size": 4206
+      "size": 4214
     },
     {
       "name": "skill_猎犬剑技·獠牙撕扯.png",
       "path": "role_detail/skill/1301/skill_猎犬剑技·獠牙撕扯.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_猎魔扳机.png",
       "path": "role_detail/skill/1208/skill_猎魔扳机.png",
-      "size": 1282
+      "size": 1284
     },
     {
       "name": "skill_珠玑.png",
       "path": "role_detail/skill/1106/skill_珠玑.png",
-      "size": 3108
+      "size": 3110
     },
     {
       "name": "skill_琳奈式创想.png",
       "path": "role_detail/skill/1509/skill_琳奈式创想.png",
-      "size": 2660
+      "size": 2798
     },
     {
       "name": "skill_生与死的乐章.png",
       "path": "role_detail/skill/1608/skill_生与死的乐章.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_生命的恩惠.png",
       "path": "role_detail/skill/1503/skill_生命的恩惠.png",
-      "size": 6318
+      "size": 6314
     },
     {
       "name": "skill_生气的黑咩.png",
       "path": "role_detail/skill/1203/skill_生气的黑咩.png",
-      "size": 5122
+      "size": 5130
     },
     {
       "name": "skill_留痕·踏雪点星.png",
@@ -2920,52 +2945,52 @@
     {
       "name": "skill_盈溢.png",
       "path": "role_detail/skill/1602/skill_盈溢.png",
-      "size": 4000
+      "size": 4006
     },
     {
       "name": "skill_盛放.png",
       "path": "role_detail/skill/1503/skill_盛放.png",
-      "size": 3376
+      "size": 3386
     },
     {
       "name": "skill_盛放与凋零的轮舞.png",
       "path": "role_detail/skill/1603/skill_盛放与凋零的轮舞.png",
-      "size": 4570
+      "size": 4580
     },
     {
       "name": "skill_目标专注.png",
       "path": "role_detail/skill/1302/skill_目标专注.png",
-      "size": 3564
+      "size": 3562
     },
     {
       "name": "skill_直到世界尽头.png",
       "path": "role_detail/skill/1206/skill_直到世界尽头.png",
-      "size": 5434
+      "size": 5440
     },
     {
       "name": "skill_真假参半.png",
       "path": "role_detail/skill/1403/skill_真假参半.png",
-      "size": 1282
+      "size": 1284
     },
     {
       "name": "skill_真源构演.png",
       "path": "role_detail/skill/1505/skill_真源构演.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_睿知.png",
       "path": "role_detail/skill/1305/skill_睿知.png",
-      "size": 3522
+      "size": 3848
     },
     {
       "name": "skill_瞬刻.png",
       "path": "role_detail/skill/1501/skill_瞬刻.png",
-      "size": 2968
+      "size": 2966
     },
     {
       "name": "skill_砰砰.png",
       "path": "role_detail/skill/1202/skill_砰砰.png",
-      "size": 1282
+      "size": 1284
     },
     {
       "name": "skill_破天雷灭击.png",
@@ -2975,7 +3000,7 @@
     {
       "name": "skill_碎面构图.png",
       "path": "role_detail/skill/1508/skill_碎面构图.png",
-      "size": 2342
+      "size": 2350
     },
     {
       "name": "skill_磁殛咆哮.png",
@@ -2985,57 +3010,57 @@
     {
       "name": "skill_祭者独步.png",
       "path": "role_detail/skill/1410/skill_祭者独步.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_离火照丹心.png",
       "path": "role_detail/skill/1205/skill_离火照丹心.png",
-      "size": 5066
+      "size": 5072
     },
     {
       "name": "skill_移位戏法.png",
       "path": "role_detail/skill/1403/skill_移位戏法.png",
-      "size": 3536
+      "size": 3532
     },
     {
       "name": "skill_移岁诛邪.png",
       "path": "role_detail/skill/1304/skill_移岁诛邪.png",
-      "size": 3642
+      "size": 3644
     },
     {
       "name": "skill_稍纵即逝的梦呓.png",
       "path": "role_detail/skill/1608/skill_稍纵即逝的梦呓.png",
-      "size": 2452
+      "size": 2462
     },
     {
       "name": "skill_空渡浮尘.png",
       "path": "role_detail/skill/1406/skill_空渡浮尘.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_穿林打叶.png",
       "path": "role_detail/skill/1411/skill_穿林打叶.png",
-      "size": 3614
+      "size": 3610
     },
     {
       "name": "skill_策电.png",
       "path": "role_detail/skill/1302/skill_策电.png",
-      "size": 2160
+      "size": 2162
     },
     {
       "name": "skill_终末回环.png",
       "path": "role_detail/skill/1505/skill_终末回环.png",
-      "size": 5050
+      "size": 5062
     },
     {
       "name": "skill_终点在此处.png",
       "path": "role_detail/skill/1508/skill_终点在此处.png",
-      "size": 3060
+      "size": 3066
     },
     {
       "name": "skill_绯光.png",
       "path": "role_detail/skill/1602/skill_绯光.png",
-      "size": 4056
+      "size": 4060
     },
     {
       "name": "skill_绯红绽放.png",
@@ -3045,52 +3070,57 @@
     {
       "name": "skill_缄默执行.png",
       "path": "role_detail/skill/1107/skill_缄默执行.png",
-      "size": 1282
+      "size": 1284
     },
     {
       "name": "skill_缠绕.png",
       "path": "role_detail/skill/1603/skill_缠绕.png",
-      "size": 3476
+      "size": 3486
+    },
+    {
+      "name": "skill_罗伊近身格斗技.png",
+      "path": "role_detail/skill/1412/skill_罗伊近身格斗技.png",
+      "size": 3280
     },
     {
       "name": "skill_羊咩出击.png",
       "path": "role_detail/skill/1203/skill_羊咩出击.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_群星漫响.png",
       "path": "role_detail/skill/1505/skill_群星漫响.png",
-      "size": 4544
+      "size": 4548
     },
     {
       "name": "skill_育种.png",
       "path": "role_detail/skill/1603/skill_育种.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_育苗.png",
       "path": "role_detail/skill/1503/skill_育苗.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_胜利为我呼嚎.png",
       "path": "role_detail/skill/1207/skill_胜利为我呼嚎.png",
-      "size": 2360
+      "size": 2370
     },
     {
       "name": "skill_自我引力.png",
       "path": "role_detail/skill/1505/skill_自我引力.png",
-      "size": 5080
+      "size": 5072
     },
     {
       "name": "skill_自然的献礼.png",
       "path": "role_detail/skill/1503/skill_自然的献礼.png",
-      "size": 5260
+      "size": 5264
     },
     {
       "name": "skill_自霜中诞生的火光.png",
       "path": "role_detail/skill/1510/skill_自霜中诞生的火光.png",
-      "size": 3994
+      "size": 4022
     },
     {
       "name": "skill_至日的征伐.png",
@@ -3100,132 +3130,132 @@
     {
       "name": "skill_致命组歌.png",
       "path": "role_detail/skill/1608/skill_致命组歌.png",
-      "size": 2914
+      "size": 2912
     },
     {
       "name": "skill_致濒死以答.png",
       "path": "role_detail/skill/1510/skill_致濒死以答.png",
-      "size": 3548
+      "size": 5446
     },
     {
       "name": "skill_致辞.png",
       "path": "role_detail/skill/1107/skill_致辞.png",
-      "size": 3456
+      "size": 3462
     },
     {
       "name": "skill_航向确定！.png",
       "path": "role_detail/skill/1206/skill_航向确定！.png",
-      "size": 5068
+      "size": 5074
     },
     {
       "name": "skill_航程伊始的预兆.png",
       "path": "role_detail/skill/1210/skill_航程伊始的预兆.png",
-      "size": 2706
+      "size": 3364
     },
     {
       "name": "skill_船长的狂想演出.png",
       "path": "role_detail/skill/1206/skill_船长的狂想演出.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_色光混合律.png",
       "path": "role_detail/skill/1509/skill_色光混合律.png",
-      "size": 4088
+      "size": 4096
     },
     {
       "name": "skill_艺术至上.png",
       "path": "role_detail/skill/1107/skill_艺术至上.png",
-      "size": 2308
+      "size": 2300
     },
     {
       "name": "skill_艺间巡礼.png",
       "path": "role_detail/skill/1107/skill_艺间巡礼.png",
-      "size": 4214
+      "size": 4218
     },
     {
       "name": "skill_节奏自由.png",
       "path": "role_detail/skill/1204/skill_节奏自由.png",
-      "size": 3304
+      "size": 3306
     },
     {
       "name": "skill_芳华绽烬.png",
       "path": "role_detail/skill/1603/skill_芳华绽烬.png",
-      "size": 3456
+      "size": 3472
     },
     {
       "name": "skill_苍躣八荒·谋定.png",
       "path": "role_detail/skill/1404/skill_苍躣八荒·谋定.png",
-      "size": 3194
+      "size": 3196
     },
     {
       "name": "skill_苍龙破阵.png",
       "path": "role_detail/skill/1404/skill_苍龙破阵.png",
-      "size": 4676
+      "size": 4694
     },
     {
       "name": "skill_英魂炽火流.png",
       "path": "role_detail/skill/1202/skill_英魂炽火流.png",
-      "size": 3884
+      "size": 3890
     },
     {
       "name": "skill_草木生长.png",
       "path": "role_detail/skill/1503/skill_草木生长.png",
-      "size": 8170
+      "size": 8172
     },
     {
       "name": "skill_荣光欢酣于火.png",
       "path": "role_detail/skill/1207/skill_荣光欢酣于火.png",
-      "size": 2814
+      "size": 2820
     },
     {
       "name": "skill_荣誉的加护.png",
       "path": "role_detail/skill/1306/skill_荣誉的加护.png",
-      "size": 2386
+      "size": 2388
     },
     {
       "name": "skill_蓝图.png",
       "path": "role_detail/skill/1209/skill_蓝图.png",
-      "size": 3662
+      "size": 3658
     },
     {
       "name": "skill_蔓延.png",
       "path": "role_detail/skill/1503/skill_蔓延.png",
-      "size": 4396
+      "size": 4402
     },
     {
       "name": "skill_蕴风集流.png",
       "path": "role_detail/skill/1404/skill_蕴风集流.png",
-      "size": 2874
+      "size": 2868
     },
     {
       "name": "skill_虚像陷落.png",
       "path": "role_detail/skill/1607/skill_虚像陷落.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_虚实之间.png",
       "path": "role_detail/skill/1607/skill_虚实之间.png",
-      "size": 4524
+      "size": 4526
     },
     {
       "name": "skill_虚实境趣.png",
       "path": "role_detail/skill/1105/skill_虚实境趣.png",
-      "size": 3176
+      "size": 3520
     },
     {
       "name": "skill_虚晃一枪.png",
       "path": "role_detail/skill/1403/skill_虚晃一枪.png",
-      "size": 3130
+      "size": 3118
     },
     {
       "name": "skill_蟠龙清辉.png",
       "path": "role_detail/skill/1304/skill_蟠龙清辉.png",
-      "size": 4358
+      "size": 4360
     },
     {
       "name": "skill_行刃.png",
       "path": "role_detail/skill/1604/skill_行刃.png",
-      "size": 2372
+      "size": 2380
     },
     {
       "name": "skill_衍息.png",
@@ -3235,37 +3265,37 @@
     {
       "name": "skill_衔火洞明.png",
       "path": "role_detail/skill/1205/skill_衔火洞明.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_裁竹为锋.png",
       "path": "role_detail/skill/1411/skill_裁竹为锋.png",
-      "size": 3902
+      "size": 3914
     },
     {
       "name": "skill_裁羽弑音.png",
       "path": "role_detail/skill/1604/skill_裁羽弑音.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_裂象.png",
       "path": "role_detail/skill/1406/skill_裂象.png",
-      "size": 3808
+      "size": 3818
     },
     {
       "name": "skill_覆声裁羽.png",
       "path": "role_detail/skill/1402/skill_覆声裁羽.png",
-      "size": 3288
+      "size": 3274
     },
     {
       "name": "skill_覆映吾身.png",
       "path": "role_detail/skill/1405/skill_覆映吾身.png",
-      "size": 2718
+      "size": 2722
     },
     {
       "name": "skill_覆雪流盈.png",
       "path": "role_detail/skill/1103/skill_覆雪流盈.png",
-      "size": 3380
+      "size": 3384
     },
     {
       "name": "skill_解弦式第零定律.png",
@@ -3275,7 +3305,7 @@
     {
       "name": "skill_解弦视界·万理归尘.png",
       "path": "role_detail/skill/1508/skill_解弦视界·万理归尘.png",
-      "size": 4362
+      "size": 4372
     },
     {
       "name": "skill_解意.png",
@@ -3285,92 +3315,102 @@
     {
       "name": "skill_解算.png",
       "path": "role_detail/skill/1209/skill_解算.png",
-      "size": 4500
+      "size": 4504
     },
     {
       "name": "skill_解耦.png",
       "path": "role_detail/skill/1209/skill_解耦.png",
-      "size": 3242
+      "size": 3240
     },
     {
       "name": "skill_誓猎.png",
       "path": "role_detail/skill/1208/skill_誓猎.png",
-      "size": 4106
+      "size": 4116
     },
     {
       "name": "skill_记住我的名字.png",
       "path": "role_detail/skill/1207/skill_记住我的名字.png",
-      "size": 2808
+      "size": 2804
     },
     {
       "name": "skill_诗中物.png",
       "path": "role_detail/skill/1106/skill_诗中物.png",
-      "size": 4460
+      "size": 4466
+    },
+    {
+      "name": "skill_语义共鸣.png",
+      "path": "role_detail/skill/1412/skill_语义共鸣.png",
+      "size": 2342
+    },
+    {
+      "name": "skill_语义复现.png",
+      "path": "role_detail/skill/1412/skill_语义复现.png",
+      "size": 2124
     },
     {
       "name": "skill_谐律速奏.png",
       "path": "role_detail/skill/1407/skill_谐律速奏.png",
-      "size": 3590
+      "size": 3602
     },
     {
       "name": "skill_质能等价.png",
       "path": "role_detail/skill/1209/skill_质能等价.png",
-      "size": 4116
+      "size": 4112
     },
     {
       "name": "skill_质黑相青.png",
       "path": "role_detail/skill/1411/skill_质黑相青.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_赫羽三相.png",
       "path": "role_detail/skill/1205/skill_赫羽三相.png",
-      "size": 4072
+      "size": 4074
     },
     {
       "name": "skill_起锚！.png",
       "path": "role_detail/skill/1206/skill_起锚！.png",
-      "size": 3242
+      "size": 3240
     },
     {
       "name": "skill_超阈限.png",
       "path": "role_detail/skill/1208/skill_超阈限.png",
-      "size": 4400
+      "size": 4410
     },
     {
       "name": "skill_跃焰.png",
       "path": "role_detail/skill/1202/skill_跃焰.png",
-      "size": 2458
+      "size": 2454
     },
     {
       "name": "skill_轰雷.png",
       "path": "role_detail/skill/1303/skill_轰雷.png",
-      "size": 3304
+      "size": 3316
     },
     {
       "name": "skill_轻云淡墨.png",
       "path": "role_detail/skill/1105/skill_轻云淡墨.png",
-      "size": 2102
+      "size": 2100
     },
     {
       "name": "skill_边缘翼动.png",
       "path": "role_detail/skill/1208/skill_边缘翼动.png",
-      "size": 4376
+      "size": 4382
     },
     {
       "name": "skill_迎海投火的决意.png",
       "path": "role_detail/skill/1206/skill_迎海投火的决意.png",
-      "size": 2690
+      "size": 2686
     },
     {
       "name": "skill_追寻光芒之所.png",
       "path": "role_detail/skill/1506/skill_追寻光芒之所.png",
-      "size": 4218
+      "size": 4228
     },
     {
       "name": "skill_逐狩.png",
       "path": "role_detail/skill/1306/skill_逐狩.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_递归.png",
@@ -3380,72 +3420,72 @@
     {
       "name": "skill_遁影牵雷.png",
       "path": "role_detail/skill/1307/skill_遁影牵雷.png",
-      "size": 3906
+      "size": 3912
     },
     {
       "name": "skill_遂心匣.png",
       "path": "role_detail/skill/1106/skill_遂心匣.png",
-      "size": 3908
+      "size": 3924
     },
     {
       "name": "skill_道具师的自我修养.png",
       "path": "role_detail/skill/1606/skill_道具师的自我修养.png",
-      "size": 4666
+      "size": 4674
     },
     {
       "name": "skill_重器藏锋.png",
       "path": "role_detail/skill/1601/skill_重器藏锋.png",
-      "size": 1922
+      "size": 1924
     },
     {
       "name": "skill_金色恩典.png",
       "path": "role_detail/skill/1506/skill_金色恩典.png",
-      "size": 5636
+      "size": 5640
     },
     {
       "name": "skill_鉴珍.png",
       "path": "role_detail/skill/1106/skill_鉴珍.png",
-      "size": 3424
+      "size": 3438
     },
     {
       "name": "skill_链式.png",
       "path": "role_detail/skill/1305/skill_链式.png",
-      "size": 2010
+      "size": 2408
     },
     {
       "name": "skill_问难.png",
       "path": "role_detail/skill/1305/skill_问难.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_雪下的脉搏.png",
       "path": "role_detail/skill/1510/skill_雪下的脉搏.png",
-      "size": 2862
+      "size": 4022
     },
     {
       "name": "skill_零失误演绎.png",
       "path": "role_detail/skill/1403/skill_零失误演绎.png",
-      "size": 2110
+      "size": 2118
     },
     {
       "name": "skill_雷炁化生.png",
       "path": "role_detail/skill/1307/skill_雷炁化生.png",
-      "size": 4342
+      "size": 4356
     },
     {
       "name": "skill_雷煌拳.png",
       "path": "role_detail/skill/1303/skill_雷煌拳.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_雾色掩护.png",
       "path": "role_detail/skill/1403/skill_雾色掩护.png",
-      "size": 3414
+      "size": 3420
     },
     {
       "name": "skill_雾解.png",
       "path": "role_detail/skill/1403/skill_雾解.png",
-      "size": 3338
+      "size": 3352
     },
     {
       "name": "skill_雾里观花.png",
@@ -3455,17 +3495,17 @@
     {
       "name": "skill_震声.png",
       "path": "role_detail/skill/1501/skill_震声.png",
-      "size": 6018
+      "size": 6028
     },
     {
       "name": "skill_霜坠.png",
       "path": "role_detail/skill/1106/skill_霜坠.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_静气循行.png",
       "path": "role_detail/skill/1405/skill_静气循行.png",
-      "size": 3174
+      "size": 3176
     },
     {
       "name": "skill_静聆.png",
@@ -3475,57 +3515,57 @@
     {
       "name": "skill_领航之焰.png",
       "path": "role_detail/skill/1206/skill_领航之焰.png",
-      "size": 2782
+      "size": 2780
     },
     {
       "name": "skill_风与诗乐的交响.png",
       "path": "role_detail/skill/1407/skill_风与诗乐的交响.png",
-      "size": 5128
+      "size": 5122
     },
     {
       "name": "skill_风仪拳术.png",
       "path": "role_detail/skill/1405/skill_风仪拳术.png",
-      "size": 2088
+      "size": 2092
     },
     {
       "name": "skill_风息流转.png",
       "path": "role_detail/skill/1406/skill_风息流转.png",
-      "size": 4724
+      "size": 4734
     },
     {
       "name": "skill_风羽为刃.png",
       "path": "role_detail/skill/1402/skill_风羽为刃.png",
-      "size": 1840
+      "size": 1842
     },
     {
       "name": "skill_飞至启明之时.png",
       "path": "role_detail/skill/1210/skill_飞至启明之时.png",
-      "size": 3802
+      "size": 4354
     },
     {
       "name": "skill_飞雷诀.png",
       "path": "role_detail/skill/1307/skill_飞雷诀.png",
-      "size": 3874
+      "size": 3878
     },
     {
       "name": "skill_食罪.png",
       "path": "role_detail/skill/1208/skill_食罪.png",
-      "size": 2608
+      "size": 2606
     },
     {
       "name": "skill_驭时.png",
       "path": "role_detail/skill/1304/skill_驭时.png",
-      "size": 4570
+      "size": 4560
     },
     {
       "name": "skill_驱猎逐烬.png",
       "path": "role_detail/skill/1208/skill_驱猎逐烬.png",
-      "size": 2618
+      "size": 2622
     },
     {
       "name": "skill_驱雷.png",
       "path": "role_detail/skill/1303/skill_驱雷.png",
-      "size": 3436
+      "size": 3446
     },
     {
       "name": "skill_高难度设计.png",
@@ -3540,22 +3580,22 @@
     {
       "name": "skill_黎那汐塔之风.png",
       "path": "role_detail/skill/1407/skill_黎那汐塔之风.png",
-      "size": 4372
+      "size": 4388
     },
     {
       "name": "skill_黑咩大暴走.png",
       "path": "role_detail/skill/1203/skill_黑咩大暴走.png",
-      "size": 5730
+      "size": 5738
     },
     {
       "name": "skill_黑白羊咩.png",
       "path": "role_detail/skill/1203/skill_黑白羊咩.png",
-      "size": 4200
+      "size": 4196
     },
     {
       "name": "skill_黯夜将明.png",
       "path": "role_detail/skill/1507/skill_黯夜将明.png",
-      "size": 5220
+      "size": 5210
     }
   ],
   "subdirectories": [

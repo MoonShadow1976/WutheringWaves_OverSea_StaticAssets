@@ -1,156 +1,166 @@
 {
   "name": "monster",
-  "last_updated": "2026-02-28T08:11:13Z",
+  "last_updated": "2026-03-07T05:45:10Z",
   "files": [
     {
       "name": "monster_310000230.png",
       "path": "monster/monster_310000230.png",
-      "size": 10454
+      "size": 10110
     },
     {
       "name": "monster_310000232.png",
       "path": "monster/monster_310000232.png",
-      "size": 10454
+      "size": 10110
     },
     {
       "name": "monster_310000233.png",
       "path": "monster/monster_310000233.png",
-      "size": 10454
+      "size": 10110
     },
     {
       "name": "monster_310000290.png",
       "path": "monster/monster_310000290.png",
-      "size": 8758
+      "size": 8630
     },
     {
       "name": "monster_310000300.png",
       "path": "monster/monster_310000300.png",
-      "size": 17966
+      "size": 17264
     },
     {
       "name": "monster_310000310.png",
       "path": "monster/monster_310000310.png",
-      "size": 11804
+      "size": 11634
     },
     {
       "name": "monster_310000320.png",
       "path": "monster/monster_310000320.png",
-      "size": 11196
+      "size": 10706
     },
     {
       "name": "monster_310000620.png",
       "path": "monster/monster_310000620.png",
-      "size": 13988
+      "size": 13398
     },
     {
       "name": "monster_310000690.png",
       "path": "monster/monster_310000690.png",
-      "size": 11384
+      "size": 11132
     },
     {
       "name": "monster_310000710.png",
       "path": "monster/monster_310000710.png",
-      "size": 12354
+      "size": 11900
     },
     {
       "name": "monster_310000800.png",
       "path": "monster/monster_310000800.png",
-      "size": 17518
+      "size": 16968
     },
     {
       "name": "monster_310000810.png",
       "path": "monster/monster_310000810.png",
-      "size": 17210
+      "size": 16718
     },
     {
       "name": "monster_320000140.png",
       "path": "monster/monster_320000140.png",
-      "size": 9488
+      "size": 9220
     },
     {
       "name": "monster_320000150.png",
       "path": "monster/monster_320000150.png",
-      "size": 9432
+      "size": 9226
     },
     {
       "name": "monster_320000160.png",
       "path": "monster/monster_320000160.png",
-      "size": 11270
+      "size": 10970
     },
     {
       "name": "monster_320000170.png",
       "path": "monster/monster_320000170.png",
-      "size": 16524
+      "size": 15902
     },
     {
       "name": "monster_320000360.png",
       "path": "monster/monster_320000360.png",
-      "size": 14842
+      "size": 14212
     },
     {
       "name": "monster_320000370.png",
       "path": "monster/monster_320000370.png",
-      "size": 15332
+      "size": 14778
     },
     {
       "name": "monster_320000380.png",
       "path": "monster/monster_320000380.png",
-      "size": 14610
+      "size": 14088
     },
     {
       "name": "monster_320000390.png",
       "path": "monster/monster_320000390.png",
-      "size": 14254
+      "size": 13860
     },
     {
       "name": "monster_320000400.png",
       "path": "monster/monster_320000400.png",
-      "size": 14244
+      "size": 13700
     },
     {
       "name": "monster_320000410.png",
       "path": "monster/monster_320000410.png",
-      "size": 14148
+      "size": 13618
     },
     {
       "name": "monster_320000420.png",
       "path": "monster/monster_320000420.png",
-      "size": 20902
+      "size": 20208
+    },
+    {
+      "name": "monster_320000600.png",
+      "path": "monster/monster_320000600.png",
+      "size": 18006
     },
     {
       "name": "monster_330000100.png",
       "path": "monster/monster_330000100.png",
-      "size": 19206
+      "size": 18498
     },
     {
       "name": "monster_340000050.png",
       "path": "monster/monster_340000050.png",
-      "size": 23610
+      "size": 23158
     },
     {
       "name": "monster_340000112.png",
       "path": "monster/monster_340000112.png",
-      "size": 17436
+      "size": 17018
     },
     {
       "name": "monster_340000120.png",
       "path": "monster/monster_340000120.png",
-      "size": 24516
+      "size": 23906
     },
     {
       "name": "monster_340000150.png",
       "path": "monster/monster_340000150.png",
-      "size": 22316
+      "size": 21786
     },
     {
       "name": "monster_340000190.png",
       "path": "monster/monster_340000190.png",
-      "size": 23570
+      "size": 22848
     },
     {
       "name": "monster_340000200.png",
       "path": "monster/monster_340000200.png",
-      "size": 26642
+      "size": 25578
+    },
+    {
+      "name": "monster_340000240.png",
+      "path": "monster/monster_340000240.png",
+      "size": 13092
     }
   ],
   "subdirectories": []

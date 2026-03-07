@@ -1,256 +1,261 @@
 {
   "name": "waves_avatar",
-  "last_updated": "2026-02-28T08:11:13Z",
+  "last_updated": "2026-03-07T05:45:10Z",
   "files": [
     {
       "name": "role_head_1102.png",
       "path": "waves_avatar/role_head_1102.png",
-      "size": 22710
+      "size": 22442
     },
     {
       "name": "role_head_1103.png",
       "path": "waves_avatar/role_head_1103.png",
-      "size": 21338
+      "size": 21050
     },
     {
       "name": "role_head_1104.png",
       "path": "waves_avatar/role_head_1104.png",
-      "size": 22098
+      "size": 21792
     },
     {
       "name": "role_head_1105.png",
       "path": "waves_avatar/role_head_1105.png",
-      "size": 24550
+      "size": 23788
     },
     {
       "name": "role_head_1106.png",
       "path": "waves_avatar/role_head_1106.png",
-      "size": 21594
+      "size": 20898
     },
     {
       "name": "role_head_1107.png",
       "path": "waves_avatar/role_head_1107.png",
-      "size": 23202
+      "size": 22684
     },
     {
       "name": "role_head_1202.png",
       "path": "waves_avatar/role_head_1202.png",
-      "size": 22446
+      "size": 21822
     },
     {
       "name": "role_head_1203.png",
       "path": "waves_avatar/role_head_1203.png",
-      "size": 18720
+      "size": 18440
     },
     {
       "name": "role_head_1204.png",
       "path": "waves_avatar/role_head_1204.png",
-      "size": 20402
+      "size": 19674
     },
     {
       "name": "role_head_1205.png",
       "path": "waves_avatar/role_head_1205.png",
-      "size": 22488
+      "size": 22132
     },
     {
       "name": "role_head_1206.png",
       "path": "waves_avatar/role_head_1206.png",
-      "size": 24322
+      "size": 23558
     },
     {
       "name": "role_head_1207.png",
       "path": "waves_avatar/role_head_1207.png",
-      "size": 24268
+      "size": 23578
     },
     {
       "name": "role_head_1208.png",
       "path": "waves_avatar/role_head_1208.png",
-      "size": 25326
+      "size": 24962
     },
     {
       "name": "role_head_1209.png",
       "path": "waves_avatar/role_head_1209.png",
-      "size": 23904
+      "size": 23318
     },
     {
       "name": "role_head_1210.png",
       "path": "waves_avatar/role_head_1210.png",
-      "size": 25572
+      "size": 22124
     },
     {
       "name": "role_head_1301.png",
       "path": "waves_avatar/role_head_1301.png",
-      "size": 21182
+      "size": 20828
     },
     {
       "name": "role_head_1302.png",
       "path": "waves_avatar/role_head_1302.png",
-      "size": 20754
+      "size": 20024
     },
     {
       "name": "role_head_1303.png",
       "path": "waves_avatar/role_head_1303.png",
-      "size": 16430
+      "size": 16118
     },
     {
       "name": "role_head_1304.png",
       "path": "waves_avatar/role_head_1304.png",
-      "size": 20692
+      "size": 20110
     },
     {
       "name": "role_head_1305.png",
       "path": "waves_avatar/role_head_1305.png",
-      "size": 16160
+      "size": 15946
     },
     {
       "name": "role_head_1306.png",
       "path": "waves_avatar/role_head_1306.png",
-      "size": 20686
+      "size": 20034
     },
     {
       "name": "role_head_1307.png",
       "path": "waves_avatar/role_head_1307.png",
-      "size": 21962
+      "size": 21442
     },
     {
       "name": "role_head_1402.png",
       "path": "waves_avatar/role_head_1402.png",
-      "size": 20054
+      "size": 19760
     },
     {
       "name": "role_head_1403.png",
       "path": "waves_avatar/role_head_1403.png",
-      "size": 21106
+      "size": 20850
     },
     {
       "name": "role_head_1404.png",
       "path": "waves_avatar/role_head_1404.png",
-      "size": 22750
+      "size": 22264
     },
     {
       "name": "role_head_1405.png",
       "path": "waves_avatar/role_head_1405.png",
-      "size": 21800
+      "size": 21584
     },
     {
       "name": "role_head_1406.png",
       "path": "waves_avatar/role_head_1406.png",
-      "size": 16352
+      "size": 16078
     },
     {
       "name": "role_head_1407.png",
       "path": "waves_avatar/role_head_1407.png",
-      "size": 26488
+      "size": 25990
     },
     {
       "name": "role_head_1408.png",
       "path": "waves_avatar/role_head_1408.png",
-      "size": 19242
+      "size": 18944
     },
     {
       "name": "role_head_1409.png",
       "path": "waves_avatar/role_head_1409.png",
-      "size": 23576
+      "size": 22946
     },
     {
       "name": "role_head_1410.png",
       "path": "waves_avatar/role_head_1410.png",
-      "size": 22648
+      "size": 21992
     },
     {
       "name": "role_head_1411.png",
       "path": "waves_avatar/role_head_1411.png",
-      "size": 24448
+      "size": 24032
+    },
+    {
+      "name": "role_head_1412.png",
+      "path": "waves_avatar/role_head_1412.png",
+      "size": 22530
     },
     {
       "name": "role_head_1501.png",
       "path": "waves_avatar/role_head_1501.png",
-      "size": 16352
+      "size": 16078
     },
     {
       "name": "role_head_1502.png",
       "path": "waves_avatar/role_head_1502.png",
-      "size": 19242
+      "size": 18944
     },
     {
       "name": "role_head_1503.png",
       "path": "waves_avatar/role_head_1503.png",
-      "size": 20862
+      "size": 20220
     },
     {
       "name": "role_head_1504.png",
       "path": "waves_avatar/role_head_1504.png",
-      "size": 24414
+      "size": 24070
     },
     {
       "name": "role_head_1505.png",
       "path": "waves_avatar/role_head_1505.png",
-      "size": 23276
+      "size": 22700
     },
     {
       "name": "role_head_1506.png",
       "path": "waves_avatar/role_head_1506.png",
-      "size": 20022
+      "size": 19634
     },
     {
       "name": "role_head_1507.png",
       "path": "waves_avatar/role_head_1507.png",
-      "size": 22444
+      "size": 21988
     },
     {
       "name": "role_head_1508.png",
       "path": "waves_avatar/role_head_1508.png",
-      "size": 22244
+      "size": 21998
     },
     {
       "name": "role_head_1509.png",
       "path": "waves_avatar/role_head_1509.png",
-      "size": 23350
+      "size": 22512
     },
     {
       "name": "role_head_1510.png",
       "path": "waves_avatar/role_head_1510.png",
-      "size": 20408
+      "size": 16806
     },
     {
       "name": "role_head_1601.png",
       "path": "waves_avatar/role_head_1601.png",
-      "size": 21906
+      "size": 21318
     },
     {
       "name": "role_head_1602.png",
       "path": "waves_avatar/role_head_1602.png",
-      "size": 19486
+      "size": 18924
     },
     {
       "name": "role_head_1603.png",
       "path": "waves_avatar/role_head_1603.png",
-      "size": 24742
+      "size": 24444
     },
     {
       "name": "role_head_1604.png",
       "path": "waves_avatar/role_head_1604.png",
-      "size": 19242
+      "size": 18944
     },
     {
       "name": "role_head_1605.png",
       "path": "waves_avatar/role_head_1605.png",
-      "size": 16352
+      "size": 16078
     },
     {
       "name": "role_head_1606.png",
       "path": "waves_avatar/role_head_1606.png",
-      "size": 25624
+      "size": 24848
     },
     {
       "name": "role_head_1607.png",
       "path": "waves_avatar/role_head_1607.png",
-      "size": 23250
+      "size": 22674
     },
     {
       "name": "role_head_1608.png",
       "path": "waves_avatar/role_head_1608.png",
-      "size": 19480
+      "size": 19208
     }
   ],
   "subdirectories": []

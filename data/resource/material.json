@@ -1,1016 +1,1016 @@
 {
   "name": "material",
-  "last_updated": "2026-02-28T08:11:13Z",
+  "last_updated": "2026-03-07T05:45:10Z",
   "files": [
     {
       "name": "material_2.png",
       "path": "material/material_2.png",
-      "size": 8680
+      "size": 8622
     },
     {
       "name": "material_41.png",
       "path": "material/material_41.png",
-      "size": 15564
+      "size": 15512
     },
     {
       "name": "material_41100011.png",
       "path": "material/material_41100011.png",
-      "size": 12434
+      "size": 12140
     },
     {
       "name": "material_41100012.png",
       "path": "material/material_41100012.png",
-      "size": 12024
+      "size": 11600
     },
     {
       "name": "material_41100013.png",
       "path": "material/material_41100013.png",
-      "size": 14632
+      "size": 14170
     },
     {
       "name": "material_41100014.png",
       "path": "material/material_41100014.png",
-      "size": 17374
+      "size": 16906
     },
     {
       "name": "material_41100021.png",
       "path": "material/material_41100021.png",
-      "size": 12328
+      "size": 12294
     },
     {
       "name": "material_41100022.png",
       "path": "material/material_41100022.png",
-      "size": 13596
+      "size": 13378
     },
     {
       "name": "material_41100023.png",
       "path": "material/material_41100023.png",
-      "size": 9394
+      "size": 9164
     },
     {
       "name": "material_41100024.png",
       "path": "material/material_41100024.png",
-      "size": 12690
+      "size": 12456
     },
     {
       "name": "material_41100031.png",
       "path": "material/material_41100031.png",
-      "size": 12416
+      "size": 12318
     },
     {
       "name": "material_41100032.png",
       "path": "material/material_41100032.png",
-      "size": 16284
+      "size": 15924
     },
     {
       "name": "material_41100033.png",
       "path": "material/material_41100033.png",
-      "size": 16586
+      "size": 16270
     },
     {
       "name": "material_41100034.png",
       "path": "material/material_41100034.png",
-      "size": 19742
+      "size": 19318
     },
     {
       "name": "material_41100041.png",
       "path": "material/material_41100041.png",
-      "size": 16470
+      "size": 16304
     },
     {
       "name": "material_41100042.png",
       "path": "material/material_41100042.png",
-      "size": 19812
+      "size": 19320
     },
     {
       "name": "material_41100043.png",
       "path": "material/material_41100043.png",
-      "size": 22352
+      "size": 21656
     },
     {
       "name": "material_41100044.png",
       "path": "material/material_41100044.png",
-      "size": 26912
+      "size": 26326
     },
     {
       "name": "material_41100051.png",
       "path": "material/material_41100051.png",
-      "size": 6494
+      "size": 6496
     },
     {
       "name": "material_41100052.png",
       "path": "material/material_41100052.png",
-      "size": 7310
+      "size": 7188
     },
     {
       "name": "material_41100053.png",
       "path": "material/material_41100053.png",
-      "size": 9494
+      "size": 9336
     },
     {
       "name": "material_41100054.png",
       "path": "material/material_41100054.png",
-      "size": 14836
+      "size": 14318
     },
     {
       "name": "material_41100061.png",
       "path": "material/material_41100061.png",
-      "size": 10316
+      "size": 10114
     },
     {
       "name": "material_41100062.png",
       "path": "material/material_41100062.png",
-      "size": 13076
+      "size": 12848
     },
     {
       "name": "material_41100063.png",
       "path": "material/material_41100063.png",
-      "size": 18666
+      "size": 18392
     },
     {
       "name": "material_41100064.png",
       "path": "material/material_41100064.png",
-      "size": 22012
+      "size": 21716
     },
     {
       "name": "material_41100071.png",
       "path": "material/material_41100071.png",
-      "size": 7650
+      "size": 7534
     },
     {
       "name": "material_41100072.png",
       "path": "material/material_41100072.png",
-      "size": 9646
+      "size": 9490
     },
     {
       "name": "material_41100073.png",
       "path": "material/material_41100073.png",
-      "size": 16192
+      "size": 16044
     },
     {
       "name": "material_41100074.png",
       "path": "material/material_41100074.png",
-      "size": 20200
+      "size": 19868
     },
     {
       "name": "material_41100081.png",
       "path": "material/material_41100081.png",
-      "size": 9500
+      "size": 9358
     },
     {
       "name": "material_41100082.png",
       "path": "material/material_41100082.png",
-      "size": 11910
+      "size": 11816
     },
     {
       "name": "material_41100083.png",
       "path": "material/material_41100083.png",
-      "size": 14514
+      "size": 14420
     },
     {
       "name": "material_41100084.png",
       "path": "material/material_41100084.png",
-      "size": 20722
+      "size": 20460
     },
     {
       "name": "material_41200031.png",
       "path": "material/material_41200031.png",
-      "size": 6082
+      "size": 6074
     },
     {
       "name": "material_41200032.png",
       "path": "material/material_41200032.png",
-      "size": 7962
+      "size": 7884
     },
     {
       "name": "material_41200033.png",
       "path": "material/material_41200033.png",
-      "size": 9556
+      "size": 9404
     },
     {
       "name": "material_41200034.png",
       "path": "material/material_41200034.png",
-      "size": 12464
+      "size": 12204
     },
     {
       "name": "material_41300005.png",
       "path": "material/material_41300005.png",
-      "size": 12110
+      "size": 11716
     },
     {
       "name": "material_41400014.png",
       "path": "material/material_41400014.png",
-      "size": 24120
+      "size": 23728
     },
     {
       "name": "material_41400024.png",
       "path": "material/material_41400024.png",
-      "size": 22886
+      "size": 22298
     },
     {
       "name": "material_41400034.png",
       "path": "material/material_41400034.png",
-      "size": 24830
+      "size": 24332
     },
     {
       "name": "material_41400044.png",
       "path": "material/material_41400044.png",
-      "size": 30336
+      "size": 29650
     },
     {
       "name": "material_41400054.png",
       "path": "material/material_41400054.png",
-      "size": 11650
+      "size": 11548
     },
     {
       "name": "material_41400064.png",
       "path": "material/material_41400064.png",
-      "size": 30596
+      "size": 29922
     },
     {
       "name": "material_41400074.png",
       "path": "material/material_41400074.png",
-      "size": 36364
+      "size": 35558
     },
     {
       "name": "material_41400084.png",
       "path": "material/material_41400084.png",
-      "size": 25170
+      "size": 24598
     },
     {
       "name": "material_41400094.png",
       "path": "material/material_41400094.png",
-      "size": 20112
+      "size": 19878
     },
     {
       "name": "material_41400104.png",
       "path": "material/material_41400104.png",
-      "size": 30982
+      "size": 30330
     },
     {
       "name": "material_41400114.png",
       "path": "material/material_41400114.png",
-      "size": 15100
+      "size": 14928
     },
     {
       "name": "material_41400124.png",
       "path": "material/material_41400124.png",
-      "size": 15782
+      "size": 15436
     },
     {
       "name": "material_41400134.png",
       "path": "material/material_41400134.png",
-      "size": 29752
+      "size": 29554
     },
     {
       "name": "material_41400144.png",
       "path": "material/material_41400144.png",
-      "size": 21186
+      "size": 20882
     },
     {
       "name": "material_41400154.png",
       "path": "material/material_41400154.png",
-      "size": 18642
+      "size": 18296
     },
     {
       "name": "material_41400164.png",
       "path": "material/material_41400164.png",
-      "size": 16618
+      "size": 15936
     },
     {
       "name": "material_41400174.png",
       "path": "material/material_41400174.png",
-      "size": 17920
+      "size": 17518
     },
     {
       "name": "material_41400184.png",
       "path": "material/material_41400184.png",
-      "size": 22522
+      "size": 22094
     },
     {
       "name": "material_41400194.png",
       "path": "material/material_41400194.png",
-      "size": 17320
+      "size": 17052
     },
     {
       "name": "material_41400204.png",
       "path": "material/material_41400204.png",
-      "size": 17018
+      "size": 16728
     },
     {
       "name": "material_41400214.png",
       "path": "material/material_41400214.png",
-      "size": 19246
+      "size": 18712
     },
     {
       "name": "material_41400224.png",
       "path": "material/material_41400224.png",
-      "size": 21466
+      "size": 21066
     },
     {
       "name": "material_41400234.png",
       "path": "material/material_41400234.png",
-      "size": 14242
+      "size": 14086
     },
     {
       "name": "material_41400244.png",
       "path": "material/material_41400244.png",
-      "size": 24684
+      "size": 24240
     },
     {
       "name": "material_41400254.png",
       "path": "material/material_41400254.png",
-      "size": 27624
+      "size": 27022
     },
     {
       "name": "material_41400264.png",
       "path": "material/material_41400264.png",
-      "size": 17980
+      "size": 17564
     },
     {
       "name": "material_41400274.png",
       "path": "material/material_41400274.png",
-      "size": 30522
+      "size": 29838
     },
     {
       "name": "material_41400284.png",
       "path": "material/material_41400284.png",
-      "size": 13110
+      "size": 11034
     },
     {
       "name": "material_41400294.png",
       "path": "material/material_41400294.png",
-      "size": 11278
+      "size": 9920
     },
     {
       "name": "material_42300010.png",
       "path": "material/material_42300010.png",
-      "size": 9594
+      "size": 9552
     },
     {
       "name": "material_42300020.png",
       "path": "material/material_42300020.png",
-      "size": 11360
+      "size": 11036
     },
     {
       "name": "material_42300030.png",
       "path": "material/material_42300030.png",
-      "size": 19380
+      "size": 18788
     },
     {
       "name": "material_42300040.png",
       "path": "material/material_42300040.png",
-      "size": 12696
+      "size": 12528
     },
     {
       "name": "material_42300050.png",
       "path": "material/material_42300050.png",
-      "size": 17282
+      "size": 17058
     },
     {
       "name": "material_42300060.png",
       "path": "material/material_42300060.png",
-      "size": 14868
+      "size": 14532
     },
     {
       "name": "material_42300070.png",
       "path": "material/material_42300070.png",
-      "size": 12244
+      "size": 11994
     },
     {
       "name": "material_42300080.png",
       "path": "material/material_42300080.png",
-      "size": 13494
+      "size": 13394
     },
     {
       "name": "material_42300090.png",
       "path": "material/material_42300090.png",
-      "size": 12532
+      "size": 12374
     },
     {
       "name": "material_42300100.png",
       "path": "material/material_42300100.png",
-      "size": 17168
+      "size": 16926
     },
     {
       "name": "material_42300110.png",
       "path": "material/material_42300110.png",
-      "size": 12770
+      "size": 12450
     },
     {
       "name": "material_42300120.png",
       "path": "material/material_42300120.png",
-      "size": 21922
+      "size": 21678
     },
     {
       "name": "material_42310010.png",
       "path": "material/material_42310010.png",
-      "size": 14552
+      "size": 14172
     },
     {
       "name": "material_42310020.png",
       "path": "material/material_42310020.png",
-      "size": 17542
+      "size": 17130
     },
     {
       "name": "material_42310030.png",
       "path": "material/material_42310030.png",
-      "size": 15966
+      "size": 15604
     },
     {
       "name": "material_42310040.png",
       "path": "material/material_42310040.png",
-      "size": 16654
+      "size": 16334
     },
     {
       "name": "material_42310050.png",
       "path": "material/material_42310050.png",
-      "size": 19494
+      "size": 19314
     },
     {
       "name": "material_42310060.png",
       "path": "material/material_42310060.png",
-      "size": 14818
+      "size": 14496
     },
     {
       "name": "material_42310070.png",
       "path": "material/material_42310070.png",
-      "size": 14716
+      "size": 14346
     },
     {
       "name": "material_42310080.png",
       "path": "material/material_42310080.png",
-      "size": 14236
+      "size": 14146
     },
     {
       "name": "material_42310090.png",
       "path": "material/material_42310090.png",
-      "size": 21974
+      "size": 21602
     },
     {
       "name": "material_42310100.png",
       "path": "material/material_42310100.png",
-      "size": 11912
+      "size": 11780
     },
     {
       "name": "material_42310110.png",
       "path": "material/material_42310110.png",
-      "size": 10406
+      "size": 10210
     },
     {
       "name": "material_42310120.png",
       "path": "material/material_42310120.png",
-      "size": 9066
+      "size": 8874
     },
     {
       "name": "material_42310130.png",
       "path": "material/material_42310130.png",
-      "size": 13504
+      "size": 13234
     },
     {
       "name": "material_42310140.png",
       "path": "material/material_42310140.png",
-      "size": 13064
+      "size": 12880
     },
     {
       "name": "material_42310150.png",
       "path": "material/material_42310150.png",
-      "size": 15918
+      "size": 15634
     },
     {
       "name": "material_42310160.png",
       "path": "material/material_42310160.png",
-      "size": 7642
+      "size": 7586
     },
     {
       "name": "material_42310170.png",
       "path": "material/material_42310170.png",
-      "size": 17124
+      "size": 16612
     },
     {
       "name": "material_42310180.png",
       "path": "material/material_42310180.png",
-      "size": 8320
+      "size": 8068
     },
     {
       "name": "material_42310190.png",
       "path": "material/material_42310190.png",
-      "size": 13200
+      "size": 13016
     },
     {
       "name": "material_42310200.png",
       "path": "material/material_42310200.png",
-      "size": 11972
+      "size": 11714
     },
     {
       "name": "material_42310210.png",
       "path": "material/material_42310210.png",
-      "size": 13992
+      "size": 13680
     },
     {
       "name": "material_42310220.png",
       "path": "material/material_42310220.png",
-      "size": 18348
+      "size": 18112
     },
     {
       "name": "material_42310230.png",
       "path": "material/material_42310230.png",
-      "size": 14114
+      "size": 13692
     },
     {
       "name": "material_42310240.png",
       "path": "material/material_42310240.png",
-      "size": 10160
+      "size": 9860
     },
     {
       "name": "material_42600010.png",
       "path": "material/material_42600010.png",
-      "size": 8294
+      "size": 8270
     },
     {
       "name": "material_42600020.png",
       "path": "material/material_42600020.png",
-      "size": 11620
+      "size": 11440
     },
     {
       "name": "material_42600021.png",
       "path": "material/material_42600021.png",
-      "size": 16474
+      "size": 16156
     },
     {
       "name": "material_42600022.png",
       "path": "material/material_42600022.png",
-      "size": 21480
+      "size": 21190
     },
     {
       "name": "material_42601010.png",
       "path": "material/material_42601010.png",
-      "size": 28972
+      "size": 28736
     },
     {
       "name": "material_42601020.png",
       "path": "material/material_42601020.png",
-      "size": 9614
+      "size": 9480
     },
     {
       "name": "material_42601030.png",
       "path": "material/material_42601030.png",
-      "size": 8700
+      "size": 8516
     },
     {
       "name": "material_42601040.png",
       "path": "material/material_42601040.png",
-      "size": 13024
+      "size": 12826
     },
     {
       "name": "material_42601050.png",
       "path": "material/material_42601050.png",
-      "size": 10802
+      "size": 10720
     },
     {
       "name": "material_42601060.png",
       "path": "material/material_42601060.png",
-      "size": 14092
+      "size": 13832
     },
     {
       "name": "material_42601070.png",
       "path": "material/material_42601070.png",
-      "size": 12780
+      "size": 12518
     },
     {
       "name": "material_42601080.png",
       "path": "material/material_42601080.png",
-      "size": 20786
+      "size": 20548
     },
     {
       "name": "material_42601090.png",
       "path": "material/material_42601090.png",
-      "size": 15710
+      "size": 15588
     },
     {
       "name": "material_42601100.png",
       "path": "material/material_42601100.png",
-      "size": 13916
+      "size": 13560
     },
     {
       "name": "material_42601110.png",
       "path": "material/material_42601110.png",
-      "size": 19670
+      "size": 19412
     },
     {
       "name": "material_42601120.png",
       "path": "material/material_42601120.png",
-      "size": 12444
+      "size": 12168
     },
     {
       "name": "material_42601130.png",
       "path": "material/material_42601130.png",
-      "size": 17746
+      "size": 17500
     },
     {
       "name": "material_42601140.png",
       "path": "material/material_42601140.png",
-      "size": 15326
+      "size": 14788
     },
     {
       "name": "material_42601150.png",
       "path": "material/material_42601150.png",
-      "size": 11318
+      "size": 11096
     },
     {
       "name": "material_42601160.png",
       "path": "material/material_42601160.png",
-      "size": 15620
+      "size": 15322
     },
     {
       "name": "material_42601170.png",
       "path": "material/material_42601170.png",
-      "size": 20362
+      "size": 19934
     },
     {
       "name": "material_42601180.png",
       "path": "material/material_42601180.png",
-      "size": 12668
+      "size": 12438
     },
     {
       "name": "material_42601190.png",
       "path": "material/material_42601190.png",
-      "size": 13814
+      "size": 13360
     },
     {
       "name": "material_42601200.png",
       "path": "material/material_42601200.png",
-      "size": 7468
+      "size": 7382
     },
     {
       "name": "material_42601210.png",
       "path": "material/material_42601210.png",
-      "size": 9742
+      "size": 9436
     },
     {
       "name": "material_42601220.png",
       "path": "material/material_42601220.png",
-      "size": 13478
+      "size": 13202
     },
     {
       "name": "material_42601230.png",
       "path": "material/material_42601230.png",
-      "size": 14018
+      "size": 13740
     },
     {
       "name": "material_42601240.png",
       "path": "material/material_42601240.png",
-      "size": 25510
+      "size": 25068
     },
     {
       "name": "material_42601250.png",
       "path": "material/material_42601250.png",
-      "size": 22894
+      "size": 22610
     },
     {
       "name": "material_42601260.png",
       "path": "material/material_42601260.png",
-      "size": 12166
+      "size": 11924
     },
     {
       "name": "material_42601270.png",
       "path": "material/material_42601270.png",
-      "size": 7546
+      "size": 7522
     },
     {
       "name": "material_42601280.png",
       "path": "material/material_42601280.png",
-      "size": 10424
+      "size": 10414
     },
     {
       "name": "material_42601290.png",
       "path": "material/material_42601290.png",
-      "size": 11180
+      "size": 10902
     },
     {
       "name": "material_42601300.png",
       "path": "material/material_42601300.png",
-      "size": 14074
+      "size": 13834
     },
     {
       "name": "material_42601310.png",
       "path": "material/material_42601310.png",
-      "size": 25136
+      "size": 24780
     },
     {
       "name": "material_42601320.png",
       "path": "material/material_42601320.png",
-      "size": 12180
+      "size": 11890
     },
     {
       "name": "material_42601340.png",
       "path": "material/material_42601340.png",
-      "size": 10288
+      "size": 10064
     },
     {
       "name": "material_42601350.png",
       "path": "material/material_42601350.png",
-      "size": 8936
+      "size": 8784
     },
     {
       "name": "material_42601360.png",
       "path": "material/material_42601360.png",
-      "size": 13112
+      "size": 12664
     },
     {
       "name": "material_42601370.png",
       "path": "material/material_42601370.png",
-      "size": 5800
+      "size": 5714
     },
     {
       "name": "material_42601380.png",
       "path": "material/material_42601380.png",
-      "size": 18030
+      "size": 17706
     },
     {
       "name": "material_42601390.png",
       "path": "material/material_42601390.png",
-      "size": 11938
+      "size": 11764
     },
     {
       "name": "material_42601400.png",
       "path": "material/material_42601400.png",
-      "size": 9048
+      "size": 8990
     },
     {
       "name": "material_42601410.png",
       "path": "material/material_42601410.png",
-      "size": 10952
+      "size": 10800
     },
     {
       "name": "material_42601420.png",
       "path": "material/material_42601420.png",
-      "size": 5258
+      "size": 5102
     },
     {
       "name": "material_42601430.png",
       "path": "material/material_42601430.png",
-      "size": 8226
+      "size": 7722
     },
     {
       "name": "material_42601440.png",
       "path": "material/material_42601440.png",
-      "size": 21170
+      "size": 21002
     },
     {
       "name": "material_42601450.png",
       "path": "material/material_42601450.png",
-      "size": 12646
+      "size": 13056
     },
     {
       "name": "material_42601460.png",
       "path": "material/material_42601460.png",
-      "size": 8886
+      "size": 8036
     },
     {
       "name": "material_42601470.png",
       "path": "material/material_42601470.png",
-      "size": 9934
+      "size": 9758
     },
     {
       "name": "material_43010001.png",
       "path": "material/material_43010001.png",
-      "size": 26630
+      "size": 26308
     },
     {
       "name": "material_43010002.png",
       "path": "material/material_43010002.png",
-      "size": 28898
+      "size": 28396
     },
     {
       "name": "material_43010003.png",
       "path": "material/material_43010003.png",
-      "size": 26004
+      "size": 25514
     },
     {
       "name": "material_43010004.png",
       "path": "material/material_43010004.png",
-      "size": 28844
+      "size": 28388
     },
     {
       "name": "material_43020001.png",
       "path": "material/material_43020001.png",
-      "size": 10604
+      "size": 10568
     },
     {
       "name": "material_43020002.png",
       "path": "material/material_43020002.png",
-      "size": 11608
+      "size": 11350
     },
     {
       "name": "material_43020003.png",
       "path": "material/material_43020003.png",
-      "size": 11526
+      "size": 11352
     },
     {
       "name": "material_43020004.png",
       "path": "material/material_43020004.png",
-      "size": 12184
+      "size": 11954
     },
     {
       "name": "material_43020011.png",
       "path": "material/material_43020011.png",
-      "size": 7732
+      "size": 7676
     },
     {
       "name": "material_43020012.png",
       "path": "material/material_43020012.png",
-      "size": 8664
+      "size": 8484
     },
     {
       "name": "material_43020013.png",
       "path": "material/material_43020013.png",
-      "size": 7624
+      "size": 7290
     },
     {
       "name": "material_43020014.png",
       "path": "material/material_43020014.png",
-      "size": 10590
+      "size": 10352
     },
     {
       "name": "material_43020021.png",
       "path": "material/material_43020021.png",
-      "size": 6896
+      "size": 6920
     },
     {
       "name": "material_43020022.png",
       "path": "material/material_43020022.png",
-      "size": 10560
+      "size": 10474
     },
     {
       "name": "material_43020023.png",
       "path": "material/material_43020023.png",
-      "size": 12732
+      "size": 12364
     },
     {
       "name": "material_43020024.png",
       "path": "material/material_43020024.png",
-      "size": 14812
+      "size": 14552
     },
     {
       "name": "material_43020031.png",
       "path": "material/material_43020031.png",
-      "size": 11270
+      "size": 10930
     },
     {
       "name": "material_43020032.png",
       "path": "material/material_43020032.png",
-      "size": 12168
+      "size": 11868
     },
     {
       "name": "material_43020033.png",
       "path": "material/material_43020033.png",
-      "size": 15712
+      "size": 15264
     },
     {
       "name": "material_43020034.png",
       "path": "material/material_43020034.png",
-      "size": 18414
+      "size": 17834
     },
     {
       "name": "material_43020041.png",
       "path": "material/material_43020041.png",
-      "size": 15468
+      "size": 15172
     },
     {
       "name": "material_43020042.png",
       "path": "material/material_43020042.png",
-      "size": 20112
+      "size": 19928
     },
     {
       "name": "material_43020043.png",
       "path": "material/material_43020043.png",
-      "size": 20352
+      "size": 19986
     },
     {
       "name": "material_43020044.png",
       "path": "material/material_43020044.png",
-      "size": 23160
+      "size": 22754
     },
     {
       "name": "material_43020051.png",
       "path": "material/material_43020051.png",
-      "size": 11996
+      "size": 11780
     },
     {
       "name": "material_43020052.png",
       "path": "material/material_43020052.png",
-      "size": 11732
+      "size": 11514
     },
     {
       "name": "material_43020053.png",
       "path": "material/material_43020053.png",
-      "size": 16700
+      "size": 16426
     },
     {
       "name": "material_43020054.png",
       "path": "material/material_43020054.png",
-      "size": 20512
+      "size": 20162
     },
     {
       "name": "material_43021011.png",
       "path": "material/material_43021011.png",
-      "size": 5166
+      "size": 5100
     },
     {
       "name": "material_43021012.png",
       "path": "material/material_43021012.png",
-      "size": 10080
+      "size": 9956
     },
     {
       "name": "material_43021013.png",
       "path": "material/material_43021013.png",
-      "size": 16178
+      "size": 15990
     },
     {
       "name": "material_43021014.png",
       "path": "material/material_43021014.png",
-      "size": 24942
+      "size": 24492
     },
     {
       "name": "material_43021021.png",
       "path": "material/material_43021021.png",
-      "size": 6646
+      "size": 6532
     },
     {
       "name": "material_43021022.png",
       "path": "material/material_43021022.png",
-      "size": 8540
+      "size": 8392
     },
     {
       "name": "material_43021023.png",
       "path": "material/material_43021023.png",
-      "size": 18590
+      "size": 18276
     },
     {
       "name": "material_43021024.png",
       "path": "material/material_43021024.png",
-      "size": 30880
+      "size": 30382
     },
     {
       "name": "material_43021031.png",
       "path": "material/material_43021031.png",
-      "size": 11442
+      "size": 11280
     },
     {
       "name": "material_43021032.png",
       "path": "material/material_43021032.png",
-      "size": 16484
+      "size": 16230
     },
     {
       "name": "material_43021033.png",
       "path": "material/material_43021033.png",
-      "size": 22984
+      "size": 22612
     },
     {
       "name": "material_43021034.png",
       "path": "material/material_43021034.png",
-      "size": 23832
+      "size": 23450
     },
     {
       "name": "material_43021041.png",
       "path": "material/material_43021041.png",
-      "size": 12628
+      "size": 12540
     },
     {
       "name": "material_43021042.png",
       "path": "material/material_43021042.png",
-      "size": 14522
+      "size": 14510
     },
     {
       "name": "material_43021043.png",
       "path": "material/material_43021043.png",
-      "size": 20170
+      "size": 19920
     },
     {
       "name": "material_43021044.png",
       "path": "material/material_43021044.png",
-      "size": 24394
+      "size": 24088
     },
     {
       "name": "material_43021051.png",
       "path": "material/material_43021051.png",
-      "size": 11562
+      "size": 11502
     },
     {
       "name": "material_43021052.png",
       "path": "material/material_43021052.png",
-      "size": 16854
+      "size": 16774
     },
     {
       "name": "material_43021053.png",
       "path": "material/material_43021053.png",
-      "size": 24182
+      "size": 24078
     },
     {
       "name": "material_43021054.png",
       "path": "material/material_43021054.png",
-      "size": 18614
+      "size": 18422
     }
   ],
   "subdirectories": []

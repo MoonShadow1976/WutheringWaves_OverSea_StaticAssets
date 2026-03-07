@@ -1,566 +1,566 @@
 {
   "name": "waves_weapon",
-  "last_updated": "2026-02-28T08:11:13Z",
+  "last_updated": "2026-03-07T05:45:10Z",
   "files": [
     {
       "name": "weapon_21010011.png",
       "path": "waves_weapon/weapon_21010011.png",
-      "size": 7988
+      "size": 7766
     },
     {
       "name": "weapon_21010012.png",
       "path": "waves_weapon/weapon_21010012.png",
-      "size": 9120
+      "size": 8984
     },
     {
       "name": "weapon_21010013.png",
       "path": "waves_weapon/weapon_21010013.png",
-      "size": 8016
+      "size": 7930
     },
     {
       "name": "weapon_21010015.png",
       "path": "waves_weapon/weapon_21010015.png",
-      "size": 13116
+      "size": 12808
     },
     {
       "name": "weapon_21010016.png",
       "path": "waves_weapon/weapon_21010016.png",
-      "size": 12266
+      "size": 12032
     },
     {
       "name": "weapon_21010023.png",
       "path": "waves_weapon/weapon_21010023.png",
-      "size": 8972
+      "size": 8924
     },
     {
       "name": "weapon_21010024.png",
       "path": "waves_weapon/weapon_21010024.png",
-      "size": 9396
+      "size": 9350
     },
     {
       "name": "weapon_21010026.png",
       "path": "waves_weapon/weapon_21010026.png",
-      "size": 16792
+      "size": 16496
     },
     {
       "name": "weapon_21010034.png",
       "path": "waves_weapon/weapon_21010034.png",
-      "size": 8534
+      "size": 8442
     },
     {
       "name": "weapon_21010036.png",
       "path": "waves_weapon/weapon_21010036.png",
-      "size": 13998
+      "size": 13642
     },
     {
       "name": "weapon_21010043.png",
       "path": "waves_weapon/weapon_21010043.png",
-      "size": 8804
+      "size": 8666
     },
     {
       "name": "weapon_21010044.png",
       "path": "waves_weapon/weapon_21010044.png",
-      "size": 9362
+      "size": 9216
     },
     {
       "name": "weapon_21010045.png",
       "path": "waves_weapon/weapon_21010045.png",
-      "size": 17352
+      "size": 16958
     },
     {
       "name": "weapon_21010046.png",
       "path": "waves_weapon/weapon_21010046.png",
-      "size": 28296
+      "size": 27752
     },
     {
       "name": "weapon_21010053.png",
       "path": "waves_weapon/weapon_21010053.png",
-      "size": 9284
+      "size": 9126
     },
     {
       "name": "weapon_21010056.png",
       "path": "waves_weapon/weapon_21010056.png",
-      "size": 29966
+      "size": 29314
     },
     {
       "name": "weapon_21010063.png",
       "path": "waves_weapon/weapon_21010063.png",
-      "size": 17080
+      "size": 16712
     },
     {
       "name": "weapon_21010064.png",
       "path": "waves_weapon/weapon_21010064.png",
-      "size": 9954
+      "size": 9788
     },
     {
       "name": "weapon_21010066.png",
       "path": "waves_weapon/weapon_21010066.png",
-      "size": 42966
+      "size": 42174
     },
     {
       "name": "weapon_21010074.png",
       "path": "waves_weapon/weapon_21010074.png",
-      "size": 9294
+      "size": 9126
     },
     {
       "name": "weapon_21010084.png",
       "path": "waves_weapon/weapon_21010084.png",
-      "size": 12878
+      "size": 12794
     },
     {
       "name": "weapon_21010094.png",
       "path": "waves_weapon/weapon_21010094.png",
-      "size": 12566
+      "size": 12256
     },
     {
       "name": "weapon_21010104.png",
       "path": "waves_weapon/weapon_21010104.png",
-      "size": 13752
+      "size": 13436
     },
     {
       "name": "weapon_21020011.png",
       "path": "waves_weapon/weapon_21020011.png",
-      "size": 9794
+      "size": 9670
     },
     {
       "name": "weapon_21020012.png",
       "path": "waves_weapon/weapon_21020012.png",
-      "size": 11044
+      "size": 10922
     },
     {
       "name": "weapon_21020013.png",
       "path": "waves_weapon/weapon_21020013.png",
-      "size": 9808
+      "size": 9696
     },
     {
       "name": "weapon_21020015.png",
       "path": "waves_weapon/weapon_21020015.png",
-      "size": 12892
+      "size": 12658
     },
     {
       "name": "weapon_21020016.png",
       "path": "waves_weapon/weapon_21020016.png",
-      "size": 18160
+      "size": 17732
     },
     {
       "name": "weapon_21020017.png",
       "path": "waves_weapon/weapon_21020017.png",
-      "size": 15016
+      "size": 14838
     },
     {
       "name": "weapon_21020023.png",
       "path": "waves_weapon/weapon_21020023.png",
-      "size": 10026
+      "size": 9882
     },
     {
       "name": "weapon_21020024.png",
       "path": "waves_weapon/weapon_21020024.png",
-      "size": 10992
+      "size": 10976
     },
     {
       "name": "weapon_21020026.png",
       "path": "waves_weapon/weapon_21020026.png",
-      "size": 18790
+      "size": 18426
     },
     {
       "name": "weapon_21020034.png",
       "path": "waves_weapon/weapon_21020034.png",
-      "size": 10556
+      "size": 10500
     },
     {
       "name": "weapon_21020036.png",
       "path": "waves_weapon/weapon_21020036.png",
-      "size": 19704
+      "size": 19394
     },
     {
       "name": "weapon_21020043.png",
       "path": "waves_weapon/weapon_21020043.png",
-      "size": 11892
+      "size": 11670
     },
     {
       "name": "weapon_21020044.png",
       "path": "waves_weapon/weapon_21020044.png",
-      "size": 13624
+      "size": 13454
     },
     {
       "name": "weapon_21020045.png",
       "path": "waves_weapon/weapon_21020045.png",
-      "size": 15680
+      "size": 15336
     },
     {
       "name": "weapon_21020046.png",
       "path": "waves_weapon/weapon_21020046.png",
-      "size": 17758
+      "size": 17458
     },
     {
       "name": "weapon_21020053.png",
       "path": "waves_weapon/weapon_21020053.png",
-      "size": 11552
+      "size": 11492
     },
     {
       "name": "weapon_21020056.png",
       "path": "waves_weapon/weapon_21020056.png",
-      "size": 30756
+      "size": 30492
     },
     {
       "name": "weapon_21020064.png",
       "path": "waves_weapon/weapon_21020064.png",
-      "size": 11762
+      "size": 11534
     },
     {
       "name": "weapon_21020066.png",
       "path": "waves_weapon/weapon_21020066.png",
-      "size": 18754
+      "size": 18472
     },
     {
       "name": "weapon_21020074.png",
       "path": "waves_weapon/weapon_21020074.png",
-      "size": 10818
+      "size": 10614
     },
     {
       "name": "weapon_21020076.png",
       "path": "waves_weapon/weapon_21020076.png",
-      "size": 34478
+      "size": 32686
     },
     {
       "name": "weapon_21020084.png",
       "path": "waves_weapon/weapon_21020084.png",
-      "size": 12794
+      "size": 12650
     },
     {
       "name": "weapon_21020094.png",
       "path": "waves_weapon/weapon_21020094.png",
-      "size": 11834
+      "size": 11582
     },
     {
       "name": "weapon_21020104.png",
       "path": "waves_weapon/weapon_21020104.png",
-      "size": 14734
+      "size": 14496
     },
     {
       "name": "weapon_21030011.png",
       "path": "waves_weapon/weapon_21030011.png",
-      "size": 7906
+      "size": 7896
     },
     {
       "name": "weapon_21030012.png",
       "path": "waves_weapon/weapon_21030012.png",
-      "size": 8154
+      "size": 8132
     },
     {
       "name": "weapon_21030013.png",
       "path": "waves_weapon/weapon_21030013.png",
-      "size": 8496
+      "size": 8452
     },
     {
       "name": "weapon_21030015.png",
       "path": "waves_weapon/weapon_21030015.png",
-      "size": 10040
+      "size": 9770
     },
     {
       "name": "weapon_21030016.png",
       "path": "waves_weapon/weapon_21030016.png",
-      "size": 12474
+      "size": 12114
     },
     {
       "name": "weapon_21030023.png",
       "path": "waves_weapon/weapon_21030023.png",
-      "size": 8244
+      "size": 8166
     },
     {
       "name": "weapon_21030024.png",
       "path": "waves_weapon/weapon_21030024.png",
-      "size": 9322
+      "size": 9268
     },
     {
       "name": "weapon_21030026.png",
       "path": "waves_weapon/weapon_21030026.png",
-      "size": 13208
+      "size": 12834
     },
     {
       "name": "weapon_21030034.png",
       "path": "waves_weapon/weapon_21030034.png",
-      "size": 8742
+      "size": 8686
     },
     {
       "name": "weapon_21030036.png",
       "path": "waves_weapon/weapon_21030036.png",
-      "size": 22704
+      "size": 22250
     },
     {
       "name": "weapon_21030043.png",
       "path": "waves_weapon/weapon_21030043.png",
-      "size": 8702
+      "size": 8586
     },
     {
       "name": "weapon_21030044.png",
       "path": "waves_weapon/weapon_21030044.png",
-      "size": 8920
+      "size": 8860
     },
     {
       "name": "weapon_21030045.png",
       "path": "waves_weapon/weapon_21030045.png",
-      "size": 11224
+      "size": 10950
     },
     {
       "name": "weapon_21030046.png",
       "path": "waves_weapon/weapon_21030046.png",
-      "size": 21980
+      "size": 21728
     },
     {
       "name": "weapon_21030053.png",
       "path": "waves_weapon/weapon_21030053.png",
-      "size": 9646
+      "size": 9548
     },
     {
       "name": "weapon_21030064.png",
       "path": "waves_weapon/weapon_21030064.png",
-      "size": 9124
+      "size": 8968
     },
     {
       "name": "weapon_21030074.png",
       "path": "waves_weapon/weapon_21030074.png",
-      "size": 10374
+      "size": 10292
     },
     {
       "name": "weapon_21030084.png",
       "path": "waves_weapon/weapon_21030084.png",
-      "size": 9608
+      "size": 9550
     },
     {
       "name": "weapon_21030094.png",
       "path": "waves_weapon/weapon_21030094.png",
-      "size": 9568
+      "size": 9364
     },
     {
       "name": "weapon_21030104.png",
       "path": "waves_weapon/weapon_21030104.png",
-      "size": 10550
+      "size": 10294
     },
     {
       "name": "weapon_21040011.png",
       "path": "waves_weapon/weapon_21040011.png",
-      "size": 9052
+      "size": 8974
     },
     {
       "name": "weapon_21040012.png",
       "path": "waves_weapon/weapon_21040012.png",
-      "size": 9452
+      "size": 9332
     },
     {
       "name": "weapon_21040013.png",
       "path": "waves_weapon/weapon_21040013.png",
-      "size": 8380
+      "size": 8228
     },
     {
       "name": "weapon_21040015.png",
       "path": "waves_weapon/weapon_21040015.png",
-      "size": 12216
+      "size": 11916
     },
     {
       "name": "weapon_21040016.png",
       "path": "waves_weapon/weapon_21040016.png",
-      "size": 11544
+      "size": 11344
     },
     {
       "name": "weapon_21040023.png",
       "path": "waves_weapon/weapon_21040023.png",
-      "size": 9062
+      "size": 8980
     },
     {
       "name": "weapon_21040024.png",
       "path": "waves_weapon/weapon_21040024.png",
-      "size": 11534
+      "size": 11432
     },
     {
       "name": "weapon_21040026.png",
       "path": "waves_weapon/weapon_21040026.png",
-      "size": 20052
+      "size": 19754
     },
     {
       "name": "weapon_21040034.png",
       "path": "waves_weapon/weapon_21040034.png",
-      "size": 9674
+      "size": 9618
     },
     {
       "name": "weapon_21040036.png",
       "path": "waves_weapon/weapon_21040036.png",
-      "size": 13828
+      "size": 13544
     },
     {
       "name": "weapon_21040043.png",
       "path": "waves_weapon/weapon_21040043.png",
-      "size": 9230
+      "size": 9084
     },
     {
       "name": "weapon_21040044.png",
       "path": "waves_weapon/weapon_21040044.png",
-      "size": 9024
+      "size": 8888
     },
     {
       "name": "weapon_21040045.png",
       "path": "waves_weapon/weapon_21040045.png",
-      "size": 15548
+      "size": 15244
     },
     {
       "name": "weapon_21040046.png",
       "path": "waves_weapon/weapon_21040046.png",
-      "size": 38684
+      "size": 38074
     },
     {
       "name": "weapon_21040053.png",
       "path": "waves_weapon/weapon_21040053.png",
-      "size": 9432
+      "size": 9320
     },
     {
       "name": "weapon_21040056.png",
       "path": "waves_weapon/weapon_21040056.png",
-      "size": 32524
+      "size": 31254
     },
     {
       "name": "weapon_21040064.png",
       "path": "waves_weapon/weapon_21040064.png",
-      "size": 9042
+      "size": 8890
     },
     {
       "name": "weapon_21040074.png",
       "path": "waves_weapon/weapon_21040074.png",
-      "size": 11338
+      "size": 11250
     },
     {
       "name": "weapon_21040084.png",
       "path": "waves_weapon/weapon_21040084.png",
-      "size": 11560
+      "size": 11440
     },
     {
       "name": "weapon_21040094.png",
       "path": "waves_weapon/weapon_21040094.png",
-      "size": 10868
+      "size": 10606
     },
     {
       "name": "weapon_21040104.png",
       "path": "waves_weapon/weapon_21040104.png",
-      "size": 15062
+      "size": 14772
     },
     {
       "name": "weapon_21050011.png",
       "path": "waves_weapon/weapon_21050011.png",
-      "size": 10592
+      "size": 10504
     },
     {
       "name": "weapon_21050012.png",
       "path": "waves_weapon/weapon_21050012.png",
-      "size": 11070
+      "size": 10918
     },
     {
       "name": "weapon_21050013.png",
       "path": "waves_weapon/weapon_21050013.png",
-      "size": 12594
+      "size": 12466
     },
     {
       "name": "weapon_21050015.png",
       "path": "waves_weapon/weapon_21050015.png",
-      "size": 11364
+      "size": 11116
     },
     {
       "name": "weapon_21050016.png",
       "path": "waves_weapon/weapon_21050016.png",
-      "size": 13714
+      "size": 13418
     },
     {
       "name": "weapon_21050017.png",
       "path": "waves_weapon/weapon_21050017.png",
-      "size": 15044
+      "size": 14830
     },
     {
       "name": "weapon_21050023.png",
       "path": "waves_weapon/weapon_21050023.png",
-      "size": 10116
+      "size": 10008
     },
     {
       "name": "weapon_21050024.png",
       "path": "waves_weapon/weapon_21050024.png",
-      "size": 12734
+      "size": 12634
     },
     {
       "name": "weapon_21050026.png",
       "path": "waves_weapon/weapon_21050026.png",
-      "size": 30224
+      "size": 29736
     },
     {
       "name": "weapon_21050027.png",
       "path": "waves_weapon/weapon_21050027.png",
-      "size": 16958
+      "size": 16538
     },
     {
       "name": "weapon_21050034.png",
       "path": "waves_weapon/weapon_21050034.png",
-      "size": 12540
+      "size": 12458
     },
     {
       "name": "weapon_21050036.png",
       "path": "waves_weapon/weapon_21050036.png",
-      "size": 28906
+      "size": 28262
     },
     {
       "name": "weapon_21050043.png",
       "path": "waves_weapon/weapon_21050043.png",
-      "size": 11376
+      "size": 11208
     },
     {
       "name": "weapon_21050044.png",
       "path": "waves_weapon/weapon_21050044.png",
-      "size": 12110
+      "size": 11906
     },
     {
       "name": "weapon_21050045.png",
       "path": "waves_weapon/weapon_21050045.png",
-      "size": 18930
+      "size": 18548
     },
     {
       "name": "weapon_21050046.png",
       "path": "waves_weapon/weapon_21050046.png",
-      "size": 20088
+      "size": 19658
     },
     {
       "name": "weapon_21050053.png",
       "path": "waves_weapon/weapon_21050053.png",
-      "size": 10764
+      "size": 10688
     },
     {
       "name": "weapon_21050056.png",
       "path": "waves_weapon/weapon_21050056.png",
-      "size": 27318
+      "size": 27026
     },
     {
       "name": "weapon_21050064.png",
       "path": "waves_weapon/weapon_21050064.png",
-      "size": 11150
+      "size": 10948
     },
     {
       "name": "weapon_21050066.png",
       "path": "waves_weapon/weapon_21050066.png",
-      "size": 26978
+      "size": 26438
     },
     {
       "name": "weapon_21050074.png",
       "path": "waves_weapon/weapon_21050074.png",
-      "size": 14688
+      "size": 14628
     },
     {
       "name": "weapon_21050084.png",
       "path": "waves_weapon/weapon_21050084.png",
-      "size": 13820
+      "size": 13764
     },
     {
       "name": "weapon_21050094.png",
       "path": "waves_weapon/weapon_21050094.png",
-      "size": 14702
+      "size": 14386
     },
     {
       "name": "weapon_21050104.png",
       "path": "waves_weapon/weapon_21050104.png",
-      "size": 14358
+      "size": 14060
     }
   ],
   "subdirectories": []
