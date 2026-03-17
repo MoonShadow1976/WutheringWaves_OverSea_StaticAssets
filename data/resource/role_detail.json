@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-03-07T14:49:37Z",
+  "last_updated": "2026-03-17T14:46:09Z",
   "files": [
     {
       "name": "chain_1.png",
@@ -161,6 +161,11 @@
       "name": "chain_1.png",
       "path": "role_detail/chains/1411/chain_1.png",
       "size": 2984
+    },
+    {
+      "name": "chain_1.png",
+      "path": "role_detail/chains/1412/chain_1.png",
+      "size": 3482
     },
     {
       "name": "chain_1.png",
@@ -414,6 +419,11 @@
     },
     {
       "name": "chain_2.png",
+      "path": "role_detail/chains/1412/chain_2.png",
+      "size": 3476
+    },
+    {
+      "name": "chain_2.png",
       "path": "role_detail/chains/1501/chain_2.png",
       "size": 2210
     },
@@ -661,6 +671,11 @@
       "name": "chain_3.png",
       "path": "role_detail/chains/1411/chain_3.png",
       "size": 3102
+    },
+    {
+      "name": "chain_3.png",
+      "path": "role_detail/chains/1412/chain_3.png",
+      "size": 3478
     },
     {
       "name": "chain_3.png",
@@ -914,6 +929,11 @@
     },
     {
       "name": "chain_4.png",
+      "path": "role_detail/chains/1412/chain_4.png",
+      "size": 2996
+    },
+    {
+      "name": "chain_4.png",
       "path": "role_detail/chains/1501/chain_4.png",
       "size": 2420
     },
@@ -1164,6 +1184,11 @@
     },
     {
       "name": "chain_5.png",
+      "path": "role_detail/chains/1412/chain_5.png",
+      "size": 3178
+    },
+    {
+      "name": "chain_5.png",
       "path": "role_detail/chains/1501/chain_5.png",
       "size": 1212
     },
@@ -1411,6 +1436,11 @@
       "name": "chain_6.png",
       "path": "role_detail/chains/1411/chain_6.png",
       "size": 3070
+    },
+    {
+      "name": "chain_6.png",
+      "path": "role_detail/chains/1412/chain_6.png",
+      "size": 3100
     },
     {
       "name": "chain_6.png",
@@ -2619,6 +2649,11 @@
     },
     {
       "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1412/skill_攻击提升.png",
+      "size": 2920
+    },
+    {
+      "name": "skill_攻击提升.png",
       "path": "role_detail/skill/1501/skill_攻击提升.png",
       "size": 2920
     },
@@ -2930,6 +2965,11 @@
     {
       "name": "skill_暴击提升.png",
       "path": "role_detail/skill/1411/skill_暴击提升.png",
+      "size": 2876
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1412/skill_暴击提升.png",
       "size": 2876
     },
     {
@@ -3995,6 +4035,11 @@
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1410/skill_谐度破坏·臂铠.png",
+      "size": 3322
+    },
+    {
+      "name": "skill_谐度破坏·臂铠.png",
+      "path": "role_detail/skill/1412/skill_谐度破坏·臂铠.png",
       "size": 3322
     },
     {
