@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-04-19T02:45:55Z",
+  "last_updated": "2026-04-29T04:28:25Z",
   "files": [
     {
       "name": "chain_1.png",
@@ -35,7 +35,7 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1108/chain_1.png",
-      "size": 3814
+      "size": 3636
     },
     {
       "name": "chain_1.png",
@@ -85,7 +85,7 @@
     {
       "name": "chain_1.png",
       "path": "role_detail/chains/1211/chain_1.png",
-      "size": 3176
+      "size": 3040
     },
     {
       "name": "chain_1.png",
@@ -300,7 +300,7 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1108/chain_2.png",
-      "size": 3294
+      "size": 3146
     },
     {
       "name": "chain_2.png",
@@ -350,7 +350,7 @@
     {
       "name": "chain_2.png",
       "path": "role_detail/chains/1211/chain_2.png",
-      "size": 3186
+      "size": 3036
     },
     {
       "name": "chain_2.png",
@@ -565,7 +565,7 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1108/chain_3.png",
-      "size": 3072
+      "size": 2940
     },
     {
       "name": "chain_3.png",
@@ -615,7 +615,7 @@
     {
       "name": "chain_3.png",
       "path": "role_detail/chains/1211/chain_3.png",
-      "size": 2892
+      "size": 2752
     },
     {
       "name": "chain_3.png",
@@ -830,7 +830,7 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1108/chain_4.png",
-      "size": 4000
+      "size": 3822
     },
     {
       "name": "chain_4.png",
@@ -880,7 +880,7 @@
     {
       "name": "chain_4.png",
       "path": "role_detail/chains/1211/chain_4.png",
-      "size": 2780
+      "size": 2646
     },
     {
       "name": "chain_4.png",
@@ -1095,7 +1095,7 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1108/chain_5.png",
-      "size": 3778
+      "size": 3596
     },
     {
       "name": "chain_5.png",
@@ -1145,7 +1145,7 @@
     {
       "name": "chain_5.png",
       "path": "role_detail/chains/1211/chain_5.png",
-      "size": 3346
+      "size": 3170
     },
     {
       "name": "chain_5.png",
@@ -1360,7 +1360,7 @@
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1108/chain_6.png",
-      "size": 3610
+      "size": 3434
     },
     {
       "name": "chain_6.png",
@@ -1410,7 +1410,7 @@
     {
       "name": "chain_6.png",
       "path": "role_detail/chains/1211/chain_6.png",
-      "size": 2720
+      "size": 2576
     },
     {
       "name": "chain_6.png",
@@ -1620,7 +1620,7 @@
     {
       "name": "skill_一场关于光的默辩.png",
       "path": "role_detail/skill/1510/skill_一场关于光的默辩.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_万世霜天.png",
@@ -1830,7 +1830,7 @@
     {
       "name": "skill_光谱解析.png",
       "path": "role_detail/skill/1509/skill_光谱解析.png",
-      "size": 3044
+      "size": 3050
     },
     {
       "name": "skill_克己.png",
@@ -2253,156 +2253,6 @@
       "size": 5720
     },
     {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1103/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1104/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1105/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1106/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1107/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1203/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1205/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1206/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1207/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1208/skill_巧手烹调.png",
-      "size": 4410
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1209/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1210/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1301/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1303/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1306/skill_巧手烹调.png",
-      "size": 4016
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1307/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1409/skill_巧手烹调.png",
-      "size": 5252
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1411/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1503/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1504/skill_巧手烹调.png",
-      "size": 4892
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1505/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1506/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1507/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1508/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1509/skill_巧手烹调.png",
-      "size": 4096
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1510/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1602/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1603/skill_巧手烹调.png",
-      "size": 2498
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1606/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
-      "name": "skill_巧手烹调.png",
-      "path": "role_detail/skill/1608/skill_巧手烹调.png",
-      "size": 2040
-    },
-    {
       "name": "skill_帷幕终景.png",
       "path": "role_detail/skill/1211/skill_帷幕终景.png",
       "size": 2966
@@ -2619,6 +2469,11 @@
     },
     {
       "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1108/skill_攻击提升.png",
+      "size": 2920
+    },
+    {
+      "name": "skill_攻击提升.png",
       "path": "role_detail/skill/1202/skill_攻击提升.png",
       "size": 2920
     },
@@ -2655,6 +2510,11 @@
     {
       "name": "skill_攻击提升.png",
       "path": "role_detail/skill/1210/skill_攻击提升.png",
+      "size": 2920
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1211/skill_攻击提升.png",
       "size": 2920
     },
     {
@@ -2954,6 +2814,11 @@
     },
     {
       "name": "skill_暴击伤害提升.png",
+      "path": "role_detail/skill/1211/skill_暴击伤害提升.png",
+      "size": 5472
+    },
+    {
+      "name": "skill_暴击伤害提升.png",
       "path": "role_detail/skill/1301/skill_暴击伤害提升.png",
       "size": 5472
     },
@@ -2995,6 +2860,11 @@
     {
       "name": "skill_暴击提升.png",
       "path": "role_detail/skill/1107/skill_暴击提升.png",
+      "size": 2876
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1108/skill_暴击提升.png",
       "size": 2876
     },
     {
@@ -3206,11 +3076,6 @@
       "name": "skill_此剑，为潮水的过去.png",
       "path": "role_detail/skill/1409/skill_此剑，为潮水的过去.png",
       "size": 3592
-    },
-    {
-      "name": "skill_步测索拉.png",
-      "path": "role_detail/skill/1501/skill_步测索拉.png",
-      "size": 4892
     },
     {
       "name": "skill_死生流溢.png",
@@ -3465,7 +3330,7 @@
     {
       "name": "skill_灼樱刀术.png",
       "path": "role_detail/skill/1108/skill_灼樱刀术.png",
-      "size": 2008
+      "size": 1842
     },
     {
       "name": "skill_灼热弹匣.png",
@@ -3765,7 +3630,7 @@
     {
       "name": "skill_织梦的飨宴.png",
       "path": "role_detail/skill/1211/skill_织梦的飨宴.png",
-      "size": 2280
+      "size": 2100
     },
     {
       "name": "skill_终末回环.png",
@@ -4070,12 +3935,17 @@
     {
       "name": "skill_解耦.png",
       "path": "role_detail/skill/1209/skill_解耦.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_誓猎.png",
       "path": "role_detail/skill/1208/skill_誓猎.png",
       "size": 4116
+    },
+    {
+      "name": "skill_计时的溃灭.png",
+      "path": "role_detail/skill/1211/skill_计时的溃灭.png",
+      "size": 3426
     },
     {
       "name": "skill_记住我的名字.png",
@@ -4100,81 +3970,86 @@
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1107/skill_谐度破坏·佩枪.png",
-      "size": 3044
+      "size": 3050
     },
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1202/skill_谐度破坏·佩枪.png",
-      "size": 3044
+      "size": 3050
     },
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1204/skill_谐度破坏·佩枪.png",
-      "size": 3044
+      "size": 3050
     },
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1208/skill_谐度破坏·佩枪.png",
-      "size": 3044
+      "size": 3050
     },
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1403/skill_谐度破坏·佩枪.png",
-      "size": 3044
+      "size": 3050
     },
     {
       "name": "skill_谐度破坏·佩枪.png",
       "path": "role_detail/skill/1407/skill_谐度破坏·佩枪.png",
-      "size": 3044
+      "size": 3050
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1104/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1106/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1303/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1305/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1405/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1410/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1412/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1507/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1606/skill_谐度破坏·臂铠.png",
-      "size": 3322
+      "size": 3326
     },
     {
       "name": "skill_谐度破坏·迅刀.png",
       "path": "role_detail/skill/1102/skill_谐度破坏·迅刀.png",
+      "size": 3508
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1108/skill_谐度破坏·迅刀.png",
       "size": 3508
     },
     {
@@ -4245,42 +4120,42 @@
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1207/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1301/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1304/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1306/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1404/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1504/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1508/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·长刃.png",
       "path": "role_detail/skill/1601/skill_谐度破坏·长刃.png",
-      "size": 3238
+      "size": 3240
     },
     {
       "name": "skill_谐度破坏·音感仪.png",

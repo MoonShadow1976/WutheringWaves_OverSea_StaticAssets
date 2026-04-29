@@ -1,6 +1,6 @@
 {
   "name": "monster",
-  "last_updated": "2026-04-19T02:45:55Z",
+  "last_updated": "2026-04-29T04:28:25Z",
   "files": [
     {
       "name": "monster_310000230.png",
@@ -126,11 +126,6 @@
       "name": "monster_320000420.png",
       "path": "monster/monster_320000420.png",
       "size": 20208
-    },
-    {
-      "name": "monster_320000600.png",
-      "path": "monster/monster_320000600.png",
-      "size": 18006
     },
     {
       "name": "monster_320000620.png",
