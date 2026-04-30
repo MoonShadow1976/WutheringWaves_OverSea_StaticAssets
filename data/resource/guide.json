@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-04-30T01:47:41Z",
+  "last_updated": "2026-04-30T06:09:14Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -646,6 +646,11 @@
       "name": "绯雪.jpg",
       "path": "guide/JieXing/绯雪.jpg",
       "size": 669666
+    },
+    {
+      "name": "绯雪.jpg",
+      "path": "guide/JinLingZi/绯雪.jpg",
+      "size": 973892
     },
     {
       "name": "绯雪.jpg",
