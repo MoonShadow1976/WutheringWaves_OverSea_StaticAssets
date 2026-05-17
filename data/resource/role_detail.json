@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-04-30T06:09:14Z",
+  "last_updated": "2026-05-17T03:52:11Z",
   "files": [
     {
       "name": "chain_1.png",
@@ -1918,6 +1918,11 @@
       "size": 5772
     },
     {
+      "name": "skill_到我了！.png",
+      "path": "role_detail/skill/1308/skill_到我了！.png",
+      "size": 3868
+    },
+    {
       "name": "skill_刹那合弥.png",
       "path": "role_detail/skill/1103/skill_刹那合弥.png",
       "size": 3004
@@ -1936,6 +1941,11 @@
       "name": "skill_前路领航.png",
       "path": "role_detail/skill/1504/skill_前路领航.png",
       "size": 1924
+    },
+    {
+      "name": "skill_剪辑.png",
+      "path": "role_detail/skill/1109/skill_剪辑.png",
+      "size": 3414
     },
     {
       "name": "skill_加麻加辣.png",
@@ -1988,6 +1998,11 @@
       "size": 4842
     },
     {
+      "name": "skill_协议突破.png",
+      "path": "role_detail/skill/1511/skill_协议突破.png",
+      "size": 2516
+    },
+    {
       "name": "skill_卦起雷动.png",
       "path": "role_detail/skill/1307/skill_卦起雷动.png",
       "size": 2100
@@ -2011,6 +2026,11 @@
       "name": "skill_即刻执行.png",
       "path": "role_detail/skill/1507/skill_即刻执行.png",
       "size": 3374
+    },
+    {
+      "name": "skill_历历在目.png",
+      "path": "role_detail/skill/1109/skill_历历在目.png",
+      "size": 3558
     },
     {
       "name": "skill_双联合相.png",
@@ -2273,6 +2293,11 @@
       "size": 4626
     },
     {
+      "name": "skill_幻象定帧.png",
+      "path": "role_detail/skill/1109/skill_幻象定帧.png",
+      "size": 3748
+    },
+    {
       "name": "skill_幽影共舞.png",
       "path": "role_detail/skill/1607/skill_幽影共舞.png",
       "size": 3312
@@ -2348,6 +2373,16 @@
       "size": 2958
     },
     {
+      "name": "skill_我要认真了！.png",
+      "path": "role_detail/skill/1308/skill_我要认真了！.png",
+      "size": 4506
+    },
+    {
+      "name": "skill_战术性调整.png",
+      "path": "role_detail/skill/1308/skill_战术性调整.png",
+      "size": 4410
+    },
+    {
       "name": "skill_所有陨落在此重逢.png",
       "path": "role_detail/skill/1510/skill_所有陨落在此重逢.png",
       "size": 2632
@@ -2361,6 +2396,11 @@
       "name": "skill_扩繁试验.png",
       "path": "role_detail/skill/1503/skill_扩繁试验.png",
       "size": 5166
+    },
+    {
+      "name": "skill_抓拍.png",
+      "path": "role_detail/skill/1109/skill_抓拍.png",
+      "size": 2558
     },
     {
       "name": "skill_护心.png",
@@ -3243,6 +3283,11 @@
       "size": 3870
     },
     {
+      "name": "skill_混搭战术.png",
+      "path": "role_detail/skill/1308/skill_混搭战术.png",
+      "size": 1722
+    },
+    {
       "name": "skill_混沌理论.png",
       "path": "role_detail/skill/1505/skill_混沌理论.png",
       "size": 3344
@@ -3431,6 +3476,11 @@
       "name": "skill_狂岚未尽.png",
       "path": "role_detail/skill/1408/skill_狂岚未尽.png",
       "size": 3216
+    },
+    {
+      "name": "skill_狂欢时间！.png",
+      "path": "role_detail/skill/1308/skill_狂欢时间！.png",
+      "size": 4294
     },
     {
       "name": "skill_狂雷飓风.png",
@@ -3661,6 +3711,11 @@
       "name": "skill_缠绕.png",
       "path": "role_detail/skill/1603/skill_缠绕.png",
       "size": 3486
+    },
+    {
+      "name": "skill_网络行者.png",
+      "path": "role_detail/skill/1511/skill_网络行者.png",
+      "size": 4082
     },
     {
       "name": "skill_罗伊近身格斗技.png",
@@ -3951,6 +4006,11 @@
       "name": "skill_记住我的名字.png",
       "path": "role_detail/skill/1207/skill_记住我的名字.png",
       "size": 2804
+    },
+    {
+      "name": "skill_记忆宫殿.png",
+      "path": "role_detail/skill/1109/skill_记忆宫殿.png",
+      "size": 3924
     },
     {
       "name": "skill_诗中物.png",
@@ -4263,6 +4323,11 @@
       "size": 4382
     },
     {
+      "name": "skill_过时幻觉.png",
+      "path": "role_detail/skill/1511/skill_过时幻觉.png",
+      "size": 3908
+    },
+    {
       "name": "skill_迎海投火的决意.png",
       "path": "role_detail/skill/1206/skill_迎海投火的决意.png",
       "size": 2686
@@ -4413,6 +4478,11 @@
       "size": 3688
     },
     {
+      "name": "skill_靶定线程.png",
+      "path": "role_detail/skill/1511/skill_靶定线程.png",
+      "size": 1722
+    },
+    {
       "name": "skill_预求我身.png",
       "path": "role_detail/skill/1108/skill_预求我身.png",
       "size": 4686
@@ -4496,6 +4566,11 @@
       "name": "skill_黑咩大暴走.png",
       "path": "role_detail/skill/1203/skill_黑咩大暴走.png",
       "size": 5738
+    },
+    {
+      "name": "skill_黑墙深度.png",
+      "path": "role_detail/skill/1511/skill_黑墙深度.png",
+      "size": 4332
     },
     {
       "name": "skill_黑白羊咩.png",
