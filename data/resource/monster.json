@@ -1,6 +1,6 @@
 {
   "name": "monster",
-  "last_updated": "2026-05-21T03:56:46Z",
+  "last_updated": "2026-06-06T11:18:49Z",
   "files": [
     {
       "name": "monster_310000230.png",
@@ -71,6 +71,21 @@
       "name": "monster_310000860.png",
       "path": "monster/monster_310000860.png",
       "size": 18366
+    },
+    {
+      "name": "monster_310000870.png",
+      "path": "monster/monster_310000870.png",
+      "size": 11596
+    },
+    {
+      "name": "monster_310000880.png",
+      "path": "monster/monster_310000880.png",
+      "size": 12018
+    },
+    {
+      "name": "monster_310000890.png",
+      "path": "monster/monster_310000890.png",
+      "size": 12164
     },
     {
       "name": "monster_320000140.png",
@@ -186,6 +201,11 @@
       "name": "monster_340000240.png",
       "path": "monster/monster_340000240.png",
       "size": 16000
+    },
+    {
+      "name": "monster_340000290.png",
+      "path": "monster/monster_340000290.png",
+      "size": 13384
     }
   ],
   "subdirectories": []
