@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-06-07T23:01:39Z",
+  "last_updated": "2026-06-08T03:43:17Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -16,6 +16,11 @@
       "name": "丹瑾.jpg",
       "path": "guide/XMu/丹瑾.jpg",
       "size": 1584368
+    },
+    {
+      "name": "丽贝卡.jpg",
+      "path": "guide/Moealkyne/丽贝卡.jpg",
+      "size": 921832
     },
     {
       "name": "仇远.jpg",
@@ -871,6 +876,11 @@
       "name": "露帕.jpg",
       "path": "guide/XiaoYang/露帕.jpg",
       "size": 1007916
+    },
+    {
+      "name": "露西.jpg",
+      "path": "guide/Moealkyne/露西.jpg",
+      "size": 906548
     }
   ],
   "subdirectories": [
