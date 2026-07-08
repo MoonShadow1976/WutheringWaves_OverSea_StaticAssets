@@ -1,6 +1,6 @@
 {
   "name": "role_pile",
-  "last_updated": "2026-06-13T02:29:51Z",
+  "last_updated": "2026-07-08T17:19:41Z",
   "files": [
     {
       "name": "role_pile_1102.png",
@@ -131,6 +131,16 @@
       "name": "role_pile_1308.png",
       "path": "role_pile/role_pile_1308.png",
       "size": 135782
+    },
+    {
+      "name": "role_pile_1309.png",
+      "path": "role_pile/role_pile_1309.png",
+      "size": 113320
+    },
+    {
+      "name": "role_pile_1310.png",
+      "path": "role_pile/role_pile_1310.png",
+      "size": 96480
     },
     {
       "name": "role_pile_1402.png",
