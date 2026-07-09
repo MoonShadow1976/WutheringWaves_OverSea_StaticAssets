@@ -1,6 +1,6 @@
 {
   "name": "waves_avatar",
-  "last_updated": "2026-06-13T02:29:51Z",
+  "last_updated": "2026-07-08T17:19:41Z",
   "files": [
     {
       "name": "role_head_1102.png",
@@ -41,6 +41,11 @@
       "name": "role_head_1109.png",
       "path": "waves_avatar/role_head_1109.png",
       "size": 20614
+    },
+    {
+      "name": "role_head_1110.png",
+      "path": "waves_avatar/role_head_1110.png",
+      "size": 22172
     },
     {
       "name": "role_head_1202.png",
@@ -131,6 +136,16 @@
       "name": "role_head_1308.png",
       "path": "waves_avatar/role_head_1308.png",
       "size": 20528
+    },
+    {
+      "name": "role_head_1309.png",
+      "path": "waves_avatar/role_head_1309.png",
+      "size": 16488
+    },
+    {
+      "name": "role_head_1310.png",
+      "path": "waves_avatar/role_head_1310.png",
+      "size": 18898
     },
     {
       "name": "role_head_1402.png",
@@ -281,6 +296,11 @@
       "name": "role_head_1608.png",
       "path": "waves_avatar/role_head_1608.png",
       "size": 19208
+    },
+    {
+      "name": "role_head_1610.png",
+      "path": "waves_avatar/role_head_1610.png",
+      "size": 21616
     }
   ],
   "subdirectories": []
