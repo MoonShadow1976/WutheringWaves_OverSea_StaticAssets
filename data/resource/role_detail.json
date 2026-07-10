@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-07-09T05:00:59Z",
+  "last_updated": "2026-07-10T02:20:10Z",
   "files": [
     {
       "name": "chain_1.png",
@@ -4534,11 +4534,6 @@
     },
     {
       "name": "skill_谐度破坏·臂铠.png",
-      "path": "role_detail/skill/1110/skill_谐度破坏·臂铠.png",
-      "size": 3168
-    },
-    {
-      "name": "skill_谐度破坏·臂铠.png",
       "path": "role_detail/skill/1303/skill_谐度破坏·臂铠.png",
       "size": 3326
     },
@@ -4716,6 +4711,11 @@
       "name": "skill_谐度破坏·音感仪.png",
       "path": "role_detail/skill/1109/skill_谐度破坏·音感仪.png",
       "size": 3426
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1110/skill_谐度破坏·音感仪.png",
+      "size": 3168
     },
     {
       "name": "skill_谐度破坏·音感仪.png",
