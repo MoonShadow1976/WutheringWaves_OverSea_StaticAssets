@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T12:54:58Z",
+  "last_updated": "2026-08-09T06:00:29Z",
   "directories": [
     "guide",
     "material",
@@ -8,8 +8,9 @@
     "role_detail",
     "role_pile",
     "share",
+    "skin",
     "waves_avatar",
     "waves_weapon"
   ],
-  "total_index_files": 9
+  "total_index_files": 10
 }
