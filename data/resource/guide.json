@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-07-10T02:35:33Z",
+  "last_updated": "2026-07-30T12:54:58Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -671,6 +671,16 @@
       "name": "秧秧·玄翎.jpg",
       "path": "guide/JinLingZi/秧秧·玄翎.jpg",
       "size": 804750
+    },
+    {
+      "name": "穗穗.jpg",
+      "path": "guide/JieXing/穗穗.jpg",
+      "size": 482916
+    },
+    {
+      "name": "穗穗.jpg",
+      "path": "guide/JinLingZi/穗穗.jpg",
+      "size": 810156
     },
     {
       "name": "绯雪.jpg",
