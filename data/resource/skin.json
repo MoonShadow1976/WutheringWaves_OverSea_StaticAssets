@@ -1,6 +1,6 @@
 {
   "name": "skin",
-  "last_updated": "2026-08-09T06:00:29Z",
+  "last_updated": "2026-08-09T06:54:42Z",
   "files": [
     {
       "name": "「为你闪烁的星光」.png",
@@ -48,44 +48,39 @@
       "size": 76712
     },
     {
-      "name": "投影·大海的馈赠.png",
-      "path": "skin/weapon/投影·大海的馈赠.png",
+      "name": "大海的馈赠.png",
+      "path": "skin/weapon/大海的馈赠.png",
       "size": 8702
     },
     {
-      "name": "投影·心之锚.png",
-      "path": "skin/weapon/投影·心之锚.png",
+      "name": "心之锚.png",
+      "path": "skin/weapon/心之锚.png",
       "size": 8322
     },
     {
-      "name": "投影·心象佩枪.png",
-      "path": "skin/weapon/投影·心象佩枪.png",
+      "name": "心象佩枪.png",
+      "path": "skin/weapon/心象佩枪.png",
       "size": 6602
     },
     {
-      "name": "投影·心象臂铠.png",
-      "path": "skin/weapon/投影·心象臂铠.png",
+      "name": "心象臂铠.png",
+      "path": "skin/weapon/心象臂铠.png",
       "size": 8862
     },
     {
-      "name": "投影·心象迅刀.png",
-      "path": "skin/weapon/投影·心象迅刀.png",
+      "name": "心象迅刀.png",
+      "path": "skin/weapon/心象迅刀.png",
       "size": 8100
     },
     {
-      "name": "投影·心象长刃.png",
-      "path": "skin/weapon/投影·心象长刃.png",
+      "name": "心象长刃.png",
+      "path": "skin/weapon/心象长刃.png",
       "size": 7304
     },
     {
-      "name": "投影·心象音感仪.png",
-      "path": "skin/weapon/投影·心象音感仪.png",
+      "name": "心象音感仪.png",
+      "path": "skin/weapon/心象音感仪.png",
       "size": 11404
-    },
-    {
-      "name": "投影·桃夭灼灼.png",
-      "path": "skin/weapon/投影·桃夭灼灼.png",
-      "size": 7670
     },
     {
       "name": "折映万彩.png",
@@ -136,6 +131,11 @@
       "name": "桃夭灼灼.png",
       "path": "skin/role/桃夭灼灼.png",
       "size": 65526
+    },
+    {
+      "name": "桃夭灼灼.png",
+      "path": "skin/weapon/桃夭灼灼.png",
+      "size": 7670
     },
     {
       "name": "爪垫指挥家.png",
