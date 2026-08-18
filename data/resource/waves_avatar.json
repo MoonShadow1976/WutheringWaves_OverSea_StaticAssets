@@ -1,6 +1,6 @@
 {
   "name": "waves_avatar",
-  "last_updated": "2026-08-15T00:49:53Z",
+  "last_updated": "2026-08-18T10:59:13Z",
   "files": [
     {
       "name": "role_head_1102.png",
@@ -96,6 +96,11 @@
       "name": "role_head_1211.png",
       "path": "waves_avatar/role_head_1211.png",
       "size": 24506
+    },
+    {
+      "name": "role_head_1212.png",
+      "path": "waves_avatar/role_head_1212.png",
+      "size": 19510
     },
     {
       "name": "role_head_1301.png",
@@ -201,6 +206,11 @@
       "name": "role_head_1412.png",
       "path": "waves_avatar/role_head_1412.png",
       "size": 25392
+    },
+    {
+      "name": "role_head_1413.png",
+      "path": "waves_avatar/role_head_1413.png",
+      "size": 25702
     },
     {
       "name": "role_head_1501.png",

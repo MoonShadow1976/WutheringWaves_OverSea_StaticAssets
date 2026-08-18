@@ -1,6 +1,6 @@
 {
   "name": "skin",
-  "last_updated": "2026-08-15T00:49:53Z",
+  "last_updated": "2026-08-18T10:59:13Z",
   "files": [
     {
       "name": "「为你闪烁的星光」.png",
@@ -23,9 +23,19 @@
       "size": 5274
     },
     {
+      "name": "云岚疏影.png",
+      "path": "skin/ornament/云岚疏影.png",
+      "size": 3806
+    },
+    {
       "name": "凯旋时刻.png",
       "path": "skin/fly/凯旋时刻.png",
       "size": 8634
+    },
+    {
+      "name": "千技成锋.png",
+      "path": "skin/weapon/千技成锋.png",
+      "size": 15696
     },
     {
       "name": "叱妖诰.png",
@@ -51,6 +61,11 @@
       "name": "大海的馈赠.png",
       "path": "skin/weapon/大海的馈赠.png",
       "size": 8702
+    },
+    {
+      "name": "宿雪玄猫.png",
+      "path": "skin/ornament/宿雪玄猫.png",
+      "size": 4328
     },
     {
       "name": "心之锚.png",
