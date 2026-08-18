@@ -1,0 +1,43 @@
+name: Update Pool Data
+
+on:
+  schedule:
+    # 北京时间每天中午 12:00（UTC 04:00）
+    - cron: '0 4 * * *'
+  workflow_dispatch: # 支持手动触发，方便测试
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        working-directory: pool_list
+        run: pip install requests pydantic
+
+      - name: Run main.py
+        # main.py 内部会通过 GITHUB_ACTIONS 环境变量（GitHub Actions 自动设置为 true）
+        # 检查 data/pool.json 中是否存在尚未过期的卡池，若有则跳过抓取
+        working-directory: pool_list
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pool_list/data/pool.json pool_list/data/compressed_pool.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update pool data"
+            git push
+          fi
