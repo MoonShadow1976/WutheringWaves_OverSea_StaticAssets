@@ -4150,6 +4150,31 @@
         "end_time": "2026-08-19 11:59:59"
     },
     {
+        "bbs": "https://www.kurobbs.com/mc/post/1531964971518922752",
+        "name": "",
+        "title": "飞星自春天启航",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b86220e0a4c94c728b637a9f517e5d5120260729.jpeg",
+        "five_star_ids": [
+            "1210"
+        ],
+        "five_star_names": [
+            "爱弥斯"
+        ],
+        "four_star_ids": [
+            "1103",
+            "1204",
+            "1504"
+        ],
+        "four_star_names": [
+            "白芷",
+            "莫特斐",
+            "灯灯"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-07-30 10:00:00",
+        "end_time": "2026-08-19 11:59:59"
+    },
+    {
         "bbs": "https://www.kurobbs.com/mc/post/1524500605982433280",
         "name": "",
         "title": "忆旅回响",
@@ -4172,6 +4197,31 @@
         ],
         "pool_type": "角色活动唤取",
         "start_time": "版本更新时间",
+        "end_time": "2026-08-19 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1531964185780776960",
+        "name": "",
+        "title": "斟雨祝荷风",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/f75b058ade47488d8165e4a762c168b720260729.jpeg",
+        "five_star_ids": [
+            "1110"
+        ],
+        "five_star_names": [
+            "穗穗"
+        ],
+        "four_star_ids": [
+            "1103",
+            "1204",
+            "1504"
+        ],
+        "four_star_names": [
+            "白芷",
+            "莫特斐",
+            "灯灯"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-07-30 10:00:00",
         "end_time": "2026-08-19 11:59:59"
     },
     {
@@ -4247,6 +4297,56 @@
         ],
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
+        "end_time": "2026-08-19 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1531964469412196352",
+        "name": "栖霞饮露",
+        "title": "栖霞饮露",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a7e02b91e7774658b4ae22e59c740d5020260729.jpeg",
+        "five_star_ids": [
+            "21050096"
+        ],
+        "five_star_names": [
+            "栖霞饮露"
+        ],
+        "four_star_ids": [
+            "21050024",
+            "21020084",
+            "21030084"
+        ],
+        "four_star_names": [
+            "奇幻变奏",
+            "永续坍缩",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-07-30 10:00:00",
+        "end_time": "2026-08-19 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1531964971518922752",
+        "name": "永远的启明星",
+        "title": "永远的启明星",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b86220e0a4c94c728b637a9f517e5d5120260729.jpeg",
+        "five_star_ids": [
+            "21020076"
+        ],
+        "five_star_names": [
+            "永远的启明星"
+        ],
+        "four_star_ids": [
+            "21050024",
+            "21020084",
+            "21030084"
+        ],
+        "four_star_names": [
+            "奇幻变奏",
+            "永续坍缩",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-07-30 10:00:00",
         "end_time": "2026-08-19 11:59:59"
     },
     {
@@ -4348,5 +4448,105 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2026-08-19 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1539231604188155904",
+        "name": "",
+        "title": "仙风玉影水天清",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/176769d2834b480d8e7b2040991c089920260818.jpeg",
+        "five_star_ids": [
+            "1413"
+        ],
+        "five_star_names": [
+            "清宵"
+        ],
+        "four_star_ids": [
+            "1402",
+            "1103",
+            "1102"
+        ],
+        "four_star_names": [
+            "秧秧",
+            "白芷",
+            "散华"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-09-10 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1539233132638670848",
+        "name": "",
+        "title": "予明日以谎言",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/e4cfcfb182d54a619cf523e47ee9800920260818.jpeg",
+        "five_star_ids": [
+            "1211"
+        ],
+        "five_star_names": [
+            "达妮娅"
+        ],
+        "four_star_ids": [
+            "1402",
+            "1103",
+            "1102"
+        ],
+        "four_star_names": [
+            "秧秧",
+            "白芷",
+            "散华"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-09-10 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1539232237775523840",
+        "name": "云琅",
+        "title": "云琅",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/bfeb64362bb34348842459eae2d56b9920260818.jpeg",
+        "five_star_ids": [
+            "21020106"
+        ],
+        "five_star_names": [
+            "云琅"
+        ],
+        "four_star_ids": [
+            "21020044",
+            "21050084",
+            "21020064"
+        ],
+        "four_star_names": [
+            "不归孤军",
+            "核熔星盘",
+            "西升"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-09-10 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1539233132638670848",
+        "name": "赝作的矮星",
+        "title": "赝作的矮星",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/e4cfcfb182d54a619cf523e47ee9800920260818.jpeg",
+        "five_star_ids": [
+            "21050076"
+        ],
+        "five_star_names": [
+            "赝作的矮星"
+        ],
+        "four_star_ids": [
+            "21020044",
+            "21050084",
+            "21020064"
+        ],
+        "four_star_names": [
+            "不归孤军",
+            "核熔星盘",
+            "西升"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-09-10 09:59:59"
     }
 ]
