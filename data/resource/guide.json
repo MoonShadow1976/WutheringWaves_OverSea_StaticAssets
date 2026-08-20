@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-08-20T02:53:51Z",
+  "last_updated": "2026-08-20T13:33:30Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -28,6 +28,11 @@
       "size": 893952
     },
     {
+      "name": "丽贝卡.jpg",
+      "path": "guide/XvanEr/丽贝卡.jpg",
+      "size": 1606116
+    },
+    {
       "name": "仇远.jpg",
       "path": "guide/JieXing/仇远.jpg",
       "size": 502682
@@ -48,6 +53,11 @@
       "size": 827364
     },
     {
+      "name": "仇远.jpg",
+      "path": "guide/XvanEr/仇远.jpg",
+      "size": 1469652
+    },
+    {
       "name": "今汐.jpg",
       "path": "guide/JinLingZi/今汐.jpg",
       "size": 118590
@@ -61,6 +71,11 @@
       "name": "今汐.jpg",
       "path": "guide/XMu/今汐.jpg",
       "size": 1371460
+    },
+    {
+      "name": "今汐.jpg",
+      "path": "guide/XvanEr/今汐.jpg",
+      "size": 1244832
     },
     {
       "name": "凌阳.jpg",
@@ -83,6 +98,11 @@
       "size": 723316
     },
     {
+      "name": "凌阳.jpg",
+      "path": "guide/XvanEr/凌阳.jpg",
+      "size": 1201592
+    },
+    {
       "name": "千咲.jpg",
       "path": "guide/JieXing/千咲.jpg",
       "size": 472678
@@ -103,6 +123,11 @@
       "size": 720340
     },
     {
+      "name": "千咲.jpg",
+      "path": "guide/XvanEr/千咲.jpg",
+      "size": 1181784
+    },
+    {
       "name": "卜灵.jpg",
       "path": "guide/JieXing/卜灵.jpg",
       "size": 489402
@@ -118,6 +143,11 @@
       "size": 863994
     },
     {
+      "name": "卜灵.jpg",
+      "path": "guide/XvanEr/卜灵.jpg",
+      "size": 1154878
+    },
+    {
       "name": "卡卡罗.jpg",
       "path": "guide/JinLingZi/卡卡罗.jpg",
       "size": 119044
@@ -131,6 +161,11 @@
       "name": "卡卡罗.jpg",
       "path": "guide/XMu/卡卡罗.jpg",
       "size": 1561054
+    },
+    {
+      "name": "卡卡罗.jpg",
+      "path": "guide/XvanEr/卡卡罗.jpg",
+      "size": 1359854
     },
     {
       "name": "卡提希娅.jpg",
@@ -163,6 +198,11 @@
       "size": 438444
     },
     {
+      "name": "卡提希娅.jpg",
+      "path": "guide/XvanEr/卡提希娅.jpg",
+      "size": 1432850
+    },
+    {
       "name": "吟霖.jpg",
       "path": "guide/JinLingZi/吟霖.jpg",
       "size": 130994
@@ -176,6 +216,11 @@
       "name": "吟霖.jpg",
       "path": "guide/XMu/吟霖.jpg",
       "size": 1202522
+    },
+    {
+      "name": "吟霖.jpg",
+      "path": "guide/XvanEr/吟霖.jpg",
+      "size": 1188462
     },
     {
       "name": "嘉贝莉娜.jpg",
@@ -198,6 +243,11 @@
       "size": 778596
     },
     {
+      "name": "嘉贝莉娜.jpg",
+      "path": "guide/XvanEr/嘉贝莉娜.jpg",
+      "size": 1349010
+    },
+    {
       "name": "坎特蕾拉.jpg",
       "path": "guide/JieXing/坎特蕾拉.jpg",
       "size": 688536
@@ -216,6 +266,11 @@
       "name": "坎特蕾拉.jpg",
       "path": "guide/XMu/坎特蕾拉.jpg",
       "size": 1224560
+    },
+    {
+      "name": "坎特蕾拉.jpg",
+      "path": "guide/XvanEr/坎特蕾拉.jpg",
+      "size": 1229970
     },
     {
       "name": "夏空.jpg",
@@ -243,6 +298,11 @@
       "size": 614680
     },
     {
+      "name": "夏空.jpg",
+      "path": "guide/XvanEr/夏空.jpg",
+      "size": 1283994
+    },
+    {
       "name": "奥古斯塔.jpg",
       "path": "guide/JieXing/奥古斯塔.jpg",
       "size": 585956
@@ -268,6 +328,11 @@
       "size": 1364302
     },
     {
+      "name": "奥古斯塔.jpg",
+      "path": "guide/XvanEr/奥古斯塔.jpg",
+      "size": 1635134
+    },
+    {
       "name": "守岸人.jpg",
       "path": "guide/JieXing/守岸人.jpg",
       "size": 503220
@@ -283,6 +348,11 @@
       "size": 800378
     },
     {
+      "name": "守岸人.jpg",
+      "path": "guide/XvanEr/守岸人.jpg",
+      "size": 1159006
+    },
+    {
       "name": "安可.jpg",
       "path": "guide/JinLingZi/安可.jpg",
       "size": 115062
@@ -296,6 +366,11 @@
       "name": "安可.jpg",
       "path": "guide/XMu/安可.jpg",
       "size": 1573156
+    },
+    {
+      "name": "安可.jpg",
+      "path": "guide/XvanEr/安可.jpg",
+      "size": 1388236
     },
     {
       "name": "尤诺.jpg",
@@ -323,6 +398,11 @@
       "size": 558818
     },
     {
+      "name": "尤诺.jpg",
+      "path": "guide/XvanEr/尤诺.jpg",
+      "size": 1243822
+    },
+    {
       "name": "布兰特.jpg",
       "path": "guide/JieXing/布兰特.jpg",
       "size": 615230
@@ -336,6 +416,11 @@
       "name": "布兰特.jpg",
       "path": "guide/Moealkyne/布兰特.jpg",
       "size": 937050
+    },
+    {
+      "name": "布兰特.jpg",
+      "path": "guide/XvanEr/布兰特.jpg",
+      "size": 1409948
     },
     {
       "name": "弗洛洛.jpg",
@@ -361,6 +446,11 @@
       "name": "弗洛洛.jpg",
       "path": "guide/XiaoYang/弗洛洛.jpg",
       "size": 792122
+    },
+    {
+      "name": "弗洛洛.jpg",
+      "path": "guide/XvanEr/弗洛洛.jpg",
+      "size": 1282072
     },
     {
       "name": "忌炎.jpg",
@@ -398,6 +488,11 @@
       "size": 1395914
     },
     {
+      "name": "折枝.jpg",
+      "path": "guide/XvanEr/折枝.jpg",
+      "size": 1179870
+    },
+    {
       "name": "散华.jpg",
       "path": "guide/JinLingZi/散华.jpg",
       "size": 115758
@@ -411,6 +506,11 @@
       "name": "散华.jpg",
       "path": "guide/XMu/散华.jpg",
       "size": 1624572
+    },
+    {
+      "name": "散华.jpg",
+      "path": "guide/XvanEr/散华.jpg",
+      "size": 1031532
     },
     {
       "name": "桃祈.jpg",
@@ -448,6 +548,11 @@
       "size": 1295820
     },
     {
+      "name": "椿.jpg",
+      "path": "guide/XvanEr/椿.jpg",
+      "size": 1209680
+    },
+    {
       "name": "洛可可.jpg",
       "path": "guide/JieXing/洛可可.jpg",
       "size": 602184
@@ -463,6 +568,11 @@
       "size": 925432
     },
     {
+      "name": "洛可可.jpg",
+      "path": "guide/XvanEr/洛可可.jpg",
+      "size": 1265340
+    },
+    {
       "name": "洛瑟菈.jpg",
       "path": "guide/JieXing/洛瑟菈.jpg",
       "size": 583892
@@ -471,6 +581,11 @@
       "name": "洛瑟菈.jpg",
       "path": "guide/Moealkyne/洛瑟菈.jpg",
       "size": 849202
+    },
+    {
+      "name": "洛瑟菈.jpg",
+      "path": "guide/XvanEr/洛瑟菈.jpg",
+      "size": 1403734
     },
     {
       "name": "清宵.jpg",
@@ -486,6 +601,11 @@
       "name": "清宵.jpg",
       "path": "guide/XMu/清宵.jpg",
       "size": 980828
+    },
+    {
+      "name": "清宵.jpg",
+      "path": "guide/XvanEr/清宵.jpg",
+      "size": 1384276
     },
     {
       "name": "渊武.jpg",
@@ -513,6 +633,11 @@
       "size": 826148
     },
     {
+      "name": "漂泊者·气动.jpg",
+      "path": "guide/XvanEr/漂泊者·气动.jpg",
+      "size": 1234576
+    },
+    {
       "name": "漂泊者·湮灭.jpg",
       "path": "guide/JinLingZi/漂泊者·湮灭.jpg",
       "size": 116636
@@ -536,6 +661,11 @@
       "name": "漂泊者·衍射.jpg",
       "path": "guide/Moealkyne/漂泊者·衍射.jpg",
       "size": 757250
+    },
+    {
+      "name": "漂泊者·衍射.jpg",
+      "path": "guide/XvanEr/漂泊者·衍射.jpg",
+      "size": 1200482
     },
     {
       "name": "灯灯.jpg",
@@ -578,6 +708,11 @@
       "size": 817732
     },
     {
+      "name": "爱弥斯.jpg",
+      "path": "guide/XvanEr/爱弥斯.jpg",
+      "size": 1566238
+    },
+    {
       "name": "珂莱塔.jpg",
       "path": "guide/JieXing/珂莱塔.jpg",
       "size": 626022
@@ -591,6 +726,11 @@
       "name": "珂莱塔.jpg",
       "path": "guide/Moealkyne/珂莱塔.jpg",
       "size": 997388
+    },
+    {
+      "name": "珂莱塔.jpg",
+      "path": "guide/XvanEr/珂莱塔.jpg",
+      "size": 1299092
     },
     {
       "name": "琳奈.jpg",
@@ -616,6 +756,11 @@
       "name": "琳奈.jpg",
       "path": "guide/XMu/琳奈.jpg",
       "size": 1000610
+    },
+    {
+      "name": "琳奈.jpg",
+      "path": "guide/XvanEr/琳奈.jpg",
+      "size": 1374476
     },
     {
       "name": "白芷.jpg",
@@ -651,6 +796,11 @@
       "name": "相里要.jpg",
       "path": "guide/XMu/相里要.jpg",
       "size": 1192568
+    },
+    {
+      "name": "相里要.jpg",
+      "path": "guide/XvanEr/相里要.jpg",
+      "size": 1241422
     },
     {
       "name": "秋水.jpg",
@@ -693,6 +843,11 @@
       "size": 937568
     },
     {
+      "name": "秧秧·玄翎.jpg",
+      "path": "guide/XvanEr/秧秧·玄翎.jpg",
+      "size": 1439142
+    },
+    {
       "name": "穗穗.jpg",
       "path": "guide/JieXing/穗穗.jpg",
       "size": 482916
@@ -706,6 +861,11 @@
       "name": "穗穗.jpg",
       "path": "guide/Moealkyne/穗穗.jpg",
       "size": 970256
+    },
+    {
+      "name": "穗穗.jpg",
+      "path": "guide/XvanEr/穗穗.jpg",
+      "size": 1413320
     },
     {
       "name": "绯雪.jpg",
@@ -723,6 +883,11 @@
       "size": 888298
     },
     {
+      "name": "绯雪.jpg",
+      "path": "guide/XvanEr/绯雪.jpg",
+      "size": 1530716
+    },
+    {
       "name": "维里奈.jpg",
       "path": "guide/JinLingZi/维里奈.jpg",
       "size": 92148
@@ -736,6 +901,11 @@
       "name": "维里奈.jpg",
       "path": "guide/XMu/维里奈.jpg",
       "size": 1227388
+    },
+    {
+      "name": "维里奈.jpg",
+      "path": "guide/XvanEr/维里奈.jpg",
+      "size": 1215712
     },
     {
       "name": "莫宁.jpg",
@@ -758,6 +928,11 @@
       "size": 746784
     },
     {
+      "name": "莫宁.jpg",
+      "path": "guide/XvanEr/莫宁.jpg",
+      "size": 1496586
+    },
+    {
       "name": "莫特斐.jpg",
       "path": "guide/JinLingZi/莫特斐.jpg",
       "size": 115678
@@ -771,6 +946,11 @@
       "name": "莫特斐.jpg",
       "path": "guide/XMu/莫特斐.jpg",
       "size": 1185124
+    },
+    {
+      "name": "莫特斐.jpg",
+      "path": "guide/XvanEr/莫特斐.jpg",
+      "size": 1149372
     },
     {
       "name": "菲比.jpg",
@@ -793,6 +973,11 @@
       "size": 1032056
     },
     {
+      "name": "菲比.jpg",
+      "path": "guide/XvanEr/菲比.jpg",
+      "size": 1258426
+    },
+    {
       "name": "西格莉卡.jpg",
       "path": "guide/JieXing/西格莉卡.jpg",
       "size": 771462
@@ -806,6 +991,11 @@
       "name": "西格莉卡.jpg",
       "path": "guide/Moealkyne/西格莉卡.jpg",
       "size": 841632
+    },
+    {
+      "name": "西格莉卡.jpg",
+      "path": "guide/XvanEr/西格莉卡.jpg",
+      "size": 1576480
     },
     {
       "name": "赞妮.jpg",
@@ -838,6 +1028,11 @@
       "size": 600004
     },
     {
+      "name": "赞妮.jpg",
+      "path": "guide/XvanEr/赞妮.jpg",
+      "size": 1372376
+    },
+    {
       "name": "达妮娅.jpg",
       "path": "guide/JieXing/达妮娅.jpg",
       "size": 735428
@@ -851,6 +1046,11 @@
       "name": "达妮娅.jpg",
       "path": "guide/Moealkyne/达妮娅.jpg",
       "size": 851040
+    },
+    {
+      "name": "达妮娅.jpg",
+      "path": "guide/XvanEr/达妮娅.jpg",
+      "size": 1554686
     },
     {
       "name": "釉瑚.jpg",
@@ -898,6 +1098,11 @@
       "size": 1341248
     },
     {
+      "name": "长离.jpg",
+      "path": "guide/XvanEr/长离.jpg",
+      "size": 1207042
+    },
+    {
       "name": "陆·赫斯.jpg",
       "path": "guide/JieXing/陆·赫斯.jpg",
       "size": 603714
@@ -911,6 +1116,11 @@
       "name": "陆·赫斯.jpg",
       "path": "guide/Moealkyne/陆·赫斯.jpg",
       "size": 888780
+    },
+    {
+      "name": "陆·赫斯.jpg",
+      "path": "guide/XvanEr/陆·赫斯.jpg",
+      "size": 1517552
     },
     {
       "name": "露帕.jpg",
@@ -938,6 +1148,11 @@
       "size": 1007916
     },
     {
+      "name": "露帕.jpg",
+      "path": "guide/XvanEr/露帕.jpg",
+      "size": 1146628
+    },
+    {
       "name": "露西.jpg",
       "path": "guide/JieXing/露西.jpg",
       "size": 748780
@@ -946,6 +1161,11 @@
       "name": "露西.jpg",
       "path": "guide/Moealkyne/露西.jpg",
       "size": 882008
+    },
+    {
+      "name": "露西.jpg",
+      "path": "guide/XvanEr/露西.jpg",
+      "size": 1417802
     }
   ],
   "subdirectories": [
@@ -972,6 +1192,10 @@
     {
       "name": "XiaoYang",
       "path": "guide/XiaoYang/"
+    },
+    {
+      "name": "XvanEr",
+      "path": "guide/XvanEr/"
     }
   ]
 }
