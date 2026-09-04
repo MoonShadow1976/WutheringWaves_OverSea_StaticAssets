@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:47:24Z",
+  "last_updated": "2026-09-04T14:00:05Z",
   "directories": [
     "guide",
     "material",
@@ -10,7 +10,8 @@
     "share",
     "skin",
     "waves_avatar",
+    "waves_circle_avatar",
     "waves_weapon"
   ],
-  "total_index_files": 10
+  "total_index_files": 11
 }
