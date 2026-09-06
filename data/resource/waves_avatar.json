@@ -1,6 +1,6 @@
 {
   "name": "waves_avatar",
-  "last_updated": "2026-09-04T14:00:05Z",
+  "last_updated": "2026-09-06T02:29:41Z",
   "files": [
     {
       "name": "role_head_1102.png",
@@ -151,6 +151,16 @@
       "name": "role_head_1310.png",
       "path": "waves_avatar/role_head_1310.png",
       "size": 18898
+    },
+    {
+      "name": "role_head_1311.png",
+      "path": "waves_avatar/role_head_1311.png",
+      "size": 39776
+    },
+    {
+      "name": "role_head_1312.png",
+      "path": "waves_avatar/role_head_1312.png",
+      "size": 34548
     },
     {
       "name": "role_head_1402.png",
