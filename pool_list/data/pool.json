@@ -4548,5 +4548,155 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2026-09-10 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1546565109816549376",
+        "name": "",
+        "title": "身赴三途",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/76cccf6ff86a4d5da7cc362abf029cc820260907.png",
+        "five_star_ids": [
+            "1212"
+        ],
+        "five_star_names": [
+            "景燃"
+        ],
+        "four_star_ids": [
+            "1204",
+            "1403",
+            "1303"
+        ],
+        "four_star_names": [
+            "莫特斐",
+            "秋水",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-09-10 10:00:00",
+        "end_time": "2026-09-29 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1546583036413710336",
+        "name": "",
+        "title": "雪色所映千般未来",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/88749ad5f36647c3875bc0c2b2141efc20260907.png",
+        "five_star_ids": [
+            "1108"
+        ],
+        "five_star_names": [
+            "绯雪"
+        ],
+        "four_star_ids": [
+            "1204",
+            "1403",
+            "1303"
+        ],
+        "four_star_names": [
+            "莫特斐",
+            "秋水",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-09-10 10:00:00",
+        "end_time": "2026-09-29 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1546583036413710336",
+        "name": "莫宁",
+        "title": "纵使星光于无穷远",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/88749ad5f36647c3875bc0c2b2141efc20260907.png",
+        "five_star_ids": [
+            "1209"
+        ],
+        "five_star_names": [
+            "莫宁"
+        ],
+        "four_star_ids": [
+            "1204",
+            "1403",
+            "1303"
+        ],
+        "four_star_names": [
+            "莫特斐",
+            "秋水",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-09-10 10:00:00",
+        "end_time": "2026-09-29 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1546568008972005376",
+        "name": "千般渡",
+        "title": "千般渡",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/78317db69df8406ca0478a1d6a749b4720260907.png",
+        "five_star_ids": [
+            "21010076"
+        ],
+        "five_star_names": [
+            "千般渡"
+        ],
+        "four_star_ids": [
+            "21010084",
+            "21010024",
+            "21030064"
+        ],
+        "four_star_names": [
+            "凋亡频移",
+            "异响空灵",
+            "飞逝"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-09-10 10:00:00",
+        "end_time": "2026-09-29 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1546583036413710336",
+        "name": "宙算仪轨",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/88749ad5f36647c3875bc0c2b2141efc20260907.png",
+        "five_star_ids": [
+            "21010066"
+        ],
+        "five_star_names": [
+            "宙算仪轨"
+        ],
+        "four_star_ids": [
+            "21010084",
+            "21010024",
+            "21030064"
+        ],
+        "four_star_names": [
+            "凋亡频移",
+            "异响空灵",
+            "飞逝"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-09-10 10:00:00",
+        "end_time": "2026-09-29 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1546583036413710336",
+        "name": "灼霜",
+        "title": "灼霜",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/88749ad5f36647c3875bc0c2b2141efc20260907.png",
+        "five_star_ids": [
+            "21020086"
+        ],
+        "five_star_names": [
+            "灼霜"
+        ],
+        "four_star_ids": [
+            "21010084",
+            "21010024",
+            "21030064"
+        ],
+        "four_star_names": [
+            "凋亡频移",
+            "异响空灵",
+            "飞逝"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-09-10 10:00:00",
+        "end_time": "2026-09-29 11:59:59"
     }
 ]
