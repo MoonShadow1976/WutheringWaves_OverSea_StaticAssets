@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-09-06T08:15:04Z",
+  "last_updated": "2026-09-10T10:43:10Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -511,6 +511,11 @@
       "name": "散华.jpg",
       "path": "guide/XvanEr/散华.jpg",
       "size": 1031532
+    },
+    {
+      "name": "景燃.jpg",
+      "path": "guide/JieXing/景燃.jpg",
+      "size": 513288
     },
     {
       "name": "桃祈.jpg",
