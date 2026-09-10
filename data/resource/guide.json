@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-09-10T10:44:09Z",
+  "last_updated": "2026-09-10T10:44:42Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -526,6 +526,11 @@
       "name": "景燃.jpg",
       "path": "guide/Moealkyne/景燃.jpg",
       "size": 878810
+    },
+    {
+      "name": "景燃.jpg",
+      "path": "guide/XvanEr/景燃.jpg",
+      "size": 1492270
     },
     {
       "name": "桃祈.jpg",
