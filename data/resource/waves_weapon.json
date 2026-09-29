@@ -1,6 +1,6 @@
 {
   "name": "waves_weapon",
-  "last_updated": "2026-09-10T10:44:42Z",
+  "last_updated": "2026-09-29T15:04:57Z",
   "files": [
     {
       "name": "weapon_21010011.png",
@@ -256,6 +256,11 @@
       "name": "weapon_21020106.png",
       "path": "waves_weapon/weapon_21020106.png",
       "size": 31814
+    },
+    {
+      "name": "weapon_21020107.png",
+      "path": "waves_weapon/weapon_21020107.png",
+      "size": 36884
     },
     {
       "name": "weapon_21030011.png",
@@ -611,6 +616,11 @@
       "name": "weapon_21050104.png",
       "path": "waves_weapon/weapon_21050104.png",
       "size": 14060
+    },
+    {
+      "name": "weapon_21050116.png",
+      "path": "waves_weapon/weapon_21050116.png",
+      "size": 46834
     }
   ],
   "subdirectories": []
