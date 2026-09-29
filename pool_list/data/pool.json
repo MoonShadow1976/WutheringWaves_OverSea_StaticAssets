@@ -4698,5 +4698,155 @@
         "pool_type": "武器活动唤取",
         "start_time": "2026-09-10 10:00:00",
         "end_time": "2026-09-29 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1554096755014008832",
+        "name": "千咲",
+        "title": "曙暮一线之间",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b80d5acfb7c249ecbb44c1156422fd4a20260928.jpeg",
+        "five_star_ids": [
+            "1508"
+        ],
+        "five_star_names": [
+            "千咲"
+        ],
+        "four_star_ids": [
+            "1307",
+            "1601",
+            "1106"
+        ],
+        "four_star_names": [
+            "卜灵",
+            "桃祈",
+            "釉瑚"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-10-22 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1554096755014008832",
+        "name": "尤诺",
+        "title": "漫于盈缺时轴",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b80d5acfb7c249ecbb44c1156422fd4a20260928.jpeg",
+        "five_star_ids": [
+            "1410"
+        ],
+        "five_star_names": [
+            "尤诺"
+        ],
+        "four_star_ids": [
+            "1307",
+            "1601",
+            "1106"
+        ],
+        "four_star_names": [
+            "卜灵",
+            "桃祈",
+            "釉瑚"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-10-22 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1554095213865066496",
+        "name": "",
+        "title": "但愿长圆如此夜",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/ccb5f40ec3eb4993a33eaa5fbc28488020260928.jpeg",
+        "five_star_ids": [
+            "1311"
+        ],
+        "five_star_names": [
+            "心"
+        ],
+        "four_star_ids": [
+            "1307",
+            "1601",
+            "1106"
+        ],
+        "four_star_names": [
+            "卜灵",
+            "桃祈",
+            "釉瑚"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-10-22 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1554096755014008832",
+        "name": "万物持存的注释",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b80d5acfb7c249ecbb44c1156422fd4a20260928.jpeg",
+        "five_star_ids": [
+            "21040046"
+        ],
+        "five_star_names": [
+            "万物持存的注释"
+        ],
+        "four_star_ids": [
+            "21050084",
+            "21020044",
+            "21010044"
+        ],
+        "four_star_names": [
+            "核熔星盘",
+            "不归孤军",
+            "永夜长明"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-10-22 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1554096755014008832",
+        "name": "昙切",
+        "title": "昙切",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b80d5acfb7c249ecbb44c1156422fd4a20260928.jpeg",
+        "five_star_ids": [
+            "21010056"
+        ],
+        "five_star_names": [
+            "昙切"
+        ],
+        "four_star_ids": [
+            "21050084",
+            "21020044",
+            "21010044"
+        ],
+        "four_star_names": [
+            "核熔星盘",
+            "不归孤军",
+            "永夜长明"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-10-22 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1554095802058051584",
+        "name": "玉阙玄华",
+        "title": "玉阙玄华",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/24c1db034a6c4570976112590b9e490720260928.jpeg",
+        "five_star_ids": [
+            "21050116"
+        ],
+        "five_star_names": [
+            "玉阙玄华"
+        ],
+        "four_star_ids": [
+            "21050084",
+            "21020044",
+            "21010044"
+        ],
+        "four_star_names": [
+            "核熔星盘",
+            "不归孤军",
+            "永夜长明"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2026-10-22 09:59:59"
     }
 ]
