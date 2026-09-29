@@ -1,6 +1,6 @@
 {
   "name": "skin",
-  "last_updated": "2026-09-10T10:44:42Z",
+  "last_updated": "2026-09-29T15:04:57Z",
   "files": [
     {
       "name": "「为你闪烁的星光」.png",
@@ -26,6 +26,11 @@
       "name": "云岚疏影.png",
       "path": "skin/ornament/云岚疏影.png",
       "size": 3806
+    },
+    {
+      "name": "何处梦清辉.png",
+      "path": "skin/ornament/何处梦清辉.png",
+      "size": 5502
     },
     {
       "name": "凯旋时刻.png",
@@ -68,6 +73,11 @@
       "size": 4328
     },
     {
+      "name": "布是偶.png",
+      "path": "skin/ornament/布是偶.png",
+      "size": 5382
+    },
+    {
       "name": "心之锚.png",
       "path": "skin/weapon/心之锚.png",
       "size": 8322
@@ -96,6 +106,11 @@
       "name": "心象音感仪.png",
       "path": "skin/weapon/心象音感仪.png",
       "size": 11404
+    },
+    {
+      "name": "承春.png",
+      "path": "skin/ornament/承春.png",
+      "size": 8666
     },
     {
       "name": "折映万彩.png",
@@ -151,6 +166,11 @@
       "name": "桃夭灼灼.png",
       "path": "skin/weapon/桃夭灼灼.png",
       "size": 7670
+    },
+    {
+      "name": "沉琉璃.png",
+      "path": "skin/ornament/沉琉璃.png",
+      "size": 4554
     },
     {
       "name": "爪垫指挥家.png",

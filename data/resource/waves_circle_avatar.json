@@ -1,6 +1,6 @@
 {
   "name": "waves_circle_avatar",
-  "last_updated": "2026-09-10T10:44:42Z",
+  "last_updated": "2026-09-29T15:04:57Z",
   "files": [
     {
       "name": "role_circle_head_1102.png",
@@ -151,6 +151,16 @@
       "name": "role_circle_head_1310.png",
       "path": "waves_circle_avatar/role_circle_head_1310.png",
       "size": 8148
+    },
+    {
+      "name": "role_circle_head_1311.png",
+      "path": "waves_circle_avatar/role_circle_head_1311.png",
+      "size": 9868
+    },
+    {
+      "name": "role_circle_head_1312.png",
+      "path": "waves_circle_avatar/role_circle_head_1312.png",
+      "size": 11120
     },
     {
       "name": "role_circle_head_1402.png",

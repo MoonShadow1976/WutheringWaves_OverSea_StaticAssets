@@ -1,6 +1,6 @@
 {
   "name": "role_detail",
-  "last_updated": "2026-09-10T10:44:42Z",
+  "last_updated": "2026-09-29T15:04:57Z",
   "files": [
     {
       "name": "chain_1.png",
@@ -3119,6 +3119,16 @@
     },
     {
       "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1311/skill_攻击提升.png",
+      "size": 2848
+    },
+    {
+      "name": "skill_攻击提升.png",
+      "path": "role_detail/skill/1312/skill_攻击提升.png",
+      "size": 2848
+    },
+    {
+      "name": "skill_攻击提升.png",
       "path": "role_detail/skill/1402/skill_攻击提升.png",
       "size": 2920
     },
@@ -3531,6 +3541,16 @@
       "name": "skill_暴击提升.png",
       "path": "role_detail/skill/1310/skill_暴击提升.png",
       "size": 2790
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1311/skill_暴击提升.png",
+      "size": 2878
+    },
+    {
+      "name": "skill_暴击提升.png",
+      "path": "role_detail/skill/1312/skill_暴击提升.png",
+      "size": 2878
     },
     {
       "name": "skill_暴击提升.png",
@@ -4884,6 +4904,11 @@
     },
     {
       "name": "skill_谐度破坏·迅刀.png",
+      "path": "role_detail/skill/1312/skill_谐度破坏·迅刀.png",
+      "size": 3350
+    },
+    {
+      "name": "skill_谐度破坏·迅刀.png",
       "path": "role_detail/skill/1402/skill_谐度破坏·迅刀.png",
       "size": 3508
     },
@@ -5021,6 +5046,11 @@
       "name": "skill_谐度破坏·音感仪.png",
       "path": "role_detail/skill/1307/skill_谐度破坏·音感仪.png",
       "size": 3426
+    },
+    {
+      "name": "skill_谐度破坏·音感仪.png",
+      "path": "role_detail/skill/1311/skill_谐度破坏·音感仪.png",
+      "size": 3278
     },
     {
       "name": "skill_谐度破坏·音感仪.png",
