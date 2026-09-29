@@ -1,11 +1,11 @@
 {
   "name": "skin",
-  "last_updated": "2026-09-29T15:04:57Z",
+  "last_updated": "2026-09-29T16:43:11Z",
   "files": [
     {
       "name": "「为你闪烁的星光」.png",
       "path": "skin/ornament/「为你闪烁的星光」.png",
-      "size": 7614
+      "size": 7556
     },
     {
       "name": "「伴你同行的星轨」.png",
@@ -15,7 +15,7 @@
     {
       "name": "「穿行昼夜的自由之鸽」.png",
       "path": "skin/ornament/「穿行昼夜的自由之鸽」.png",
-      "size": 4586
+      "size": 4560
     },
     {
       "name": "云中雀.png",
@@ -35,7 +35,7 @@
     {
       "name": "凯旋时刻.png",
       "path": "skin/fly/凯旋时刻.png",
-      "size": 8634
+      "size": 8664
     },
     {
       "name": "千技成锋.png",
@@ -45,17 +45,17 @@
     {
       "name": "叱妖诰.png",
       "path": "skin/role/叱妖诰.png",
-      "size": 78414
+      "size": 78506
     },
     {
       "name": "呢绒梦.png",
       "path": "skin/role/呢绒梦.png",
-      "size": 69338
+      "size": 69110
     },
     {
       "name": "城市午茶.png",
       "path": "skin/role/城市午茶.png",
-      "size": 81274
+      "size": 81294
     },
     {
       "name": "夏日旖旎.png",
@@ -65,7 +65,7 @@
     {
       "name": "大海的馈赠.png",
       "path": "skin/weapon/大海的馈赠.png",
-      "size": 8702
+      "size": 8654
     },
     {
       "name": "宿雪玄猫.png",
@@ -80,32 +80,32 @@
     {
       "name": "心之锚.png",
       "path": "skin/weapon/心之锚.png",
-      "size": 8322
+      "size": 8420
     },
     {
       "name": "心象佩枪.png",
       "path": "skin/weapon/心象佩枪.png",
-      "size": 6602
+      "size": 6620
     },
     {
       "name": "心象臂铠.png",
       "path": "skin/weapon/心象臂铠.png",
-      "size": 8862
+      "size": 8786
     },
     {
       "name": "心象迅刀.png",
       "path": "skin/weapon/心象迅刀.png",
-      "size": 8100
+      "size": 8134
     },
     {
       "name": "心象长刃.png",
       "path": "skin/weapon/心象长刃.png",
-      "size": 7304
+      "size": 7310
     },
     {
       "name": "心象音感仪.png",
       "path": "skin/weapon/心象音感仪.png",
-      "size": 11404
+      "size": 11394
     },
     {
       "name": "承春.png",
@@ -115,22 +115,22 @@
     {
       "name": "折映万彩.png",
       "path": "skin/ornament/折映万彩.png",
-      "size": 4834
+      "size": 4658
     },
     {
       "name": "摘桂之人.png",
       "path": "skin/fly/摘桂之人.png",
-      "size": 7602
+      "size": 7614
     },
     {
       "name": "无念.png",
       "path": "skin/ornament/无念.png",
-      "size": 7268
+      "size": 7256
     },
     {
       "name": "星海的一角.png",
       "path": "skin/ornament/星海的一角.png",
-      "size": 8234
+      "size": 8222
     },
     {
       "name": "星火永明.png",
@@ -145,12 +145,12 @@
     {
       "name": "晴日.png",
       "path": "skin/fly/晴日.png",
-      "size": 9068
+      "size": 9054
     },
     {
       "name": "枕霞间.png",
       "path": "skin/ornament/枕霞间.png",
-      "size": 7686
+      "size": 7436
     },
     {
       "name": "桂枝宁芙.png",
@@ -165,7 +165,7 @@
     {
       "name": "桃夭灼灼.png",
       "path": "skin/weapon/桃夭灼灼.png",
-      "size": 7670
+      "size": 7654
     },
     {
       "name": "沉琉璃.png",
@@ -175,12 +175,12 @@
     {
       "name": "爪垫指挥家.png",
       "path": "skin/ornament/爪垫指挥家.png",
-      "size": 7390
+      "size": 7224
     },
     {
       "name": "筑昼辉砾.png",
       "path": "skin/calabash/筑昼辉砾.png",
-      "size": 9806
+      "size": 9764
     },
     {
       "name": "缀星纺宙之缍.png",
@@ -190,12 +190,12 @@
     {
       "name": "茜色天空.png",
       "path": "skin/fly/茜色天空.png",
-      "size": 8532
+      "size": 8562
     },
     {
       "name": "荆辉黎明.png",
       "path": "skin/fly/荆辉黎明.png",
-      "size": 10064
+      "size": 10120
     },
     {
       "name": "薄荷糖.png",
@@ -210,7 +210,7 @@
     {
       "name": "达妮娅玩偶.png",
       "path": "skin/ornament/达妮娅玩偶.png",
-      "size": 5918
+      "size": 5946
     },
     {
       "name": "雪绒豹豹.png",
@@ -220,7 +220,7 @@
     {
       "name": "频录装置.png",
       "path": "skin/calabash/频录装置.png",
-      "size": 9522
+      "size": 9418
     }
   ],
   "subdirectories": [
