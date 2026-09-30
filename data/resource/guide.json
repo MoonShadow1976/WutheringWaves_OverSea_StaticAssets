@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-09-30T03:56:34Z",
+  "last_updated": "2026-09-30T16:18:53Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -466,6 +466,11 @@
       "name": "心.jpg",
       "path": "guide/Moealkyne/心.jpg",
       "size": 1009118
+    },
+    {
+      "name": "心.jpg",
+      "path": "guide/XvanEr/心.jpg",
+      "size": 1449544
     },
     {
       "name": "忌炎.jpg",
