@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-09-30T03:55:04Z",
+  "last_updated": "2026-09-30T03:56:00Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -456,6 +456,11 @@
       "name": "心.jpg",
       "path": "guide/JieXing/心.jpg",
       "size": 396238
+    },
+    {
+      "name": "心.jpg",
+      "path": "guide/JinLingZi/心.jpg",
+      "size": 777726
     },
     {
       "name": "忌炎.jpg",
