@@ -1,6 +1,6 @@
 {
   "name": "guide",
-  "last_updated": "2026-10-22T05:10:41Z",
+  "last_updated": "2026-10-22T05:13:18Z",
   "files": [
     {
       "name": "丹瑾.jpg",
@@ -1126,6 +1126,11 @@
       "name": "鉴心.jpg",
       "path": "guide/XMu/鉴心.jpg",
       "size": 1683072
+    },
+    {
+      "name": "锁暝.jpg",
+      "path": "guide/JinLingZi/锁暝.jpg",
+      "size": 2198567
     },
     {
       "name": "锁暝.jpg",
