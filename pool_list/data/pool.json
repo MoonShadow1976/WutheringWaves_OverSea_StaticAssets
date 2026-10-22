@@ -4848,5 +4848,155 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2026-10-22 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1562066662997704704",
+        "name": "",
+        "title": "显影于明日",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/98fb4a6f6cf2464ca4142d7932d6dc2220261020.jpeg",
+        "five_star_ids": [
+            "1109"
+        ],
+        "five_star_names": [
+            "洛瑟菈"
+        ],
+        "four_star_ids": [
+            "1504",
+            "1602",
+            "1202"
+        ],
+        "four_star_names": [
+            "灯灯",
+            "丹瑾",
+            "炽霞"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-10-22 10:00:00",
+        "end_time": "2026-11-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1562066662997704704",
+        "name": "",
+        "title": "非定义光谱",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/98fb4a6f6cf2464ca4142d7932d6dc2220261020.jpeg",
+        "five_star_ids": [
+            "1509"
+        ],
+        "five_star_names": [
+            "琳奈"
+        ],
+        "four_star_ids": [
+            "1504",
+            "1602",
+            "1202"
+        ],
+        "four_star_names": [
+            "灯灯",
+            "丹瑾",
+            "炽霞"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-10-22 10:00:00",
+        "end_time": "2026-11-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1562064227775750144",
+        "name": "",
+        "title": "余心所向九死未悔",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/789fb4f91d624fb5a247c1d96ea0ff4220261020.jpeg",
+        "five_star_ids": [
+            "1312"
+        ],
+        "five_star_names": [
+            "锁暝"
+        ],
+        "four_star_ids": [
+            "1504",
+            "1602",
+            "1202"
+        ],
+        "four_star_names": [
+            "灯灯",
+            "丹瑾",
+            "炽霞"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2026-10-22 10:00:00",
+        "end_time": "2026-11-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1562066662997704704",
+        "name": "存帧",
+        "title": "存帧",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/98fb4a6f6cf2464ca4142d7932d6dc2220261020.jpeg",
+        "five_star_ids": [
+            "21050086"
+        ],
+        "five_star_names": [
+            "存帧"
+        ],
+        "four_star_ids": [
+            "21020024",
+            "21030084",
+            "21040044"
+        ],
+        "four_star_names": [
+            "行进序曲",
+            "悖论喷流",
+            "袍泽之固"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-10-22 10:00:00",
+        "end_time": "2026-11-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1562065630236315648",
+        "name": "沉冥",
+        "title": "沉冥",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/d5cf6a1a5ad84101b400113d38889ca620261020.png",
+        "five_star_ids": [
+            "21020107"
+        ],
+        "five_star_names": [
+            "沉冥"
+        ],
+        "four_star_ids": [
+            "21020024",
+            "21030084",
+            "21040044"
+        ],
+        "four_star_names": [
+            "行进序曲",
+            "悖论喷流",
+            "袍泽之固"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-10-22 10:00:00",
+        "end_time": "2026-11-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1562066662997704704",
+        "name": "溢彩荧辉",
+        "title": "溢彩荧辉",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/98fb4a6f6cf2464ca4142d7932d6dc2220261020.jpeg",
+        "five_star_ids": [
+            "21030046"
+        ],
+        "five_star_names": [
+            "溢彩荧辉"
+        ],
+        "four_star_ids": [
+            "21020024",
+            "21030084",
+            "21040044"
+        ],
+        "four_star_names": [
+            "行进序曲",
+            "悖论喷流",
+            "袍泽之固"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2026-10-22 10:00:00",
+        "end_time": "2026-11-11 11:59:59"
     }
 ]
