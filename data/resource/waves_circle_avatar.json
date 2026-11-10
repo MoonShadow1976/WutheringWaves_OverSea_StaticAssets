@@ -1,6 +1,6 @@
 {
   "name": "waves_circle_avatar",
-  "last_updated": "2026-10-22T11:05:12Z",
+  "last_updated": "2026-11-10T15:37:56Z",
   "files": [
     {
       "name": "role_circle_head_1102.png",
@@ -278,6 +278,11 @@
       "size": 9530
     },
     {
+      "name": "role_circle_head_1512.png",
+      "path": "waves_circle_avatar/role_circle_head_1512.png",
+      "size": 9228
+    },
+    {
       "name": "role_circle_head_1601.png",
       "path": "waves_circle_avatar/role_circle_head_1601.png",
       "size": 9576
@@ -331,6 +336,11 @@
       "name": "role_skin_circle_head_1107.png",
       "path": "waves_circle_avatar/role_skin_circle_head_1107.png",
       "size": 9162
+    },
+    {
+      "name": "role_skin_circle_head_1108.png",
+      "path": "waves_circle_avatar/role_skin_circle_head_1108.png",
+      "size": 9876
     },
     {
       "name": "role_skin_circle_head_1205.png",

@@ -1,6 +1,6 @@
 {
   "name": "waves_weapon",
-  "last_updated": "2026-10-22T11:05:12Z",
+  "last_updated": "2026-11-10T15:37:56Z",
   "files": [
     {
       "name": "weapon_21010011.png",
@@ -356,6 +356,11 @@
       "name": "weapon_21030074.png",
       "path": "waves_weapon/weapon_21030074.png",
       "size": 10354
+    },
+    {
+      "name": "weapon_21030076.png",
+      "path": "waves_weapon/weapon_21030076.png",
+      "size": 15824
     },
     {
       "name": "weapon_21030084.png",
