@@ -1,6 +1,6 @@
 {
   "name": "skin",
-  "last_updated": "2026-10-22T11:05:12Z",
+  "last_updated": "2026-11-10T15:37:56Z",
   "files": [
     {
       "name": "「为你闪烁的星光」.png",
@@ -148,6 +148,11 @@
       "size": 9054
     },
     {
+      "name": "月沉霜.png",
+      "path": "skin/role/月沉霜.png",
+      "size": 86498
+    },
+    {
       "name": "枕霞间.png",
       "path": "skin/ornament/枕霞间.png",
       "size": 7436
@@ -173,6 +178,11 @@
       "size": 4554
     },
     {
+      "name": "灼樱.png",
+      "path": "skin/ornament/灼樱.png",
+      "size": 3428
+    },
+    {
       "name": "爪垫指挥家.png",
       "path": "skin/ornament/爪垫指挥家.png",
       "size": 7224
@@ -195,7 +205,7 @@
     {
       "name": "荆辉黎明.png",
       "path": "skin/fly/荆辉黎明.png",
-      "size": 10120
+      "size": 10400
     },
     {
       "name": "薄荷糖.png",
